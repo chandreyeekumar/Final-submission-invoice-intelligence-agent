@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Bryant-Hickman",
+  "vendor_address": "USS Ellis, FPO AP 13605",
+  "vendor_tax_id": "TAX00000016",
+  "vendor_bank_account": "XXXX9891",
+  "invoice_number": "BRY-00072",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-04-13",
+  "purchase_order_number": "PO-00072",
+  "currency": "INR",
+  "subtotal": 8300.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1494.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9794.0,
+  "amount_due": 9794.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "159",
+      "tax_rate": "0.18",
+      "line_total": "636"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "296",
+      "tax_rate": "0.18",
+      "line_total": "1480"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "244",
+      "tax_rate": "0.18",
+      "line_total": "976"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "326",
+      "tax_rate": "0.18",
+      "line_total": "326"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "475",
+      "tax_rate": "0.18",
+      "line_total": "475"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "396",
+      "tax_rate": "0.18",
+      "line_total": "1584"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "329",
+      "tax_rate": "0.18",
+      "line_total": "987"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "33",
+      "tax_rate": "0.18",
+      "line_total": "99"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "137",
+      "tax_rate": "0.18",
+      "line_total": "137"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "320",
+      "tax_rate": "0.18",
+      "line_total": "1600"
+    }
+  ],
+  "warnings": []
+}

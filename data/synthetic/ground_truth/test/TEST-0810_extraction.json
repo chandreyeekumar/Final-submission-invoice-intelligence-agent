@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Pena, Marshall and Ramos",
+  "vendor_address": "214 Davis Terrace Apt. 433, North Brandon, NJ 80621",
+  "vendor_tax_id": "TAX00000025",
+  "vendor_bank_account": "XXXX5977",
+  "invoice_number": "PEN-00810",
+  "invoice_date": "2026-04-01",
+  "due_date": "2026-05-01",
+  "purchase_order_number": "PO-00810",
+  "currency": "INR",
+  "subtotal": 3383.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 608.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3991.94,
+  "amount_due": 3991.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "85",
+      "tax_rate": "0.18",
+      "line_total": "255"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "214",
+      "tax_rate": "0.18",
+      "line_total": "642"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "397",
+      "tax_rate": "0.18",
+      "line_total": "1985"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "179",
+      "tax_rate": "0.18",
+      "line_total": "179"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "322",
+      "tax_rate": "0.18",
+      "line_total": "322"
+    }
+  ],
+  "warnings": []
+}

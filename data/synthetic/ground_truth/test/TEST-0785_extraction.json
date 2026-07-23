@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 785",
+  "vendor_address": "880 Walter River, New Nicholas, GA 24204",
+  "vendor_tax_id": "TAX00000082",
+  "vendor_bank_account": "XXXX2167",
+  "invoice_number": "COO-00785",
+  "invoice_date": "2026-03-07",
+  "due_date": "2026-04-06",
+  "purchase_order_number": "PO-00785",
+  "currency": "USD",
+  "subtotal": 909.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 163.62,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1072.62,
+  "amount_due": 1072.62,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "60",
+      "tax_rate": "0.18",
+      "line_total": "240"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "223",
+      "tax_rate": "0.18",
+      "line_total": "669"
+    }
+  ],
+  "warnings": []
+}

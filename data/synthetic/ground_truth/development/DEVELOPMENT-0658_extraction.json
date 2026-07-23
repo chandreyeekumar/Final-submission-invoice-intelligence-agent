@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Gonzales, Huber and Morgan",
+  "vendor_address": "8416 Ryan View Apt. 845, North Markport, ME 58948",
+  "vendor_tax_id": "TAX00000091",
+  "vendor_bank_account": "XXXX3139",
+  "invoice_number": "GON-00658",
+  "invoice_date": "2026-04-29",
+  "due_date": "2026-05-29",
+  "purchase_order_number": "PO-00658",
+  "currency": "USD",
+  "subtotal": 619.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 111.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 730.42,
+  "amount_due": 730.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "453",
+      "tax_rate": "0.18",
+      "line_total": "453"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "83",
+      "tax_rate": "0.18",
+      "line_total": "166"
+    }
+  ],
+  "warnings": []
+}

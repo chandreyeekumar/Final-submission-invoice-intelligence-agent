@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Lozano, Services",
+  "vendor_address": "74596 Melissa Walk, Finleyfort, VI 71413",
+  "vendor_tax_id": "TAX00000051",
+  "vendor_bank_account": "XXXX1876",
+  "invoice_number": "LOZ-00917",
+  "invoice_date": "2026-01-18",
+  "due_date": "2026-02-17",
+  "purchase_order_number": "PO-00917",
+  "currency": "USD",
+  "subtotal": 1625.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 292.5,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1917.5,
+  "amount_due": 1917.5,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "430",
+      "tax_rate": "0.18",
+      "line_total": "430"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "239",
+      "tax_rate": "0.18",
+      "line_total": "1195"
+    }
+  ],
+  "warnings": []
+}

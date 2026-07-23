@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 928",
+  "vendor_address": "3524 Jean Crossroad, Brandonton, OH 38791",
+  "vendor_tax_id": "TAX00000038",
+  "vendor_bank_account": "XXXX6482",
+  "invoice_number": "BRA-00928",
+  "invoice_date": "2026-01-29",
+  "due_date": "2026-02-28",
+  "purchase_order_number": "PO-00928",
+  "currency": "EUR",
+  "subtotal": 8104.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1458.72,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9562.72,
+  "amount_due": 9562.72,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "282",
+      "tax_rate": "0.18",
+      "line_total": "1128"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "492",
+      "tax_rate": "0.18",
+      "line_total": "1968"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "148",
+      "tax_rate": "0.18",
+      "line_total": "296"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "121",
+      "tax_rate": "0.18",
+      "line_total": "242"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "221",
+      "tax_rate": "0.18",
+      "line_total": "663"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "318",
+      "tax_rate": "0.18",
+      "line_total": "318"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "179",
+      "tax_rate": "0.18",
+      "line_total": "895"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "426",
+      "tax_rate": "0.18",
+      "line_total": "852"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "778"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "241",
+      "tax_rate": "0.18",
+      "line_total": "964"
+    }
+  ],
+  "warnings": []
+}

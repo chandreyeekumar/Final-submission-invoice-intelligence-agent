@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Gonzales, Huber and Morgan",
+  "vendor_address": "8416 Ryan View Apt. 845, North Markport, ME 58948",
+  "vendor_tax_id": "TAX00000091",
+  "vendor_bank_account": "XXXX3139",
+  "invoice_number": "GON-00576",
+  "invoice_date": "2026-02-06",
+  "due_date": "2026-03-08",
+  "purchase_order_number": "PO-00576",
+  "currency": "USD",
+  "subtotal": 8876.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1597.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10473.68,
+  "amount_due": 10473.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "142",
+      "tax_rate": "0.18",
+      "line_total": "426"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "78",
+      "tax_rate": "0.18",
+      "line_total": "390"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "397",
+      "tax_rate": "0.18",
+      "line_total": "1588"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "466",
+      "tax_rate": "0.18",
+      "line_total": "2330"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "405",
+      "tax_rate": "0.18",
+      "line_total": "810"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "184",
+      "tax_rate": "0.18",
+      "line_total": "368"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "479",
+      "tax_rate": "0.18",
+      "line_total": "1437"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "277",
+      "tax_rate": "0.18",
+      "line_total": "831"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "161",
+      "tax_rate": "0.18",
+      "line_total": "644"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "52",
+      "tax_rate": "0.18",
+      "line_total": "52"
+    }
+  ],
+  "warnings": []
+}

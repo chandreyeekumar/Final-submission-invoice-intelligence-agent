@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Armstrong-Andrews",
+  "vendor_address": "Unit 4064 Box 0909, DPO AP 65608",
+  "vendor_tax_id": "TAX00000055",
+  "vendor_bank_account": "XXXX4315",
+  "invoice_number": "ARM-00850",
+  "invoice_date": "2026-05-11",
+  "due_date": "2026-06-10",
+  "purchase_order_number": "PO-00850",
+  "currency": "INR",
+  "subtotal": 7497.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1349.46,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8846.46,
+  "amount_due": 8846.46,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "115",
+      "tax_rate": "0.18",
+      "line_total": "575"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "163",
+      "tax_rate": "0.18",
+      "line_total": "326"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "462",
+      "tax_rate": "0.18",
+      "line_total": "462"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "378",
+      "tax_rate": "0.18",
+      "line_total": "1134"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "361",
+      "tax_rate": "0.18",
+      "line_total": "722"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "121",
+      "tax_rate": "0.18",
+      "line_total": "484"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "381",
+      "tax_rate": "0.18",
+      "line_total": "1524"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "378",
+      "tax_rate": "0.18",
+      "line_total": "378"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "332",
+      "tax_rate": "0.18",
+      "line_total": "1660"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "116",
+      "tax_rate": "0.18",
+      "line_total": "232"
+    }
+  ],
+  "warnings": []
+}

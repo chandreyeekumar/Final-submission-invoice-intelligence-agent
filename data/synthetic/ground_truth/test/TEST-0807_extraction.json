@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Mejia Inc",
+  "vendor_address": "4752 Kelly Skyway, Jacquelineland, PA 83728",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX8935",
+  "invoice_number": "MEJ-00807",
+  "invoice_date": "2026-03-29",
+  "due_date": "2026-04-28",
+  "purchase_order_number": "PO-00807",
+  "currency": "EUR",
+  "subtotal": 5400.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 972.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6372.0,
+  "amount_due": 6372.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "412",
+      "tax_rate": "0.18",
+      "line_total": "1648"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "132",
+      "tax_rate": "0.18",
+      "line_total": "396"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "360",
+      "tax_rate": "0.18",
+      "line_total": "1080"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "479",
+      "tax_rate": "0.18",
+      "line_total": "1916"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "360",
+      "tax_rate": "0.18",
+      "line_total": "360"
+    }
+  ],
+  "warnings": []
+}

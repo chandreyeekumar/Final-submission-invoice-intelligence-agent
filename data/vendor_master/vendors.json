@@ -1,0 +1,1802 @@
+[
+  {
+    "vendor_id": "V0001",
+    "legal_name": "Rodriguez, Figueroa and Sanchez",
+    "aliases": [
+      "Rodriguez, Figueroa and Sanchez",
+      "Rodriguez, Services"
+    ],
+    "address": "819 Johnson Course, East William, AK 74064",
+    "tax_id": "TAX00000001",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "ROD",
+    "bank_last4": "0409",
+    "active": true
+  },
+  {
+    "vendor_id": "V0002",
+    "legal_name": "Baldwin Ltd",
+    "aliases": [
+      "Baldwin Ltd",
+      "Baldwin Services"
+    ],
+    "address": "9402 Peterson Drives, Port Matthew, CO 50298",
+    "tax_id": "TAX00000002",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "BAL",
+    "bank_last4": "4012",
+    "active": true
+  },
+  {
+    "vendor_id": "V0003",
+    "legal_name": "Howard LLC",
+    "aliases": [
+      "Howard",
+      "Howard Services"
+    ],
+    "address": "781 Miller Hill, Barbaraland, AZ 87174",
+    "tax_id": "TAX00000003",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "HOW",
+    "bank_last4": "1679",
+    "active": true
+  },
+  {
+    "vendor_id": "V0004",
+    "legal_name": "Mejia Inc",
+    "aliases": [
+      "Mejia Inc",
+      "Mejia Services"
+    ],
+    "address": "4752 Kelly Skyway, Jacquelineland, PA 83728",
+    "tax_id": "TAX00000004",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "MEJ",
+    "bank_last4": "8935",
+    "active": true
+  },
+  {
+    "vendor_id": "V0005",
+    "legal_name": "Ferguson and Sons",
+    "aliases": [
+      "Ferguson Services",
+      "Ferguson and Sons"
+    ],
+    "address": "8350 Lydia Valley Suite 641, New Nancy, MD 28370",
+    "tax_id": "TAX00000005",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "FER",
+    "bank_last4": "6912",
+    "active": true
+  },
+  {
+    "vendor_id": "V0006",
+    "legal_name": "Porter, Wilkerson and Day",
+    "aliases": [
+      "Porter, Services",
+      "Porter, Wilkerson and Day"
+    ],
+    "address": "88496 Cox Dam, Daviston, VI 14872",
+    "tax_id": "TAX00000006",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "POR",
+    "bank_last4": "1535",
+    "active": true
+  },
+  {
+    "vendor_id": "V0007",
+    "legal_name": "Burton Ltd",
+    "aliases": [
+      "Burton Ltd",
+      "Burton Services"
+    ],
+    "address": "6978 Maddox Wall, Lake Jenniferside, WV 35474",
+    "tax_id": "TAX00000007",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "BUR",
+    "bank_last4": "8279",
+    "active": true
+  },
+  {
+    "vendor_id": "V0008",
+    "legal_name": "Peterson, Carter and Moore",
+    "aliases": [
+      "Peterson, Carter and Moore",
+      "Peterson, Services"
+    ],
+    "address": "281 Skinner Parkways Apt. 252, New Mariotown, DE 48077",
+    "tax_id": "TAX00000008",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "PET",
+    "bank_last4": "9195",
+    "active": true
+  },
+  {
+    "vendor_id": "V0009",
+    "legal_name": "Allen-Allen",
+    "aliases": [
+      "Allen-Allen",
+      "Allen-Allen Services"
+    ],
+    "address": "71822 Arroyo Expressway, Allisonchester, IL 71187",
+    "tax_id": "TAX00000009",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "ALL",
+    "bank_last4": "8928",
+    "active": true
+  },
+  {
+    "vendor_id": "V0010",
+    "legal_name": "Vaughn, Marquez and Ross",
+    "aliases": [
+      "Vaughn, Marquez and Ross",
+      "Vaughn, Services"
+    ],
+    "address": "8713 Caleb Brooks Apt. 930, Lake Crystalbury, CA 04618",
+    "tax_id": "TAX00000010",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "VAU",
+    "bank_last4": "7359",
+    "active": true
+  },
+  {
+    "vendor_id": "V0011",
+    "legal_name": "Jones-Young",
+    "aliases": [
+      "Jones-Young",
+      "Jones-Young Services"
+    ],
+    "address": "299 Sanchez Mountains, Leeville, TN 56999",
+    "tax_id": "TAX00000011",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "JON",
+    "bank_last4": "0106",
+    "active": true
+  },
+  {
+    "vendor_id": "V0012",
+    "legal_name": "Henderson-Owens",
+    "aliases": [
+      "Henderson-Owens",
+      "Henderson-Owens Services"
+    ],
+    "address": "65133 Amanda Dam, Whitemouth, IA 10381",
+    "tax_id": "TAX00000012",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "HEN",
+    "bank_last4": "6924",
+    "active": true
+  },
+  {
+    "vendor_id": "V0013",
+    "legal_name": "Morton-Chase",
+    "aliases": [
+      "Morton-Chase",
+      "Morton-Chase Services"
+    ],
+    "address": "32677 Michelle Circle, South Aaron, MS 35261",
+    "tax_id": "TAX00000013",
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "MOR",
+    "bank_last4": "2547",
+    "active": true
+  },
+  {
+    "vendor_id": "V0014",
+    "legal_name": "Mitchell-Horton",
+    "aliases": [
+      "Mitchell-Horton",
+      "Mitchell-Horton Services"
+    ],
+    "address": "34309 Julie Centers Apt. 978, North Susan, CO 24857",
+    "tax_id": "TAX00000014",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "MIT",
+    "bank_last4": "1674",
+    "active": true
+  },
+  {
+    "vendor_id": "V0015",
+    "legal_name": "Larson Ltd",
+    "aliases": [
+      "Larson Ltd",
+      "Larson Services"
+    ],
+    "address": "93990 Robert Prairie Suite 435, West Randy, TN 85108",
+    "tax_id": "TAX00000015",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "LAR",
+    "bank_last4": "1584",
+    "active": true
+  },
+  {
+    "vendor_id": "V0016",
+    "legal_name": "Bryant-Hickman",
+    "aliases": [
+      "Bryant-Hickman",
+      "Bryant-Hickman Services"
+    ],
+    "address": "USS Ellis, FPO AP 13605",
+    "tax_id": "TAX00000016",
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "BRY",
+    "bank_last4": "9891",
+    "active": true
+  },
+  {
+    "vendor_id": "V0017",
+    "legal_name": "Medina PLC",
+    "aliases": [
+      "Medina PLC",
+      "Medina Services"
+    ],
+    "address": "35427 Carr Valley Apt. 841, West Darrell, CT 97811",
+    "tax_id": "TAX00000017",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "MED",
+    "bank_last4": "7527",
+    "active": true
+  },
+  {
+    "vendor_id": "V0018",
+    "legal_name": "Moore, Campbell and Clark",
+    "aliases": [
+      "Moore, Campbell and Clark",
+      "Moore, Services"
+    ],
+    "address": "740 Cynthia Village Suite 005, Lake Tina, GA 97655",
+    "tax_id": "TAX00000018",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "MOO",
+    "bank_last4": "6201",
+    "active": true
+  },
+  {
+    "vendor_id": "V0019",
+    "legal_name": "Arnold-Patterson",
+    "aliases": [
+      "Arnold-Patterson",
+      "Arnold-Patterson Services"
+    ],
+    "address": "280 Aguilar Drive, Andersonport, MN 05730",
+    "tax_id": "TAX00000019",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "ARN",
+    "bank_last4": "4803",
+    "active": true
+  },
+  {
+    "vendor_id": "V0020",
+    "legal_name": "Clark-Wright",
+    "aliases": [
+      "Clark-Wright",
+      "Clark-Wright Services"
+    ],
+    "address": "232 Nicole Burg Apt. 563, Erikville, MS 05576",
+    "tax_id": "TAX00000020",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "CLA",
+    "bank_last4": "5925",
+    "active": true
+  },
+  {
+    "vendor_id": "V0021",
+    "legal_name": "Walker-Velasquez",
+    "aliases": [
+      "Walker-Velasquez",
+      "Walker-Velasquez Services"
+    ],
+    "address": "30365 Lin Trail Suite 586, Sheilaville, FM 34738",
+    "tax_id": "TAX00000021",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "WAL",
+    "bank_last4": "1139",
+    "active": true
+  },
+  {
+    "vendor_id": "V0022",
+    "legal_name": "Carpenter LLC",
+    "aliases": [
+      "Carpenter",
+      "Carpenter Services"
+    ],
+    "address": "5698 Paul Ports Apt. 406, New Saraside, TX 94798",
+    "tax_id": "TAX00000022",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "CAR",
+    "bank_last4": "3733",
+    "active": true
+  },
+  {
+    "vendor_id": "V0023",
+    "legal_name": "Mclaughlin, Gonzalez and Reynolds",
+    "aliases": [
+      "Mclaughlin, Gonzalez and Reynolds",
+      "Mclaughlin, Services"
+    ],
+    "address": "USNV Hanson, FPO AP 16835",
+    "tax_id": "TAX00000023",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "MCL",
+    "bank_last4": "3814",
+    "active": true
+  },
+  {
+    "vendor_id": "V0024",
+    "legal_name": "Mccullough, Hunter and Estrada",
+    "aliases": [
+      "Mccullough, Hunter and Estrada",
+      "Mccullough, Services"
+    ],
+    "address": "236 Byrd Extensions Suite 680, Justinchester, WY 76520",
+    "tax_id": "TAX00000024",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "MCC",
+    "bank_last4": "4554",
+    "active": true
+  },
+  {
+    "vendor_id": "V0025",
+    "legal_name": "Pena, Marshall and Ramos",
+    "aliases": [
+      "Pena, Marshall and Ramos",
+      "Pena, Services"
+    ],
+    "address": "214 Davis Terrace Apt. 433, North Brandon, NJ 80621",
+    "tax_id": "TAX00000025",
+    "currency": "INR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "PEN",
+    "bank_last4": "5977",
+    "active": true
+  },
+  {
+    "vendor_id": "V0026",
+    "legal_name": "Gibson Ltd",
+    "aliases": [
+      "Gibson Ltd",
+      "Gibson Services"
+    ],
+    "address": "6320 Kimberly Forges Apt. 870, Port David, DC 61402",
+    "tax_id": "TAX00000026",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "GIB",
+    "bank_last4": "5820",
+    "active": true
+  },
+  {
+    "vendor_id": "V0027",
+    "legal_name": "Schmidt, Hansen and Stewart",
+    "aliases": [
+      "Schmidt, Hansen and Stewart",
+      "Schmidt, Services"
+    ],
+    "address": "868 Merritt Summit Suite 743, Katiehaven, NM 82650",
+    "tax_id": "TAX00000027",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "SCH",
+    "bank_last4": "4374",
+    "active": true
+  },
+  {
+    "vendor_id": "V0028",
+    "legal_name": "Hill Inc",
+    "aliases": [
+      "Hill Inc",
+      "Hill Services"
+    ],
+    "address": "5581 Edward Lights, Lake Jason, MT 53925",
+    "tax_id": "TAX00000028",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "HIL",
+    "bank_last4": "1169",
+    "active": true
+  },
+  {
+    "vendor_id": "V0029",
+    "legal_name": "Daniels-Perry",
+    "aliases": [
+      "Daniels-Perry",
+      "Daniels-Perry Services"
+    ],
+    "address": "9096 Smith Knoll Suite 668, South Jeffrey, NE 64155",
+    "tax_id": "TAX00000029",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "DAN",
+    "bank_last4": "2803",
+    "active": true
+  },
+  {
+    "vendor_id": "V0030",
+    "legal_name": "Price Ltd",
+    "aliases": [
+      "Price Ltd",
+      "Price Services"
+    ],
+    "address": "272 Rebecca Ramp Apt. 162, Whiteview, MS 43407",
+    "tax_id": "TAX00000030",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "PRI",
+    "bank_last4": "4010",
+    "active": true
+  },
+  {
+    "vendor_id": "V0031",
+    "legal_name": "Gibson LLC",
+    "aliases": [
+      "Gibson",
+      "Gibson Services"
+    ],
+    "address": "6417 Kaitlyn Center Suite 310, East Jamestown, RI 20474",
+    "tax_id": "TAX00000031",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "GIB1",
+    "bank_last4": "6216",
+    "active": true
+  },
+  {
+    "vendor_id": "V0032",
+    "legal_name": "Martinez Ltd",
+    "aliases": [
+      "Martinez Ltd",
+      "Martinez Services"
+    ],
+    "address": "4529 Kimberly Estates, Danieltown, ME 75971",
+    "tax_id": "TAX00000032",
+    "currency": "INR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "MAR",
+    "bank_last4": "9125",
+    "active": true
+  },
+  {
+    "vendor_id": "V0033",
+    "legal_name": "Odonnell, Brooks and David",
+    "aliases": [
+      "Odonnell, Brooks and David",
+      "Odonnell, Services"
+    ],
+    "address": "49190 Patel Shore, Caseymouth, AL 55558",
+    "tax_id": "TAX00000033",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "ODO",
+    "bank_last4": "5313",
+    "active": true
+  },
+  {
+    "vendor_id": "V0034",
+    "legal_name": "Garcia-Yu",
+    "aliases": [
+      "Garcia-Yu",
+      "Garcia-Yu Services"
+    ],
+    "address": "262 Gilbert Plain Suite 769, Marcusbury, MP 11860",
+    "tax_id": "TAX00000034",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "GAR",
+    "bank_last4": "0525",
+    "active": true
+  },
+  {
+    "vendor_id": "V0035",
+    "legal_name": "Keith-Sanchez",
+    "aliases": [
+      "Keith-Sanchez",
+      "Keith-Sanchez Services"
+    ],
+    "address": "0752 Lewis Union Suite 549, Angelahaven, ID 11722",
+    "tax_id": "TAX00000035",
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "KEI",
+    "bank_last4": "4386",
+    "active": true
+  },
+  {
+    "vendor_id": "V0036",
+    "legal_name": "Cortez Group",
+    "aliases": [
+      "Cortez Group",
+      "Cortez Services"
+    ],
+    "address": "777 Christopher Forges, Holtport, TN 76726",
+    "tax_id": "TAX00000036",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "COR",
+    "bank_last4": "9292",
+    "active": true
+  },
+  {
+    "vendor_id": "V0037",
+    "legal_name": "Kennedy-Schmidt",
+    "aliases": [
+      "Kennedy-Schmidt",
+      "Kennedy-Schmidt Services"
+    ],
+    "address": "7444 David Fields Suite 182, East Joanna, KY 95473",
+    "tax_id": "TAX00000037",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "KEN",
+    "bank_last4": "3483",
+    "active": true
+  },
+  {
+    "vendor_id": "V0038",
+    "legal_name": "Bray, Warren and Campbell",
+    "aliases": [
+      "Bray, Services",
+      "Bray, Warren and Campbell"
+    ],
+    "address": "3524 Jean Crossroad, Brandonton, OH 38791",
+    "tax_id": "TAX00000038",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "BRA",
+    "bank_last4": "6482",
+    "active": true
+  },
+  {
+    "vendor_id": "V0039",
+    "legal_name": "Raymond, Little and Mullins",
+    "aliases": [
+      "Raymond, Little and Mullins",
+      "Raymond, Services"
+    ],
+    "address": "477 Peterson Center, Shelleyfort, DE 09065",
+    "tax_id": "TAX00000039",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "RAY",
+    "bank_last4": "2340",
+    "active": true
+  },
+  {
+    "vendor_id": "V0040",
+    "legal_name": "Vasquez-Ray",
+    "aliases": [
+      "Vasquez-Ray",
+      "Vasquez-Ray Services"
+    ],
+    "address": "94131 Obrien Turnpike, Port Alexandra, NV 58529",
+    "tax_id": "TAX00000040",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "VAS",
+    "bank_last4": "4040",
+    "active": true
+  },
+  {
+    "vendor_id": "V0041",
+    "legal_name": "Dalton-Branch",
+    "aliases": [
+      "Dalton-Branch",
+      "Dalton-Branch Services"
+    ],
+    "address": "133 Guerrero Estate, East Andrea, GA 00851",
+    "tax_id": "TAX00000041",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "DAL",
+    "bank_last4": "8830",
+    "active": true
+  },
+  {
+    "vendor_id": "V0042",
+    "legal_name": "Hayes-Wheeler",
+    "aliases": [
+      "Hayes-Wheeler",
+      "Hayes-Wheeler Services"
+    ],
+    "address": "4713 French Road, South Danny, IN 85387",
+    "tax_id": "TAX00000042",
+    "currency": "INR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "HAY",
+    "bank_last4": "9577",
+    "active": true
+  },
+  {
+    "vendor_id": "V0043",
+    "legal_name": "Kerr and Sons",
+    "aliases": [
+      "Kerr Services",
+      "Kerr and Sons"
+    ],
+    "address": "9947 Taylor Hollow, Benderhaven, ND 65223",
+    "tax_id": "TAX00000043",
+    "currency": "INR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "KER",
+    "bank_last4": "6543",
+    "active": true
+  },
+  {
+    "vendor_id": "V0044",
+    "legal_name": "Miller-Williams",
+    "aliases": [
+      "Miller-Williams",
+      "Miller-Williams Services"
+    ],
+    "address": "401 Suzanne Villages Apt. 490, South April, NV 36959",
+    "tax_id": "TAX00000044",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "MIL",
+    "bank_last4": "2266",
+    "active": true
+  },
+  {
+    "vendor_id": "V0045",
+    "legal_name": "Shea Group",
+    "aliases": [
+      "Shea Group",
+      "Shea Services"
+    ],
+    "address": "75655 Mia Isle Suite 746, South Christopherview, MD 15695",
+    "tax_id": "TAX00000045",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "SHE",
+    "bank_last4": "1489",
+    "active": true
+  },
+  {
+    "vendor_id": "V0046",
+    "legal_name": "Hancock-Bryan",
+    "aliases": [
+      "Hancock-Bryan",
+      "Hancock-Bryan Services"
+    ],
+    "address": "0385 Garrett Trace Apt. 348, West Samuel, UT 64033",
+    "tax_id": "TAX00000046",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "HAN",
+    "bank_last4": "2504",
+    "active": true
+  },
+  {
+    "vendor_id": "V0047",
+    "legal_name": "Johnson Ltd",
+    "aliases": [
+      "Johnson Ltd",
+      "Johnson Services"
+    ],
+    "address": "248 Andrea Course, Port Robin, NH 15897",
+    "tax_id": "TAX00000047",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "JOH",
+    "bank_last4": "6916",
+    "active": true
+  },
+  {
+    "vendor_id": "V0048",
+    "legal_name": "Collier, Jimenez and Moran",
+    "aliases": [
+      "Collier, Jimenez and Moran",
+      "Collier, Services"
+    ],
+    "address": "7737 Patrick Rapid Apt. 146, Sarahhaven, KY 00837",
+    "tax_id": "TAX00000048",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "COL",
+    "bank_last4": "6304",
+    "active": true
+  },
+  {
+    "vendor_id": "V0049",
+    "legal_name": "Barber-Monroe",
+    "aliases": [
+      "Barber-Monroe",
+      "Barber-Monroe Services"
+    ],
+    "address": "78755 Gibson Islands Apt. 396, Port Kimberly, AZ 42205",
+    "tax_id": "TAX00000049",
+    "currency": "INR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "BAR",
+    "bank_last4": "7668",
+    "active": true
+  },
+  {
+    "vendor_id": "V0050",
+    "legal_name": "Kennedy, Mcintyre and James",
+    "aliases": [
+      "Kennedy, Mcintyre and James",
+      "Kennedy, Services"
+    ],
+    "address": "Unit 2702 Box 8951, DPO AA 13570",
+    "tax_id": "TAX00000050",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "KEN1",
+    "bank_last4": "9064",
+    "active": true
+  },
+  {
+    "vendor_id": "V0051",
+    "legal_name": "Lozano, Smith and Thomas",
+    "aliases": [
+      "Lozano, Services",
+      "Lozano, Smith and Thomas"
+    ],
+    "address": "74596 Melissa Walk, Finleyfort, VI 71413",
+    "tax_id": "TAX00000051",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "LOZ",
+    "bank_last4": "1876",
+    "active": true
+  },
+  {
+    "vendor_id": "V0052",
+    "legal_name": "Williamson and Sons",
+    "aliases": [
+      "Williamson Services",
+      "Williamson and Sons"
+    ],
+    "address": "16117 Heather Burgs Apt. 504, Nicholasberg, IA 70122",
+    "tax_id": "TAX00000052",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "WIL",
+    "bank_last4": "4371",
+    "active": true
+  },
+  {
+    "vendor_id": "V0053",
+    "legal_name": "Knight-Sparks",
+    "aliases": [
+      "Knight-Sparks",
+      "Knight-Sparks Services"
+    ],
+    "address": "693 Durham Divide, South Dana, NH 33967",
+    "tax_id": "TAX00000053",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "KNI",
+    "bank_last4": "1827",
+    "active": true
+  },
+  {
+    "vendor_id": "V0054",
+    "legal_name": "Smith, Ballard and Santana",
+    "aliases": [
+      "Smith, Ballard and Santana",
+      "Smith, Services"
+    ],
+    "address": "75946 Bryant Hollow, South Melissa, CT 31592",
+    "tax_id": "TAX00000054",
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "SMI",
+    "bank_last4": "2591",
+    "active": true
+  },
+  {
+    "vendor_id": "V0055",
+    "legal_name": "Armstrong-Andrews",
+    "aliases": [
+      "Armstrong-Andrews",
+      "Armstrong-Andrews Services"
+    ],
+    "address": "Unit 4064 Box 0909, DPO AP 65608",
+    "tax_id": "TAX00000055",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "ARM",
+    "bank_last4": "4315",
+    "active": true
+  },
+  {
+    "vendor_id": "V0056",
+    "legal_name": "Parsons-Hall",
+    "aliases": [
+      "Parsons-Hall",
+      "Parsons-Hall Services"
+    ],
+    "address": "394 Courtney Road, West Kristinaton, OR 48324",
+    "tax_id": "TAX00000056",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "PAR",
+    "bank_last4": "8317",
+    "active": true
+  },
+  {
+    "vendor_id": "V0057",
+    "legal_name": "Anderson, Browning and Murphy",
+    "aliases": [
+      "Anderson, Browning and Murphy",
+      "Anderson, Services"
+    ],
+    "address": "85884 Jonathan Views, Coffeyport, WA 44897",
+    "tax_id": "TAX00000057",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "AND",
+    "bank_last4": "4889",
+    "active": true
+  },
+  {
+    "vendor_id": "V0058",
+    "legal_name": "Mcdonald Inc",
+    "aliases": [
+      "Mcdonald Inc",
+      "Mcdonald Services"
+    ],
+    "address": "685 Krystal Bridge, Amandamouth, MN 88689",
+    "tax_id": "TAX00000058",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "MCD",
+    "bank_last4": "9977",
+    "active": true
+  },
+  {
+    "vendor_id": "V0059",
+    "legal_name": "Chambers, Richards and Carson",
+    "aliases": [
+      "Chambers, Richards and Carson",
+      "Chambers, Services"
+    ],
+    "address": "USS Leonard, FPO AA 03781",
+    "tax_id": "TAX00000059",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "CHA",
+    "bank_last4": "6126",
+    "active": true
+  },
+  {
+    "vendor_id": "V0060",
+    "legal_name": "Henson, Hoffman and Herman",
+    "aliases": [
+      "Henson, Hoffman and Herman",
+      "Henson, Services"
+    ],
+    "address": "746 Donald Camp, Wendyville, CT 31276",
+    "tax_id": "TAX00000060",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "HEN1",
+    "bank_last4": "8689",
+    "active": true
+  },
+  {
+    "vendor_id": "V0061",
+    "legal_name": "Taylor, Chavez and Santiago",
+    "aliases": [
+      "Taylor, Chavez and Santiago",
+      "Taylor, Services"
+    ],
+    "address": "261 Gilbert Harbors Apt. 537, Sampsonstad, CT 90374",
+    "tax_id": "TAX00000061",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "TAY",
+    "bank_last4": "5310",
+    "active": true
+  },
+  {
+    "vendor_id": "V0062",
+    "legal_name": "Stephens-Levine",
+    "aliases": [
+      "Stephens-Levine",
+      "Stephens-Levine Services"
+    ],
+    "address": "3171 Darlene Ranch Apt. 053, Port Anne, CA 73142",
+    "tax_id": "TAX00000062",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "STE",
+    "bank_last4": "1832",
+    "active": true
+  },
+  {
+    "vendor_id": "V0063",
+    "legal_name": "Willis and Sons",
+    "aliases": [
+      "Willis Services",
+      "Willis and Sons"
+    ],
+    "address": "042 Amber Union, North Donna, AK 17776",
+    "tax_id": "TAX00000063",
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "WIL1",
+    "bank_last4": "3923",
+    "active": true
+  },
+  {
+    "vendor_id": "V0064",
+    "legal_name": "Howard and Sons",
+    "aliases": [
+      "Howard Services",
+      "Howard and Sons"
+    ],
+    "address": "40268 Julie Mountains, Stricklandhaven, OR 14794",
+    "tax_id": "TAX00000064",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "HOW1",
+    "bank_last4": "9295",
+    "active": true
+  },
+  {
+    "vendor_id": "V0065",
+    "legal_name": "Gordon-Dougherty",
+    "aliases": [
+      "Gordon-Dougherty",
+      "Gordon-Dougherty Services"
+    ],
+    "address": "0076 Parks Overpass Suite 115, North David, RI 83479",
+    "tax_id": "TAX00000065",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "GOR",
+    "bank_last4": "7962",
+    "active": true
+  },
+  {
+    "vendor_id": "V0066",
+    "legal_name": "Kelley, Nguyen and Vang",
+    "aliases": [
+      "Kelley, Nguyen and Vang",
+      "Kelley, Services"
+    ],
+    "address": "961 Melissa Run Apt. 673, Morganmouth, MO 55025",
+    "tax_id": "TAX00000066",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "KEL",
+    "bank_last4": "2060",
+    "active": true
+  },
+  {
+    "vendor_id": "V0067",
+    "legal_name": "Davis, Simmons and Ortega",
+    "aliases": [
+      "Davis, Services",
+      "Davis, Simmons and Ortega"
+    ],
+    "address": "711 Christopher Court, Lisaside, AR 77370",
+    "tax_id": "TAX00000067",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "DAV",
+    "bank_last4": "7787",
+    "active": true
+  },
+  {
+    "vendor_id": "V0068",
+    "legal_name": "Hoffman, Santiago and Jenkins",
+    "aliases": [
+      "Hoffman, Santiago and Jenkins",
+      "Hoffman, Services"
+    ],
+    "address": "049 Bell Ports Apt. 273, West Meganstad, DE 37013",
+    "tax_id": "TAX00000068",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "HOF",
+    "bank_last4": "4342",
+    "active": true
+  },
+  {
+    "vendor_id": "V0069",
+    "legal_name": "Perez, Patterson and Hoffman",
+    "aliases": [
+      "Perez, Patterson and Hoffman",
+      "Perez, Services"
+    ],
+    "address": "402 Park Inlet, Michaelburgh, VI 19277",
+    "tax_id": "TAX00000069",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "PER",
+    "bank_last4": "6932",
+    "active": true
+  },
+  {
+    "vendor_id": "V0070",
+    "legal_name": "Sandoval, Jones and Figueroa",
+    "aliases": [
+      "Sandoval, Jones and Figueroa",
+      "Sandoval, Services"
+    ],
+    "address": "Unit 1836 Box 6752, DPO AA 41347",
+    "tax_id": "TAX00000070",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "SAN",
+    "bank_last4": "3295",
+    "active": true
+  },
+  {
+    "vendor_id": "V0071",
+    "legal_name": "Nguyen, Pugh and Carlson",
+    "aliases": [
+      "Nguyen, Pugh and Carlson",
+      "Nguyen, Services"
+    ],
+    "address": "90147 Tucker Mills, Nelsonhaven, DE 45743",
+    "tax_id": "TAX00000071",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "NGU",
+    "bank_last4": "6537",
+    "active": true
+  },
+  {
+    "vendor_id": "V0072",
+    "legal_name": "Rodriguez-Gregory",
+    "aliases": [
+      "Rodriguez-Gregory",
+      "Rodriguez-Gregory Services"
+    ],
+    "address": "36900 Kevin Forest Apt. 445, North Tylerchester, HI 17433",
+    "tax_id": "TAX00000072",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "ROD1",
+    "bank_last4": "6118",
+    "active": true
+  },
+  {
+    "vendor_id": "V0073",
+    "legal_name": "Patel-Hall",
+    "aliases": [
+      "Patel-Hall",
+      "Patel-Hall Services"
+    ],
+    "address": "60607 Michelle Ports Suite 966, Dariustown, MD 23028",
+    "tax_id": "TAX00000073",
+    "currency": "INR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "PAT",
+    "bank_last4": "7397",
+    "active": true
+  },
+  {
+    "vendor_id": "V0074",
+    "legal_name": "Stevens, Norris and Cox",
+    "aliases": [
+      "Stevens, Norris and Cox",
+      "Stevens, Services"
+    ],
+    "address": "69681 Harrell Summit, Jeffreyburgh, CA 67411",
+    "tax_id": "TAX00000074",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "STE1",
+    "bank_last4": "3681",
+    "active": true
+  },
+  {
+    "vendor_id": "V0075",
+    "legal_name": "Wilson, Hicks and Bullock",
+    "aliases": [
+      "Wilson, Hicks and Bullock",
+      "Wilson, Services"
+    ],
+    "address": "12432 Kathleen Shoal, East Stephaniefort, NH 99387",
+    "tax_id": "TAX00000075",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "WIL2",
+    "bank_last4": "0344",
+    "active": true
+  },
+  {
+    "vendor_id": "V0076",
+    "legal_name": "Wolf, Cole and Glass",
+    "aliases": [
+      "Wolf, Cole and Glass",
+      "Wolf, Services"
+    ],
+    "address": "527 Taylor Roads Suite 490, Williamport, NH 59734",
+    "tax_id": "TAX00000076",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "WOL",
+    "bank_last4": "3770",
+    "active": true
+  },
+  {
+    "vendor_id": "V0077",
+    "legal_name": "Brown LLC",
+    "aliases": [
+      "Brown",
+      "Brown Services"
+    ],
+    "address": "986 Carpenter Turnpike, South Reginashire, SD 25173",
+    "tax_id": "TAX00000077",
+    "currency": "EUR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "BRO",
+    "bank_last4": "0117",
+    "active": true
+  },
+  {
+    "vendor_id": "V0078",
+    "legal_name": "Jacobs-Mason",
+    "aliases": [
+      "Jacobs-Mason",
+      "Jacobs-Mason Services"
+    ],
+    "address": "USCGC Garcia, FPO AA 94127",
+    "tax_id": "TAX00000078",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "JAC",
+    "bank_last4": "0964",
+    "active": true
+  },
+  {
+    "vendor_id": "V0079",
+    "legal_name": "Wagner and Sons",
+    "aliases": [
+      "Wagner Services",
+      "Wagner and Sons"
+    ],
+    "address": "8892 Watson Haven Suite 659, Port Crystalmouth, CA 43714",
+    "tax_id": "TAX00000079",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "WAG",
+    "bank_last4": "0514",
+    "active": true
+  },
+  {
+    "vendor_id": "V0080",
+    "legal_name": "Grant Group",
+    "aliases": [
+      "Grant Group",
+      "Grant Services"
+    ],
+    "address": "1925 Ponce Square, Andersonland, ME 73760",
+    "tax_id": "TAX00000080",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "GRA",
+    "bank_last4": "8423",
+    "active": true
+  },
+  {
+    "vendor_id": "V0081",
+    "legal_name": "Schneider-Murphy",
+    "aliases": [
+      "Schneider-Murphy",
+      "Schneider-Murphy Services"
+    ],
+    "address": "685 Michael Falls, West Stacey, NM 25667",
+    "tax_id": "TAX00000081",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "SCH1",
+    "bank_last4": "7953",
+    "active": true
+  },
+  {
+    "vendor_id": "V0082",
+    "legal_name": "Cooke and Sons",
+    "aliases": [
+      "Cooke Services",
+      "Cooke and Sons"
+    ],
+    "address": "880 Walter River, New Nicholas, GA 24204",
+    "tax_id": "TAX00000082",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "COO",
+    "bank_last4": "2167",
+    "active": true
+  },
+  {
+    "vendor_id": "V0083",
+    "legal_name": "Wise, Lamb and Martin",
+    "aliases": [
+      "Wise, Lamb and Martin",
+      "Wise, Services"
+    ],
+    "address": "3794 Young Garden Suite 735, Murrayport, WI 50553",
+    "tax_id": "TAX00000083",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "WIS",
+    "bank_last4": "9440",
+    "active": true
+  },
+  {
+    "vendor_id": "V0084",
+    "legal_name": "Rose, Burch and Montoya",
+    "aliases": [
+      "Rose, Burch and Montoya",
+      "Rose, Services"
+    ],
+    "address": "0758 Jennifer Path, West Christopherburgh, KY 59394",
+    "tax_id": "TAX00000084",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "ROS",
+    "bank_last4": "7749",
+    "active": true
+  },
+  {
+    "vendor_id": "V0085",
+    "legal_name": "Hernandez, Kim and Potts",
+    "aliases": [
+      "Hernandez, Kim and Potts",
+      "Hernandez, Services"
+    ],
+    "address": "0606 Young Common Suite 305, Port Jennifermouth, WY 19643",
+    "tax_id": "TAX00000085",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "HER",
+    "bank_last4": "1545",
+    "active": true
+  },
+  {
+    "vendor_id": "V0086",
+    "legal_name": "Johnson Group",
+    "aliases": [
+      "Johnson Group",
+      "Johnson Services"
+    ],
+    "address": "779 Rebecca Brook, Jasonberg, OH 95821",
+    "tax_id": "TAX00000086",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "JOH1",
+    "bank_last4": "7062",
+    "active": true
+  },
+  {
+    "vendor_id": "V0087",
+    "legal_name": "Rose, Rodriguez and Roberts",
+    "aliases": [
+      "Rose, Rodriguez and Roberts",
+      "Rose, Services"
+    ],
+    "address": "69711 Carlson Brook, Lake Douglas, NE 00706",
+    "tax_id": "TAX00000087",
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "ROS1",
+    "bank_last4": "6735",
+    "active": true
+  },
+  {
+    "vendor_id": "V0088",
+    "legal_name": "Gomez, Duncan and Lopez",
+    "aliases": [
+      "Gomez, Duncan and Lopez",
+      "Gomez, Services"
+    ],
+    "address": "88888 Peter Mountains Apt. 654, West Kristinastad, IA 96569",
+    "tax_id": "TAX00000088",
+    "currency": "INR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "GOM",
+    "bank_last4": "0887",
+    "active": true
+  },
+  {
+    "vendor_id": "V0089",
+    "legal_name": "Fuller, Ingram and Moss",
+    "aliases": [
+      "Fuller, Ingram and Moss",
+      "Fuller, Services"
+    ],
+    "address": "8527 Welch Valleys, North Jennifer, NH 05348",
+    "tax_id": "TAX00000089",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "FUL",
+    "bank_last4": "1612",
+    "active": true
+  },
+  {
+    "vendor_id": "V0090",
+    "legal_name": "Harris-Moody",
+    "aliases": [
+      "Harris-Moody",
+      "Harris-Moody Services"
+    ],
+    "address": "8687 Johnson Rue Apt. 450, Joshuastad, NE 52932",
+    "tax_id": "TAX00000090",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "HAR",
+    "bank_last4": "5559",
+    "active": true
+  },
+  {
+    "vendor_id": "V0091",
+    "legal_name": "Gonzales, Huber and Morgan",
+    "aliases": [
+      "Gonzales, Huber and Morgan",
+      "Gonzales, Services"
+    ],
+    "address": "8416 Ryan View Apt. 845, North Markport, ME 58948",
+    "tax_id": "TAX00000091",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "GON",
+    "bank_last4": "3139",
+    "active": true
+  },
+  {
+    "vendor_id": "V0092",
+    "legal_name": "Robbins, Jackson and Wallace",
+    "aliases": [
+      "Robbins, Jackson and Wallace",
+      "Robbins, Services"
+    ],
+    "address": "640 Emily Lodge Suite 820, Port Cathy, WY 57933",
+    "tax_id": "TAX00000092",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "ROB",
+    "bank_last4": "7350",
+    "active": true
+  },
+  {
+    "vendor_id": "V0093",
+    "legal_name": "Martinez and Sons",
+    "aliases": [
+      "Martinez Services",
+      "Martinez and Sons"
+    ],
+    "address": "6909 Erika Land Suite 719, New Michael, MD 85640",
+    "tax_id": "TAX00000093",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "MAR1",
+    "bank_last4": "3006",
+    "active": true
+  },
+  {
+    "vendor_id": "V0094",
+    "legal_name": "Wright-Wilson",
+    "aliases": [
+      "Wright-Wilson",
+      "Wright-Wilson Services"
+    ],
+    "address": "681 Hampton Squares Suite 394, Gonzalezberg, PR 10207",
+    "tax_id": "TAX00000094",
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "WRI",
+    "bank_last4": "4092",
+    "active": true
+  },
+  {
+    "vendor_id": "V0095",
+    "legal_name": "Thompson-Reeves",
+    "aliases": [
+      "Thompson-Reeves",
+      "Thompson-Reeves Services"
+    ],
+    "address": "Unit 5518 Box 8442, DPO AP 93504",
+    "tax_id": "TAX00000095",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "THO",
+    "bank_last4": "9016",
+    "active": true
+  },
+  {
+    "vendor_id": "V0096",
+    "legal_name": "Little, Leon and Hicks",
+    "aliases": [
+      "Little, Leon and Hicks",
+      "Little, Services"
+    ],
+    "address": "37058 Mcdonald Plaza, New Nicole, CA 41040",
+    "tax_id": "TAX00000096",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "LIT",
+    "bank_last4": "8856",
+    "active": true
+  },
+  {
+    "vendor_id": "V0097",
+    "legal_name": "Key-Higgins",
+    "aliases": [
+      "Key-Higgins",
+      "Key-Higgins Services"
+    ],
+    "address": "125 Shannon Springs Suite 289, Port Tammy, NE 66412",
+    "tax_id": "TAX00000097",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "KEY",
+    "bank_last4": "3872",
+    "active": true
+  },
+  {
+    "vendor_id": "V0098",
+    "legal_name": "Guerra PLC",
+    "aliases": [
+      "Guerra PLC",
+      "Guerra Services"
+    ],
+    "address": "53584 John Roads, Davidport, RI 70425",
+    "tax_id": "TAX00000098",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "GUE",
+    "bank_last4": "7956",
+    "active": true
+  },
+  {
+    "vendor_id": "V0099",
+    "legal_name": "Shaw and Sons",
+    "aliases": [
+      "Shaw Services",
+      "Shaw and Sons"
+    ],
+    "address": "99590 Christopher Row, Debrashire, MT 81517",
+    "tax_id": "TAX00000099",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "SHA",
+    "bank_last4": "6570",
+    "active": true
+  },
+  {
+    "vendor_id": "V0100",
+    "legal_name": "Johnson, Small and Gardner",
+    "aliases": [
+      "Johnson, Services",
+      "Johnson, Small and Gardner"
+    ],
+    "address": "3647 Haley Estate Suite 677, West Catherine, MD 94658",
+    "tax_id": "TAX00000100",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "JOH2",
+    "bank_last4": "6209",
+    "active": true
+  },
+  {
+    "vendor_id": "V0101",
+    "legal_name": "Gross-Valencia",
+    "aliases": [
+      "Gross-Valencia",
+      "Gross-Valencia Services"
+    ],
+    "address": "Unit 2588 Box 1537, DPO AE 35559",
+    "tax_id": "TAX00000101",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "GRO",
+    "bank_last4": "4345",
+    "active": true
+  },
+  {
+    "vendor_id": "V0102",
+    "legal_name": "Wright-Davis",
+    "aliases": [
+      "Wright-Davis",
+      "Wright-Davis Services"
+    ],
+    "address": "632 Peck Stravenue Suite 327, Jimenezport, NM 03538",
+    "tax_id": "TAX00000102",
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "WRI1",
+    "bank_last4": "6930",
+    "active": true
+  },
+  {
+    "vendor_id": "V0103",
+    "legal_name": "Landry PLC",
+    "aliases": [
+      "Landry PLC",
+      "Landry Services"
+    ],
+    "address": "95004 Harper Ville, Mitchelltown, PR 14590",
+    "tax_id": "TAX00000103",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "LAN",
+    "bank_last4": "9105",
+    "active": true
+  },
+  {
+    "vendor_id": "V0104",
+    "legal_name": "Anderson-Baker",
+    "aliases": [
+      "Anderson-Baker",
+      "Anderson-Baker Services"
+    ],
+    "address": "0609 Michael Heights Apt. 687, Marciaville, DC 13173",
+    "tax_id": "TAX00000104",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "AND1",
+    "bank_last4": "7973",
+    "active": true
+  },
+  {
+    "vendor_id": "V0105",
+    "legal_name": "Brooks-Hatfield",
+    "aliases": [
+      "Brooks-Hatfield",
+      "Brooks-Hatfield Services"
+    ],
+    "address": "39868 Brandon Dam Suite 787, New Patricia, DC 43488",
+    "tax_id": "TAX00000105",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "BRO1",
+    "bank_last4": "4861",
+    "active": true
+  },
+  {
+    "vendor_id": "V0106",
+    "legal_name": "Flores, Long and Jensen",
+    "aliases": [
+      "Flores, Long and Jensen",
+      "Flores, Services"
+    ],
+    "address": "887 Wells Brook Suite 516, Lauratown, PA 62706",
+    "tax_id": "TAX00000106",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "FLO",
+    "bank_last4": "9489",
+    "active": true
+  },
+  {
+    "vendor_id": "V0107",
+    "legal_name": "Coffey-Patton",
+    "aliases": [
+      "Coffey-Patton",
+      "Coffey-Patton Services"
+    ],
+    "address": "097 Alexandria Stravenue, Hernandezbury, AZ 75548",
+    "tax_id": "TAX00000107",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "COF",
+    "bank_last4": "0998",
+    "active": true
+  },
+  {
+    "vendor_id": "V0108",
+    "legal_name": "Rodriguez, Smith and Edwards",
+    "aliases": [
+      "Rodriguez, Services",
+      "Rodriguez, Smith and Edwards"
+    ],
+    "address": "8970 April Points, Whitneyfort, NC 49892",
+    "tax_id": "TAX00000108",
+    "currency": "EUR",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "ROD2",
+    "bank_last4": "0936",
+    "active": true
+  },
+  {
+    "vendor_id": "V0109",
+    "legal_name": "Frye-Stevens",
+    "aliases": [
+      "Frye-Stevens",
+      "Frye-Stevens Services"
+    ],
+    "address": "497 Susan Harbors Suite 344, Lake Janet, MD 63389",
+    "tax_id": "TAX00000109",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "FRY",
+    "bank_last4": "7811",
+    "active": true
+  },
+  {
+    "vendor_id": "V0110",
+    "legal_name": "Castro-Michael",
+    "aliases": [
+      "Castro-Michael",
+      "Castro-Michael Services"
+    ],
+    "address": "98665 Kelly Heights Apt. 574, Lewisside, KY 74165",
+    "tax_id": "TAX00000110",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "CAS",
+    "bank_last4": "2579",
+    "active": true
+  },
+  {
+    "vendor_id": "V0111",
+    "legal_name": "Nelson, Rodriguez and Yang",
+    "aliases": [
+      "Nelson, Rodriguez and Yang",
+      "Nelson, Services"
+    ],
+    "address": "833 Craig Isle, Garciaberg, AL 72636",
+    "tax_id": "TAX00000111",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "NEL",
+    "bank_last4": "1312",
+    "active": true
+  },
+  {
+    "vendor_id": "V0112",
+    "legal_name": "Russell Group",
+    "aliases": [
+      "Russell Group",
+      "Russell Services"
+    ],
+    "address": "5401 Amanda Stream, East Robertburgh, PW 05264",
+    "tax_id": "TAX00000112",
+    "currency": "USD",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "RUS",
+    "bank_last4": "9749",
+    "active": true
+  },
+  {
+    "vendor_id": "V0113",
+    "legal_name": "French-Lopez",
+    "aliases": [
+      "French-Lopez",
+      "French-Lopez Services"
+    ],
+    "address": "04991 Mitchell Row Suite 287, Jamesville, MA 21799",
+    "tax_id": "TAX00000113",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "FRE",
+    "bank_last4": "3853",
+    "active": true
+  },
+  {
+    "vendor_id": "V0114",
+    "legal_name": "Stevens, Scott and Lopez",
+    "aliases": [
+      "Stevens, Scott and Lopez",
+      "Stevens, Services"
+    ],
+    "address": "329 Wilcox Passage Suite 161, East Thomas, IA 01396",
+    "tax_id": "TAX00000114",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "STE2",
+    "bank_last4": "9333",
+    "active": true
+  },
+  {
+    "vendor_id": "V0115",
+    "legal_name": "Reyes-Griffin",
+    "aliases": [
+      "Reyes-Griffin",
+      "Reyes-Griffin Services"
+    ],
+    "address": "9904 Schwartz Circle Apt. 742, Parksport, UT 15890",
+    "tax_id": "TAX00000115",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "REY",
+    "bank_last4": "9740",
+    "active": true
+  },
+  {
+    "vendor_id": "V0116",
+    "legal_name": "Hendricks, Phillips and Mendez",
+    "aliases": [
+      "Hendricks, Phillips and Mendez",
+      "Hendricks, Services"
+    ],
+    "address": "2795 Miles Mountains, Port John, WV 78595",
+    "tax_id": "TAX00000116",
+    "currency": "USD",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "HEN2",
+    "bank_last4": "1343",
+    "active": true
+  },
+  {
+    "vendor_id": "V0117",
+    "legal_name": "Fox PLC",
+    "aliases": [
+      "Fox PLC",
+      "Fox Services"
+    ],
+    "address": "108 Ashley Drive, West Melissa, NV 15736",
+    "tax_id": "TAX00000117",
+    "currency": "INR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "FOX",
+    "bank_last4": "9562",
+    "active": true
+  },
+  {
+    "vendor_id": "V0118",
+    "legal_name": "Harris, Aguilar and Davis",
+    "aliases": [
+      "Harris, Aguilar and Davis",
+      "Harris, Services"
+    ],
+    "address": "2867 Angelica Spring, Jenniferfurt, KS 00896",
+    "tax_id": "TAX00000118",
+    "currency": "EUR",
+    "payment_terms": "Net 45",
+    "invoice_prefix": "HAR1",
+    "bank_last4": "5183",
+    "active": true
+  },
+  {
+    "vendor_id": "V0119",
+    "legal_name": "Robinson, Jones and Henderson",
+    "aliases": [
+      "Robinson, Jones and Henderson",
+      "Robinson, Services"
+    ],
+    "address": "70462 Katie Stream, Brooksfurt, NV 49980",
+    "tax_id": "TAX00000119",
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "invoice_prefix": "ROB1",
+    "bank_last4": "5147",
+    "active": true
+  },
+  {
+    "vendor_id": "V0120",
+    "legal_name": "Miller-Brandt",
+    "aliases": [
+      "Miller-Brandt",
+      "Miller-Brandt Services"
+    ],
+    "address": "512 Rice Stream, Port Adam, AK 39608",
+    "tax_id": "TAX00000120",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "invoice_prefix": "MIL1",
+    "bank_last4": "6484",
+    "active": true
+  }
+]

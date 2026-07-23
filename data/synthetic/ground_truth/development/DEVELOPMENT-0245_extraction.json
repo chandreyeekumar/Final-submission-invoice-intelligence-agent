@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 245",
+  "vendor_address": "262 Gilbert Plain Suite 769, Marcusbury, MP 11860",
+  "vendor_tax_id": "TAX00000034",
+  "vendor_bank_account": "XXXX0525",
+  "invoice_number": "GAR-00245",
+  "invoice_date": "2026-03-07",
+  "due_date": "2026-04-06",
+  "purchase_order_number": "PO-00245",
+  "currency": "USD",
+  "subtotal": 5763.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1037.34,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6800.34,
+  "amount_due": 6800.34,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "463",
+      "tax_rate": "0.18",
+      "line_total": "1852"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "417",
+      "tax_rate": "0.18",
+      "line_total": "417"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "127",
+      "tax_rate": "0.18",
+      "line_total": "254"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "372",
+      "tax_rate": "0.18",
+      "line_total": "1860"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "460",
+      "tax_rate": "0.18",
+      "line_total": "1380"
+    }
+  ],
+  "warnings": []
+}

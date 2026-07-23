@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Gordon-Dougherty",
+  "vendor_address": "0076 Parks Overpass Suite 115, North David, RI 83479",
+  "vendor_tax_id": "TAX00000065",
+  "vendor_bank_account": "XXXX7962",
+  "invoice_number": "GOR-00141",
+  "invoice_date": "2026-05-22",
+  "due_date": "2026-06-21",
+  "purchase_order_number": "PO-00141",
+  "currency": "USD",
+  "subtotal": 6265.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1127.7,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7392.7,
+  "amount_due": 7392.7,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "42",
+      "tax_rate": "0.18",
+      "line_total": "168"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "211",
+      "tax_rate": "0.18",
+      "line_total": "844"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "402",
+      "tax_rate": "0.18",
+      "line_total": "1206"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "202",
+      "tax_rate": "0.18",
+      "line_total": "202"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "196",
+      "tax_rate": "0.18",
+      "line_total": "196"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "395",
+      "tax_rate": "0.18",
+      "line_total": "790"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "415",
+      "tax_rate": "0.18",
+      "line_total": "415"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "396",
+      "tax_rate": "0.18",
+      "line_total": "1980"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "88",
+      "tax_rate": "0.18",
+      "line_total": "264"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "200",
+      "tax_rate": "0.18",
+      "line_total": "200"
+    }
+  ],
+  "warnings": []
+}

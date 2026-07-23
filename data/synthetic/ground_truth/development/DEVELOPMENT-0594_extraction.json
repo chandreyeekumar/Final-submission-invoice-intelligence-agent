@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Harris, Aguilar and Davis",
+  "vendor_address": "2867 Angelica Spring, Jenniferfurt, KS 00896",
+  "vendor_tax_id": "TAX00000118",
+  "vendor_bank_account": "XXXX5183",
+  "invoice_number": "HAR1-00594",
+  "invoice_date": "2026-02-24",
+  "due_date": "2026-03-26",
+  "purchase_order_number": "PO-00594",
+  "currency": "EUR",
+  "subtotal": 7486.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1347.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8833.48,
+  "amount_due": 8833.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "672"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "271",
+      "tax_rate": "0.18",
+      "line_total": "1355"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "441",
+      "tax_rate": "0.18",
+      "line_total": "441"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "447",
+      "tax_rate": "0.18",
+      "line_total": "1341"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "175",
+      "tax_rate": "0.18",
+      "line_total": "875"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "306",
+      "tax_rate": "0.18",
+      "line_total": "1224"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "134",
+      "tax_rate": "0.18",
+      "line_total": "536"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "425",
+      "tax_rate": "0.18",
+      "line_total": "425"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "98",
+      "tax_rate": "0.18",
+      "line_total": "98"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "173",
+      "tax_rate": "0.18",
+      "line_total": "519"
+    }
+  ],
+  "warnings": []
+}

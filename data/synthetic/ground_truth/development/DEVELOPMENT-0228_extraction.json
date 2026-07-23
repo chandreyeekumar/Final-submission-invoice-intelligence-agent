@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Schmidt, Hansen and Stewart",
+  "vendor_address": "868 Merritt Summit Suite 743, Katiehaven, NM 82650",
+  "vendor_tax_id": "TAX00000027",
+  "vendor_bank_account": "XXXX4374",
+  "invoice_number": "SCH-00228",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-03-20",
+  "purchase_order_number": "PO-00228",
+  "currency": "USD",
+  "subtotal": 9031.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1625.58,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10656.58,
+  "amount_due": 10656.58,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "439",
+      "tax_rate": "0.18",
+      "line_total": "439"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "364",
+      "tax_rate": "0.18",
+      "line_total": "1456"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "91",
+      "tax_rate": "0.18",
+      "line_total": "364"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "143",
+      "tax_rate": "0.18",
+      "line_total": "429"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "1071"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "386",
+      "tax_rate": "0.18",
+      "line_total": "772"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "424",
+      "tax_rate": "0.18",
+      "line_total": "1696"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "228"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "326",
+      "tax_rate": "0.18",
+      "line_total": "1304"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "318",
+      "tax_rate": "0.18",
+      "line_total": "1272"
+    }
+  ],
+  "warnings": []
+}

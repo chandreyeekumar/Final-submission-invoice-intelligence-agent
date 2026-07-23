@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Nelson, Rodriguez and Yang",
+  "vendor_address": "833 Craig Isle, Garciaberg, AL 72636",
+  "vendor_tax_id": "TAX00000111",
+  "vendor_bank_account": "XXXX1312",
+  "invoice_number": "NEL-00635",
+  "invoice_date": "2026-04-06",
+  "due_date": "2026-05-06",
+  "purchase_order_number": "PO-00635",
+  "currency": "USD",
+  "subtotal": 5098.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 917.64,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6015.64,
+  "amount_due": 6015.64,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "463",
+      "tax_rate": "0.18",
+      "line_total": "1389"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "481",
+      "tax_rate": "0.18",
+      "line_total": "481"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "479",
+      "tax_rate": "0.18",
+      "line_total": "1916"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "363",
+      "tax_rate": "0.18",
+      "line_total": "1089"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "223",
+      "tax_rate": "0.18",
+      "line_total": "223"
+    }
+  ],
+  "warnings": []
+}

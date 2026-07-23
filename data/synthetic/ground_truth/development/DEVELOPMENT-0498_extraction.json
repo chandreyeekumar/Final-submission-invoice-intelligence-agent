@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Grant Group",
+  "vendor_address": "1925 Ponce Square, Andersonland, ME 73760",
+  "vendor_tax_id": "TAX00000080",
+  "vendor_bank_account": "XXXX8423",
+  "invoice_number": "GRA-00498",
+  "invoice_date": "2026-05-19",
+  "due_date": "2026-06-18",
+  "purchase_order_number": "PO-00498",
+  "currency": "INR",
+  "subtotal": 8012.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1442.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9454.16,
+  "amount_due": 9454.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "274",
+      "tax_rate": "0.18",
+      "line_total": "1370"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "393",
+      "tax_rate": "0.18",
+      "line_total": "1965"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "272",
+      "tax_rate": "0.18",
+      "line_total": "1088"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "472",
+      "tax_rate": "0.18",
+      "line_total": "944"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "139",
+      "tax_rate": "0.18",
+      "line_total": "695"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "119",
+      "tax_rate": "0.18",
+      "line_total": "357"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "80",
+      "tax_rate": "0.18",
+      "line_total": "80"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "258",
+      "tax_rate": "0.18",
+      "line_total": "258"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "397",
+      "tax_rate": "0.18",
+      "line_total": "397"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "429",
+      "tax_rate": "0.18",
+      "line_total": "858"
+    }
+  ],
+  "warnings": []
+}

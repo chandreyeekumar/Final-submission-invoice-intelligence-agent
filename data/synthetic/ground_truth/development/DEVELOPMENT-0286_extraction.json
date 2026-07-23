@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Brown LLC",
+  "vendor_address": "986 Carpenter Turnpike, South Reginashire, SD 25173",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX0117",
+  "invoice_number": "BRO-00286",
+  "invoice_date": "2026-04-17",
+  "due_date": "2026-05-17",
+  "purchase_order_number": "PO-00286",
+  "currency": "EUR",
+  "subtotal": 1311.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 235.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1546.98,
+  "amount_due": 1546.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "49",
+      "tax_rate": "0.18",
+      "line_total": "147"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "291",
+      "tax_rate": "0.18",
+      "line_total": "1164"
+    }
+  ],
+  "warnings": []
+}

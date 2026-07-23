@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Davis, Simmons and Ortega",
+  "vendor_address": "711 Christopher Court, Lisaside, AR 77370",
+  "vendor_tax_id": "TAX00000067",
+  "vendor_bank_account": "XXXX7787",
+  "invoice_number": "DAV-00727",
+  "invoice_date": "2026-01-08",
+  "due_date": "2026-02-07",
+  "purchase_order_number": "PO-00727",
+  "currency": "USD",
+  "subtotal": 7556.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1360.08,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8916.08,
+  "amount_due": 8916.08,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "472",
+      "tax_rate": "0.18",
+      "line_total": "472"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "44",
+      "tax_rate": "0.18",
+      "line_total": "88"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "490",
+      "tax_rate": "0.18",
+      "line_total": "1470"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "292",
+      "tax_rate": "0.18",
+      "line_total": "1168"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "181",
+      "tax_rate": "0.18",
+      "line_total": "724"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "220",
+      "tax_rate": "0.18",
+      "line_total": "220"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "191",
+      "tax_rate": "0.18",
+      "line_total": "382"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "470",
+      "tax_rate": "0.18",
+      "line_total": "470"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "433",
+      "tax_rate": "0.18",
+      "line_total": "2165"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "397",
+      "tax_rate": "0.18",
+      "line_total": "397"
+    }
+  ],
+  "warnings": []
+}

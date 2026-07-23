@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Raym0nd, Little and Mullins",
+  "vendor_address": "477 Peterson Center, Shelleyfort, DE 09065",
+  "vendor_tax_id": "TAX00000039",
+  "vendor_bank_account": "XXXX2340",
+  "invoice_number": "RAY-00654",
+  "invoice_date": "2026-04-25",
+  "due_date": "2026-05-25",
+  "purchase_order_number": "PO-00654",
+  "currency": "EUR",
+  "subtotal": 6838.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1230.84,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8068.84,
+  "amount_due": 8068.84,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "476",
+      "tax_rate": "0.18",
+      "line_total": "952"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "41",
+      "tax_rate": "0.18",
+      "line_total": "205"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "111",
+      "tax_rate": "0.18",
+      "line_total": "555"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "106",
+      "tax_rate": "0.18",
+      "line_total": "318"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "272",
+      "tax_rate": "0.18",
+      "line_total": "1360"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "469",
+      "tax_rate": "0.18",
+      "line_total": "1407"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "87",
+      "tax_rate": "0.18",
+      "line_total": "348"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "182",
+      "tax_rate": "0.18",
+      "line_total": "182"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "241",
+      "tax_rate": "0.18",
+      "line_total": "1205"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "153",
+      "tax_rate": "0.18",
+      "line_total": "306"
+    }
+  ],
+  "warnings": []
+}

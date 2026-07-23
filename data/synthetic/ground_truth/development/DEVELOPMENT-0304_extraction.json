@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Davis, Services",
+  "vendor_address": "711 Christopher Court, Lisaside, AR 77370",
+  "vendor_tax_id": "TAX00000067",
+  "vendor_bank_account": "XXXX7787",
+  "invoice_number": "DAV-00304",
+  "invoice_date": "2026-05-05",
+  "due_date": "2026-06-04",
+  "purchase_order_number": "PO-00304",
+  "currency": "USD",
+  "subtotal": 1778.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 320.04,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2098.04,
+  "amount_due": 2098.04,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "313",
+      "tax_rate": "0.18",
+      "line_total": "1252"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "263",
+      "tax_rate": "0.18",
+      "line_total": "526"
+    }
+  ],
+  "warnings": []
+}

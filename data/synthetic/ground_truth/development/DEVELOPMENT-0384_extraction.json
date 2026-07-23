@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Lozano, Smith and Thomas",
+  "vendor_address": "74596 Melissa Walk, Finleyfort, VI 71413",
+  "vendor_tax_id": "TAX00000051",
+  "vendor_bank_account": "XXXX1876",
+  "invoice_number": "LOZ-00384",
+  "invoice_date": "2026-01-25",
+  "due_date": "2026-02-24",
+  "purchase_order_number": "PO-00384",
+  "currency": "USD",
+  "subtotal": 9746.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1754.28,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11500.28,
+  "amount_due": 11500.28,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "454",
+      "tax_rate": "0.18",
+      "line_total": "908"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "370",
+      "tax_rate": "0.18",
+      "line_total": "1850"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "407",
+      "tax_rate": "0.18",
+      "line_total": "814"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "91",
+      "tax_rate": "0.18",
+      "line_total": "455"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "101",
+      "tax_rate": "0.18",
+      "line_total": "404"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "309",
+      "tax_rate": "0.18",
+      "line_total": "618"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "1785"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "396",
+      "tax_rate": "0.18",
+      "line_total": "792"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "500",
+      "tax_rate": "0.18",
+      "line_total": "2000"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "40",
+      "tax_rate": "0.18",
+      "line_total": "120"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 733",
+  "vendor_address": "125 Shannon Springs Suite 289, Port Tammy, NE 66412",
+  "vendor_tax_id": "TAX00000097",
+  "vendor_bank_account": "XXXX3872",
+  "invoice_number": "KEY-00733",
+  "invoice_date": "2026-01-14",
+  "due_date": "2026-02-13",
+  "purchase_order_number": "PO-00733",
+  "currency": "USD",
+  "subtotal": 8309.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1495.62,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9804.62,
+  "amount_due": 9804.62,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "25",
+      "tax_rate": "0.18",
+      "line_total": "125"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "216",
+      "tax_rate": "0.18",
+      "line_total": "864"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "427",
+      "tax_rate": "0.18",
+      "line_total": "1708"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "470",
+      "tax_rate": "0.18",
+      "line_total": "1880"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "337",
+      "tax_rate": "0.18",
+      "line_total": "1685"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "193",
+      "tax_rate": "0.18",
+      "line_total": "193"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "252",
+      "tax_rate": "0.18",
+      "line_total": "252"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "188",
+      "tax_rate": "0.18",
+      "line_total": "940"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "118",
+      "tax_rate": "0.18",
+      "line_total": "590"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "72",
+      "tax_rate": "0.18",
+      "line_total": "72"
+    }
+  ],
+  "warnings": []
+}

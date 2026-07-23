@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Raymond, Little and Mullins",
+  "vendor_address": "477 Peterson Center, Shelleyfort, DE 09065",
+  "vendor_tax_id": "TAX00000039",
+  "vendor_bank_account": "XXXX2340",
+  "invoice_number": "RAY-00158",
+  "invoice_date": "2026-06-08",
+  "due_date": "2026-07-08",
+  "purchase_order_number": "PO-00158",
+  "currency": "EUR",
+  "subtotal": 4750.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 855.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5605.0,
+  "amount_due": 5605.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "323",
+      "tax_rate": "0.18",
+      "line_total": "646"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "98",
+      "tax_rate": "0.18",
+      "line_total": "490"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "714"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "388",
+      "tax_rate": "0.18",
+      "line_total": "1940"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "192",
+      "tax_rate": "0.18",
+      "line_total": "960"
+    }
+  ],
+  "warnings": []
+}

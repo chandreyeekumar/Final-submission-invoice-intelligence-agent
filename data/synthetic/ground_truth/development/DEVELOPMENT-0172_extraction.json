@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Stevens, Norris and Cox",
+  "vendor_address": "69681 Harrell Summit, Jeffreyburgh, CA 67411",
+  "vendor_tax_id": "TAX00000074",
+  "vendor_bank_account": "XXXX3681",
+  "invoice_number": "STE1-00172",
+  "invoice_date": "2026-06-22",
+  "due_date": "2026-07-22",
+  "purchase_order_number": "PO-00172",
+  "currency": "USD",
+  "subtotal": 947.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 170.46,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1117.46,
+  "amount_due": 1117.46,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "245",
+      "tax_rate": "0.18",
+      "line_total": "245"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "234",
+      "tax_rate": "0.18",
+      "line_total": "702"
+    }
+  ],
+  "warnings": []
+}

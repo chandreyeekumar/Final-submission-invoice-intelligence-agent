@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Burton Ltd",
+  "vendor_address": "6978 Maddox Wall, Lake Jenniferside, WV 35474",
+  "vendor_tax_id": "TAX00000007",
+  "vendor_bank_account": "XXXX8279",
+  "invoice_number": "BUR-00370",
+  "invoice_date": "2026-01-11",
+  "due_date": "2026-02-10",
+  "purchase_order_number": "PO-00370",
+  "currency": "USD",
+  "subtotal": 1286.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 231.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1517.48,
+  "amount_due": 1517.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "314",
+      "tax_rate": "0.18",
+      "line_total": "314"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "486",
+      "tax_rate": "0.18",
+      "line_total": "972"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 926",
+  "vendor_address": "53584 John Roads, Davidport, RI 70425",
+  "vendor_tax_id": "TAX00000098",
+  "vendor_bank_account": "XXXX7956",
+  "invoice_number": "GUE-00926",
+  "invoice_date": "2026-01-27",
+  "due_date": "2026-02-26",
+  "purchase_order_number": "PO-00926",
+  "currency": "USD",
+  "subtotal": 550.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 99.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 649.0,
+  "amount_due": 649.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "480",
+      "tax_rate": "0.18",
+      "line_total": "480"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "35",
+      "tax_rate": "0.18",
+      "line_total": "70"
+    }
+  ],
+  "warnings": []
+}

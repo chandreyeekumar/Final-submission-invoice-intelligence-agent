@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Hayes-Wheeler",
+  "vendor_address": "4713 French Road, South Danny, IN 85387",
+  "vendor_tax_id": "TAX00000042",
+  "vendor_bank_account": "XXXX9577",
+  "invoice_number": "HAY-00943",
+  "invoice_date": "2026-02-13",
+  "due_date": "2026-03-15",
+  "purchase_order_number": "PO-00943",
+  "currency": "INR",
+  "subtotal": 6034.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1086.12,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7120.12,
+  "amount_due": 7120.12,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "155"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "384",
+      "tax_rate": "0.18",
+      "line_total": "1152"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "200",
+      "tax_rate": "0.18",
+      "line_total": "200"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "447",
+      "tax_rate": "0.18",
+      "line_total": "2235"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "714"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "375",
+      "tax_rate": "0.18",
+      "line_total": "750"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "58",
+      "tax_rate": "0.18",
+      "line_total": "58"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "50",
+      "tax_rate": "0.18",
+      "line_total": "200"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "26",
+      "tax_rate": "0.18",
+      "line_total": "52"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "259",
+      "tax_rate": "0.18",
+      "line_total": "518"
+    }
+  ],
+  "warnings": []
+}

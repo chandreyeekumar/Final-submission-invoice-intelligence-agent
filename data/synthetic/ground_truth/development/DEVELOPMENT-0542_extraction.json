@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Peters0n, Carter and Moore",
+  "vendor_address": "281 Skinner Parkways Apt. 252, New Mariotown, DE 48077",
+  "vendor_tax_id": "TAX00000008",
+  "vendor_bank_account": "XXXX9195",
+  "invoice_number": "PET-00542",
+  "invoice_date": "2026-01-03",
+  "due_date": "2026-02-02",
+  "purchase_order_number": "PO-00542",
+  "currency": "EUR",
+  "subtotal": 2952.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 531.36,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3483.36,
+  "amount_due": 3483.36,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "326",
+      "tax_rate": "0.18",
+      "line_total": "652"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "382",
+      "tax_rate": "0.18",
+      "line_total": "382"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "64",
+      "tax_rate": "0.18",
+      "line_total": "64"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "86",
+      "tax_rate": "0.18",
+      "line_total": "430"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "356",
+      "tax_rate": "0.18",
+      "line_total": "1424"
+    }
+  ],
+  "warnings": []
+}

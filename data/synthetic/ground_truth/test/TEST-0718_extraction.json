@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 718",
+  "vendor_address": "8892 Watson Haven Suite 659, Port Crystalmouth, CA 43714",
+  "vendor_tax_id": "TAX00000079",
+  "vendor_bank_account": "XXXX0514",
+  "invoice_number": "WAG-00718",
+  "invoice_date": "2026-06-28",
+  "due_date": "2026-07-28",
+  "purchase_order_number": "PO-00718",
+  "currency": "USD",
+  "subtotal": 7154.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1287.72,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8441.72,
+  "amount_due": 8441.72,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "345",
+      "tax_rate": "0.18",
+      "line_total": "1035"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "405",
+      "tax_rate": "0.18",
+      "line_total": "1215"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "159",
+      "tax_rate": "0.18",
+      "line_total": "636"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "359",
+      "tax_rate": "0.18",
+      "line_total": "718"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "194",
+      "tax_rate": "0.18",
+      "line_total": "582"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "255",
+      "tax_rate": "0.18",
+      "line_total": "510"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "188",
+      "tax_rate": "0.18",
+      "line_total": "940"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "487",
+      "tax_rate": "0.18",
+      "line_total": "487"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "350",
+      "tax_rate": "0.18",
+      "line_total": "700"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "331",
+      "tax_rate": "0.18",
+      "line_total": "331"
+    }
+  ],
+  "warnings": []
+}

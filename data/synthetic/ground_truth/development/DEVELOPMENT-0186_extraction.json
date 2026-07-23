@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Garcia-Yu",
+  "vendor_address": "262 Gilbert Plain Suite 769, Marcusbury, MP 11860",
+  "vendor_tax_id": "TAX00000034",
+  "vendor_bank_account": "XXXX0525",
+  "invoice_number": "GAR-00186",
+  "invoice_date": "2026-01-07",
+  "due_date": "2026-02-06",
+  "purchase_order_number": "PO-00186",
+  "currency": "USD",
+  "subtotal": 7797.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1403.46,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9200.46,
+  "amount_due": 9200.46,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "361",
+      "tax_rate": "0.18",
+      "line_total": "361"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "258",
+      "tax_rate": "0.18",
+      "line_total": "258"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "101",
+      "tax_rate": "0.18",
+      "line_total": "303"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "371",
+      "tax_rate": "0.18",
+      "line_total": "1484"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "492",
+      "tax_rate": "0.18",
+      "line_total": "2460"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "373",
+      "tax_rate": "0.18",
+      "line_total": "1119"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "347",
+      "tax_rate": "0.18",
+      "line_total": "347"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "208",
+      "tax_rate": "0.18",
+      "line_total": "624"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "665"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "88",
+      "tax_rate": "0.18",
+      "line_total": "176"
+    }
+  ],
+  "warnings": []
+}

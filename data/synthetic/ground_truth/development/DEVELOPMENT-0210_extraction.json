@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Hill Inc",
+  "vendor_address": "5581 Edward Lights, Lake Jason, MT 53925",
+  "vendor_tax_id": "TAX00000028",
+  "vendor_bank_account": "XXXX1169",
+  "invoice_number": "HIL-00210",
+  "invoice_date": "2026-01-31",
+  "due_date": "2026-03-02",
+  "purchase_order_number": "PO-00210",
+  "currency": "EUR",
+  "subtotal": 10086.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1815.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11901.48,
+  "amount_due": 11901.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "346",
+      "tax_rate": "0.18",
+      "line_total": "1730"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "487",
+      "tax_rate": "0.18",
+      "line_total": "2435"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "1428"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "28",
+      "tax_rate": "0.18",
+      "line_total": "112"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "292",
+      "tax_rate": "0.18",
+      "line_total": "292"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "230",
+      "tax_rate": "0.18",
+      "line_total": "1150"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "28",
+      "tax_rate": "0.18",
+      "line_total": "28"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "1945"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "294",
+      "tax_rate": "0.18",
+      "line_total": "882"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "28",
+      "tax_rate": "0.18",
+      "line_total": "84"
+    }
+  ],
+  "warnings": []
+}

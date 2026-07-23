@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Henson, Hoffman and Herman",
+  "vendor_address": "746 Donald Camp, Wendyville, CT 31276",
+  "vendor_tax_id": "TAX00000060",
+  "vendor_bank_account": "XXXX8689",
+  "invoice_number": "HEN1-00901",
+  "invoice_date": "2026-01-02",
+  "due_date": "2026-02-01",
+  "purchase_order_number": "PO-00901",
+  "currency": "USD",
+  "subtotal": 5786.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1041.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6827.48,
+  "amount_due": 6827.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "75",
+      "tax_rate": "0.18",
+      "line_total": "300"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "112",
+      "tax_rate": "0.18",
+      "line_total": "112"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "489",
+      "tax_rate": "0.18",
+      "line_total": "489"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "413",
+      "tax_rate": "0.18",
+      "line_total": "1652"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "122",
+      "tax_rate": "0.18",
+      "line_total": "488"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "188",
+      "tax_rate": "0.18",
+      "line_total": "752"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "182",
+      "tax_rate": "0.18",
+      "line_total": "182"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "329",
+      "tax_rate": "0.18",
+      "line_total": "987"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "512"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "78",
+      "tax_rate": "0.18",
+      "line_total": "312"
+    }
+  ],
+  "warnings": []
+}

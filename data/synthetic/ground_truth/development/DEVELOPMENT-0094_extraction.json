@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Russell Group",
+  "vendor_address": "5401 Amanda Stream, East Robertburgh, PW 05264",
+  "vendor_tax_id": "TAX00000112",
+  "vendor_bank_account": "XXXX9749",
+  "invoice_number": "RUS-00094",
+  "invoice_date": "2026-04-05",
+  "due_date": "2026-05-05",
+  "purchase_order_number": "PO-00094",
+  "currency": "USD",
+  "subtotal": 1012.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 182.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1194.16,
+  "amount_due": 1194.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "92",
+      "tax_rate": "0.18",
+      "line_total": "92"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "460",
+      "tax_rate": "0.18",
+      "line_total": "920"
+    }
+  ],
+  "warnings": []
+}

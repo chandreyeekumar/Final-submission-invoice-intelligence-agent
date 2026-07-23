@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Jones-Young",
+  "vendor_address": "299 Sanchez Mountains, Leeville, TN 56999",
+  "vendor_tax_id": "TAX00000011",
+  "vendor_bank_account": "XXXX0106",
+  "invoice_number": "JON-00135",
+  "invoice_date": "2026-05-16",
+  "due_date": "2026-06-15",
+  "purchase_order_number": "PO-00135",
+  "currency": "EUR",
+  "subtotal": 7145.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1286.1,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8431.1,
+  "amount_due": 8431.1,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "95",
+      "tax_rate": "0.18",
+      "line_total": "475"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "66",
+      "tax_rate": "0.18",
+      "line_total": "264"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "438",
+      "tax_rate": "0.18",
+      "line_total": "876"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "472",
+      "tax_rate": "0.18",
+      "line_total": "1888"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "496",
+      "tax_rate": "0.18",
+      "line_total": "1488"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "232",
+      "tax_rate": "0.18",
+      "line_total": "232"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "222",
+      "tax_rate": "0.18",
+      "line_total": "222"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "211",
+      "tax_rate": "0.18",
+      "line_total": "1055"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "217",
+      "tax_rate": "0.18",
+      "line_total": "434"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "211",
+      "tax_rate": "0.18",
+      "line_total": "211"
+    }
+  ],
+  "warnings": []
+}

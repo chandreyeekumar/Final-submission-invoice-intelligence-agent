@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Smith, Ballard and Santana",
+  "vendor_address": "75946 Bryant Hollow, South Melissa, CT 31592",
+  "vendor_tax_id": "TAX00000054",
+  "vendor_bank_account": "XXXX2591",
+  "invoice_number": "SMI-00191",
+  "invoice_date": "2026-01-12",
+  "due_date": "2026-02-11",
+  "purchase_order_number": "PO-00191",
+  "currency": "INR",
+  "subtotal": 4563.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 821.34,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5384.34,
+  "amount_due": 5384.34,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "364",
+      "tax_rate": "0.18",
+      "line_total": "1456"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "390",
+      "tax_rate": "0.18",
+      "line_total": "1170"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "222",
+      "tax_rate": "0.18",
+      "line_total": "222"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "438",
+      "tax_rate": "0.18",
+      "line_total": "1314"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "401",
+      "tax_rate": "0.18",
+      "line_total": "401"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Miller-Williams",
+  "vendor_address": "401 Suzanne Villages Apt. 490, South April, NV 36959",
+  "vendor_tax_id": "TAX00000044",
+  "vendor_bank_account": "XXXX2266",
+  "invoice_number": "MIL-00815",
+  "invoice_date": "2026-04-06",
+  "due_date": "2026-05-06",
+  "purchase_order_number": "PO-00815",
+  "currency": "INR",
+  "subtotal": 2101.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 378.18,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2479.18,
+  "amount_due": 2479.18,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "407",
+      "tax_rate": "0.18",
+      "line_total": "1221"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "220",
+      "tax_rate": "0.18",
+      "line_total": "880"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "vendor_address": "819 Johnson Course, East William, AK 74064",
+  "vendor_tax_id": "TAX00000001",
+  "vendor_bank_account": "XXXX0409",
+  "invoice_number": "ROD-00986",
+  "invoice_date": "2026-03-28",
+  "due_date": "2026-04-27",
+  "purchase_order_number": "PO-00986",
+  "currency": "EUR",
+  "subtotal": 2504.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 450.72,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2954.72,
+  "amount_due": 2954.72,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "462",
+      "tax_rate": "0.18",
+      "line_total": "2310"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "194",
+      "tax_rate": "0.18",
+      "line_total": "194"
+    }
+  ],
+  "warnings": []
+}

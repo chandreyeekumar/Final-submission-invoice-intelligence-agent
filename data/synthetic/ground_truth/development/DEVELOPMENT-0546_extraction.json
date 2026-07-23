@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Shaw Services",
+  "vendor_address": "99590 Christopher Row, Debrashire, MT 81517",
+  "vendor_tax_id": "TAX00000099",
+  "vendor_bank_account": "XXXX6570",
+  "invoice_number": "SHA-00546",
+  "invoice_date": "2026-01-07",
+  "due_date": "2026-02-06",
+  "purchase_order_number": "PO-00546",
+  "currency": "INR",
+  "subtotal": 5224.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 940.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6164.32,
+  "amount_due": 6164.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "487",
+      "tax_rate": "0.18",
+      "line_total": "487"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "386",
+      "tax_rate": "0.18",
+      "line_total": "1544"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "72",
+      "tax_rate": "0.18",
+      "line_total": "216"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "57"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "312",
+      "tax_rate": "0.18",
+      "line_total": "312"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "417",
+      "tax_rate": "0.18",
+      "line_total": "1251"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "29",
+      "tax_rate": "0.18",
+      "line_total": "116"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "96",
+      "tax_rate": "0.18",
+      "line_total": "384"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "497",
+      "tax_rate": "0.18",
+      "line_total": "497"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "360",
+      "tax_rate": "0.18",
+      "line_total": "360"
+    }
+  ],
+  "warnings": []
+}

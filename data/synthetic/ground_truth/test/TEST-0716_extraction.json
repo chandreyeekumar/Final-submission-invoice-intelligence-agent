@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Rodriguez, Services",
+  "vendor_address": "8970 April Points, Whitneyfort, NC 49892",
+  "vendor_tax_id": "TAX00000108",
+  "vendor_bank_account": "XXXX0936",
+  "invoice_number": "ROD2-00716",
+  "invoice_date": "2026-06-26",
+  "due_date": "2026-07-26",
+  "purchase_order_number": "PO-00716",
+  "currency": "EUR",
+  "subtotal": 922.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 165.96,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1087.96,
+  "amount_due": 1087.96,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "164",
+      "tax_rate": "0.18",
+      "line_total": "820"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "102",
+      "tax_rate": "0.18",
+      "line_total": "102"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Gordon-Dougherty",
+  "vendor_address": "0076 Parks Overpass Suite 115, North David, RI 83479",
+  "vendor_tax_id": "TAX00000065",
+  "vendor_bank_account": "XXXX7962",
+  "invoice_number": "GOR-00389",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-03-01",
+  "purchase_order_number": "PO-00389",
+  "currency": "USD",
+  "subtotal": 2887.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 519.66,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3406.66,
+  "amount_due": 3406.66,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "59",
+      "tax_rate": "0.18",
+      "line_total": "118"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "349",
+      "tax_rate": "0.18",
+      "line_total": "1745"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "384"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "115",
+      "tax_rate": "0.18",
+      "line_total": "230"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "205",
+      "tax_rate": "0.18",
+      "line_total": "410"
+    }
+  ],
+  "warnings": []
+}

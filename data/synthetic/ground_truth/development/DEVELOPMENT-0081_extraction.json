@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Fl0res, Long and Jensen",
+  "vendor_address": "887 Wells Brook Suite 516, Lauratown, PA 62706",
+  "vendor_tax_id": "TAX00000106",
+  "vendor_bank_account": "XXXX9489",
+  "invoice_number": "FLO-00081",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-04-22",
+  "purchase_order_number": "PO-00081",
+  "currency": "USD",
+  "subtotal": 13085.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 2355.3,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 15440.3,
+  "amount_due": 15440.3,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "316",
+      "tax_rate": "0.18",
+      "line_total": "1580"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "463",
+      "tax_rate": "0.18",
+      "line_total": "1852"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "248",
+      "tax_rate": "0.18",
+      "line_total": "496"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "267",
+      "tax_rate": "0.18",
+      "line_total": "1335"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "190",
+      "tax_rate": "0.18",
+      "line_total": "570"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "410",
+      "tax_rate": "0.18",
+      "line_total": "2050"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "213",
+      "tax_rate": "0.18",
+      "line_total": "1065"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "497",
+      "tax_rate": "0.18",
+      "line_total": "1988"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "465",
+      "tax_rate": "0.18",
+      "line_total": "1395"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "377",
+      "tax_rate": "0.18",
+      "line_total": "754"
+    }
+  ],
+  "warnings": []
+}

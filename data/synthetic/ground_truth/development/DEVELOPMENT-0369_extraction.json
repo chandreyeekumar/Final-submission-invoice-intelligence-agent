@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "vendor_address": "819 Johnson Course, East William, AK 74064",
+  "vendor_tax_id": "TAX00000001",
+  "vendor_bank_account": "XXXX0409",
+  "invoice_number": "ROD-00369",
+  "invoice_date": "2026-01-10",
+  "due_date": "2026-02-09",
+  "purchase_order_number": "PO-00369",
+  "currency": "EUR",
+  "subtotal": 8649.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1556.82,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10205.82,
+  "amount_due": 10205.82,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "462",
+      "tax_rate": "0.18",
+      "line_total": "924"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "447",
+      "tax_rate": "0.18",
+      "line_total": "1788"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "125",
+      "tax_rate": "0.18",
+      "line_total": "125"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "444",
+      "tax_rate": "0.18",
+      "line_total": "2220"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "351",
+      "tax_rate": "0.18",
+      "line_total": "1404"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "402",
+      "tax_rate": "0.18",
+      "line_total": "402"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "32",
+      "tax_rate": "0.18",
+      "line_total": "64"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "387",
+      "tax_rate": "0.18",
+      "line_total": "1548"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "39",
+      "tax_rate": "0.18",
+      "line_total": "117"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "57"
+    }
+  ],
+  "warnings": []
+}

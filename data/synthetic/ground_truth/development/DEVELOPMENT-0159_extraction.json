@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Rodriguez, Smith and Edwards",
+  "vendor_address": "8970 April Points, Whitneyfort, NC 49892",
+  "vendor_tax_id": "TAX00000108",
+  "vendor_bank_account": "XXXX0936",
+  "invoice_number": "ROD2-00159",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-07-09",
+  "purchase_order_number": "PO-00159",
+  "currency": "EUR",
+  "subtotal": 7687.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1383.66,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9070.66,
+  "amount_due": 9070.66,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "61",
+      "tax_rate": "0.18",
+      "line_total": "61"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "348",
+      "tax_rate": "0.18",
+      "line_total": "348"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "775"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "412",
+      "tax_rate": "0.18",
+      "line_total": "824"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "233",
+      "tax_rate": "0.18",
+      "line_total": "1165"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "347",
+      "tax_rate": "0.18",
+      "line_total": "1735"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "274",
+      "tax_rate": "0.18",
+      "line_total": "274"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "840"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "267",
+      "tax_rate": "0.18",
+      "line_total": "801"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "432",
+      "tax_rate": "0.18",
+      "line_total": "864"
+    }
+  ],
+  "warnings": []
+}

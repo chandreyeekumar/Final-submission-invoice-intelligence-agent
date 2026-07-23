@@ -1,0 +1,36 @@
+{
+  "vendor_name": "W0lf, Cole and Glass",
+  "vendor_address": "527 Taylor Roads Suite 490, Williamport, NH 59734",
+  "vendor_tax_id": "TAX00000076",
+  "vendor_bank_account": "XXXX3770",
+  "invoice_number": "WOL-00755",
+  "invoice_date": "2026-02-05",
+  "due_date": "2026-03-07",
+  "purchase_order_number": "PO-00755",
+  "currency": "EUR",
+  "subtotal": 956.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 172.08,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1128.08,
+  "amount_due": 1128.08,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "194",
+      "tax_rate": "0.18",
+      "line_total": "776"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "180",
+      "tax_rate": "0.18",
+      "line_total": "180"
+    }
+  ],
+  "warnings": []
+}

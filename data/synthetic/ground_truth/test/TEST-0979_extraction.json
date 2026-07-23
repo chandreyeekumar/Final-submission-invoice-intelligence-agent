@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Baldwin Ltd",
+  "vendor_address": "9402 Peterson Drives, Port Matthew, CO 50298",
+  "vendor_tax_id": "TAX00000002",
+  "vendor_bank_account": "XXXX4012",
+  "invoice_number": "BAL-00979",
+  "invoice_date": "2026-03-21",
+  "due_date": "2026-04-20",
+  "purchase_order_number": "PO-00979",
+  "currency": "EUR",
+  "subtotal": 8855.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1593.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10448.9,
+  "amount_due": 10448.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "127",
+      "tax_rate": "0.18",
+      "line_total": "635"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "482",
+      "tax_rate": "0.18",
+      "line_total": "1446"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "219",
+      "tax_rate": "0.18",
+      "line_total": "1095"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "52",
+      "tax_rate": "0.18",
+      "line_total": "260"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "355",
+      "tax_rate": "0.18",
+      "line_total": "710"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "200",
+      "tax_rate": "0.18",
+      "line_total": "400"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "193",
+      "tax_rate": "0.18",
+      "line_total": "965"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "386",
+      "tax_rate": "0.18",
+      "line_total": "1544"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "162",
+      "tax_rate": "0.18",
+      "line_total": "324"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "492",
+      "tax_rate": "0.18",
+      "line_total": "1476"
+    }
+  ],
+  "warnings": []
+}

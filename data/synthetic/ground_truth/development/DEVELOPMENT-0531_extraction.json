@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Wilson, Hicks and Bullock",
+  "vendor_address": "12432 Kathleen Shoal, East Stephaniefort, NH 99387",
+  "vendor_tax_id": "TAX00000075",
+  "vendor_bank_account": "XXXX0344",
+  "invoice_number": "WIL2-00531",
+  "invoice_date": "2026-06-21",
+  "due_date": "2026-07-21",
+  "purchase_order_number": "PO-00531",
+  "currency": "USD",
+  "subtotal": 9279.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1670.22,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10949.22,
+  "amount_due": 10949.22,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "293",
+      "tax_rate": "0.18",
+      "line_total": "879"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "260",
+      "tax_rate": "0.18",
+      "line_total": "260"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "282",
+      "tax_rate": "0.18",
+      "line_total": "1128"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "313",
+      "tax_rate": "0.18",
+      "line_total": "1252"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "235",
+      "tax_rate": "0.18",
+      "line_total": "705"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "428",
+      "tax_rate": "0.18",
+      "line_total": "1284"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "504"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "38",
+      "tax_rate": "0.18",
+      "line_total": "76"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "403",
+      "tax_rate": "0.18",
+      "line_total": "2015"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "392",
+      "tax_rate": "0.18",
+      "line_total": "1176"
+    }
+  ],
+  "warnings": []
+}

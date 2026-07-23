@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 615",
+  "vendor_address": "0752 Lewis Union Suite 549, Angelahaven, ID 11722",
+  "vendor_tax_id": "TAX00000035",
+  "vendor_bank_account": "XXXX4386",
+  "invoice_number": "KEI-00615",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-16",
+  "purchase_order_number": "PO-00615",
+  "currency": "INR",
+  "subtotal": 7092.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1276.56,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8368.56,
+  "amount_due": 8368.56,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "202",
+      "tax_rate": "0.18",
+      "line_total": "808"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "361",
+      "tax_rate": "0.18",
+      "line_total": "1444"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "227",
+      "tax_rate": "0.18",
+      "line_total": "1135"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "281",
+      "tax_rate": "0.18",
+      "line_total": "1124"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "95",
+      "tax_rate": "0.18",
+      "line_total": "285"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "75",
+      "tax_rate": "0.18",
+      "line_total": "300"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "148",
+      "tax_rate": "0.18",
+      "line_total": "148"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "274",
+      "tax_rate": "0.18",
+      "line_total": "1096"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "341",
+      "tax_rate": "0.18",
+      "line_total": "682"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "35",
+      "tax_rate": "0.18",
+      "line_total": "70"
+    }
+  ],
+  "warnings": []
+}

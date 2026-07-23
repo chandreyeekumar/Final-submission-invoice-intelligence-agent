@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 746",
+  "vendor_address": "685 Michael Falls, West Stacey, NM 25667",
+  "vendor_tax_id": "TAX00000081",
+  "vendor_bank_account": "XXXX7953",
+  "invoice_number": "SCH1-00746",
+  "invoice_date": "2026-01-27",
+  "due_date": "2026-02-26",
+  "purchase_order_number": "PO-00746",
+  "currency": "USD",
+  "subtotal": 2103.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 378.54,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2481.54,
+  "amount_due": 2481.54,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "319",
+      "tax_rate": "0.18",
+      "line_total": "1595"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "127",
+      "tax_rate": "0.18",
+      "line_total": "508"
+    }
+  ],
+  "warnings": []
+}

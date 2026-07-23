@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Russell Group",
+  "vendor_address": "5401 Amanda Stream, East Robertburgh, PW 05264",
+  "vendor_tax_id": "TAX00000112",
+  "vendor_bank_account": "XXXX9749",
+  "invoice_number": "RUS-00120",
+  "invoice_date": "2026-05-01",
+  "due_date": "2026-05-31",
+  "purchase_order_number": "PO-00120",
+  "currency": "USD",
+  "subtotal": 5968.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1074.24,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7042.24,
+  "amount_due": 7042.24,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "418",
+      "tax_rate": "0.18",
+      "line_total": "1254"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "59",
+      "tax_rate": "0.18",
+      "line_total": "118"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "344",
+      "tax_rate": "0.18",
+      "line_total": "1720"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "291",
+      "tax_rate": "0.18",
+      "line_total": "291"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "119",
+      "tax_rate": "0.18",
+      "line_total": "595"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "199",
+      "tax_rate": "0.18",
+      "line_total": "597"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "140",
+      "tax_rate": "0.18",
+      "line_total": "280"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "94",
+      "tax_rate": "0.18",
+      "line_total": "94"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "121",
+      "tax_rate": "0.18",
+      "line_total": "363"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "328",
+      "tax_rate": "0.18",
+      "line_total": "656"
+    }
+  ],
+  "warnings": []
+}

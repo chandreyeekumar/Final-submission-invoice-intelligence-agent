@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Reyes-Griffin",
+  "vendor_address": "9904 Schwartz Circle Apt. 742, Parksport, UT 15890",
+  "vendor_tax_id": "TAX00000115",
+  "vendor_bank_account": "XXXX9740",
+  "invoice_number": "REY-00565",
+  "invoice_date": "2026-01-26",
+  "due_date": "2026-02-25",
+  "purchase_order_number": "PO-00565",
+  "currency": "USD",
+  "subtotal": 564.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 101.52,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 665.52,
+  "amount_due": 665.52,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "47",
+      "tax_rate": "0.18",
+      "line_total": "188"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "94",
+      "tax_rate": "0.18",
+      "line_total": "376"
+    }
+  ],
+  "warnings": []
+}

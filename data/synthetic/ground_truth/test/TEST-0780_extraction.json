@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Armstrong-Andrews",
+  "vendor_address": "Unit 4064 Box 0909, DPO AP 65608",
+  "vendor_tax_id": "TAX00000055",
+  "vendor_bank_account": "XXXX4315",
+  "invoice_number": "ARM-00780",
+  "invoice_date": "2026-03-02",
+  "due_date": "2026-04-01",
+  "purchase_order_number": "PO-00780",
+  "currency": "INR",
+  "subtotal": 2404.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 432.72,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2836.72,
+  "amount_due": 2836.72,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "90",
+      "tax_rate": "0.18",
+      "line_total": "90"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "275",
+      "tax_rate": "0.18",
+      "line_total": "825"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "123",
+      "tax_rate": "0.18",
+      "line_total": "369"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "212",
+      "tax_rate": "0.18",
+      "line_total": "424"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "348",
+      "tax_rate": "0.18",
+      "line_total": "696"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Stephens-Levine",
+  "vendor_address": "3171 Darlene Ranch Apt. 053, Port Anne, CA 73142",
+  "vendor_tax_id": "TAX00000062",
+  "vendor_bank_account": "XXXX1832",
+  "invoice_number": "STE-00681",
+  "invoice_date": "2026-05-22",
+  "due_date": "2026-06-21",
+  "purchase_order_number": "PO-00681",
+  "currency": "INR",
+  "subtotal": 6345.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1142.1,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7487.1,
+  "amount_due": 7487.1,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "271",
+      "tax_rate": "0.18",
+      "line_total": "1355"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "426",
+      "tax_rate": "0.18",
+      "line_total": "426"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "272",
+      "tax_rate": "0.18",
+      "line_total": "1088"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "140",
+      "tax_rate": "0.18",
+      "line_total": "420"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "610"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "29",
+      "tax_rate": "0.18",
+      "line_total": "29"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "1413"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "202",
+      "tax_rate": "0.18",
+      "line_total": "606"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "109",
+      "tax_rate": "0.18",
+      "line_total": "218"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "36",
+      "tax_rate": "0.18",
+      "line_total": "180"
+    }
+  ],
+  "warnings": []
+}

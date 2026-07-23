@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Morton-Chase",
+  "vendor_address": "32677 Michelle Circle, South Aaron, MS 35261",
+  "vendor_tax_id": "TAX00000013",
+  "vendor_bank_account": "XXXX2547",
+  "invoice_number": "MOR-00896",
+  "invoice_date": "2026-06-26",
+  "due_date": "2026-07-26",
+  "purchase_order_number": "PO-00896",
+  "currency": "INR",
+  "subtotal": 469.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 84.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 553.42,
+  "amount_due": 553.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "102",
+      "tax_rate": "0.18",
+      "line_total": "306"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "163",
+      "tax_rate": "0.18",
+      "line_total": "163"
+    }
+  ],
+  "warnings": []
+}

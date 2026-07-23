@@ -1,0 +1,92 @@
+{
+  "vendor_name": "H0ward LLC",
+  "vendor_address": "781 Miller Hill, Barbaraland, AZ 87174",
+  "vendor_tax_id": "TAX00000003",
+  "vendor_bank_account": "XXXX1679",
+  "invoice_number": "HOW-00904",
+  "invoice_date": "2026-01-05",
+  "due_date": "2026-02-04",
+  "purchase_order_number": "PO-00904",
+  "currency": "USD",
+  "subtotal": 5683.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1022.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6705.94,
+  "amount_due": 6705.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "149",
+      "tax_rate": "0.18",
+      "line_total": "447"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "62",
+      "tax_rate": "0.18",
+      "line_total": "124"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "55",
+      "tax_rate": "0.18",
+      "line_total": "110"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "227",
+      "tax_rate": "0.18",
+      "line_total": "681"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "172",
+      "tax_rate": "0.18",
+      "line_total": "172"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "466",
+      "tax_rate": "0.18",
+      "line_total": "1864"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "288",
+      "tax_rate": "0.18",
+      "line_total": "1152"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "362",
+      "tax_rate": "0.18",
+      "line_total": "724"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "342"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "67"
+    }
+  ],
+  "warnings": []
+}

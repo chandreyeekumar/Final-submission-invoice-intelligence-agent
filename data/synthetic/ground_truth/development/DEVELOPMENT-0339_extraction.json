@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 339",
+  "vendor_address": "32677 Michelle Circle, South Aaron, MS 35261",
+  "vendor_tax_id": "TAX00000013",
+  "vendor_bank_account": "XXXX2547",
+  "invoice_number": "MOR-00339",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-07-09",
+  "purchase_order_number": "PO-00339",
+  "currency": "INR",
+  "subtotal": 6912.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1244.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8156.16,
+  "amount_due": 8156.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "204",
+      "tax_rate": "0.18",
+      "line_total": "612"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "238",
+      "tax_rate": "0.18",
+      "line_total": "714"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "68",
+      "tax_rate": "0.18",
+      "line_total": "68"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "24"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "359",
+      "tax_rate": "0.18",
+      "line_total": "718"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "188",
+      "tax_rate": "0.18",
+      "line_total": "376"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "477",
+      "tax_rate": "0.18",
+      "line_total": "1431"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "338",
+      "tax_rate": "0.18",
+      "line_total": "1352"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "469",
+      "tax_rate": "0.18",
+      "line_total": "1407"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "210",
+      "tax_rate": "0.18",
+      "line_total": "210"
+    }
+  ],
+  "warnings": []
+}

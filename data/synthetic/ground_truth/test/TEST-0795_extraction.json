@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Landry PLC",
+  "vendor_address": "95004 Harper Ville, Mitchelltown, PR 14590",
+  "vendor_tax_id": "TAX00000103",
+  "vendor_bank_account": "XXXX9105",
+  "invoice_number": "LAN-00795",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-16",
+  "purchase_order_number": "PO-00795",
+  "currency": "EUR",
+  "subtotal": 3523.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 634.14,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4157.14,
+  "amount_due": 4157.14,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "496",
+      "tax_rate": "0.18",
+      "line_total": "992"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "377",
+      "tax_rate": "0.18",
+      "line_total": "1508"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "23",
+      "tax_rate": "0.18",
+      "line_total": "69"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "437",
+      "tax_rate": "0.18",
+      "line_total": "874"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "20",
+      "tax_rate": "0.18",
+      "line_total": "80"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Brooks-Hatfield",
+  "vendor_address": "39868 Brandon Dam Suite 787, New Patricia, DC 43488",
+  "vendor_tax_id": "TAX00000105",
+  "vendor_bank_account": "XXXX4861",
+  "invoice_number": "BRO1-00340",
+  "invoice_date": "2026-06-10",
+  "due_date": "2026-07-10",
+  "purchase_order_number": "PO-00340",
+  "currency": "USD",
+  "subtotal": 2353.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 423.54,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2776.54,
+  "amount_due": 2776.54,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "253",
+      "tax_rate": "0.18",
+      "line_total": "1012"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "447",
+      "tax_rate": "0.18",
+      "line_total": "1341"
+    }
+  ],
+  "warnings": []
+}

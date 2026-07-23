@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Gross-Valencia",
+  "vendor_address": "Unit 2588 Box 1537, DPO AE 35559",
+  "vendor_tax_id": "TAX00000101",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "GRO-00438",
+  "invoice_date": "2026-03-20",
+  "due_date": "2026-04-19",
+  "purchase_order_number": "PO-00438",
+  "currency": "USD",
+  "subtotal": 8341.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1501.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9842.38,
+  "amount_due": 9842.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "376",
+      "tax_rate": "0.18",
+      "line_total": "1504"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "189",
+      "tax_rate": "0.18",
+      "line_total": "189"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "451",
+      "tax_rate": "0.18",
+      "line_total": "451"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "48",
+      "tax_rate": "0.18",
+      "line_total": "96"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "417",
+      "tax_rate": "0.18",
+      "line_total": "1251"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "56",
+      "tax_rate": "0.18",
+      "line_total": "224"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "260",
+      "tax_rate": "0.18",
+      "line_total": "1300"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "118",
+      "tax_rate": "0.18",
+      "line_total": "236"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "438",
+      "tax_rate": "0.18",
+      "line_total": "1314"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "444",
+      "tax_rate": "0.18",
+      "line_total": "1776"
+    }
+  ],
+  "warnings": []
+}

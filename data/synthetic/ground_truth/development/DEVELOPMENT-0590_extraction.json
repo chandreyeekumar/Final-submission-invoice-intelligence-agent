@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Jacobs-Mason",
+  "vendor_address": "USCGC Garcia, FPO AA 94127",
+  "vendor_tax_id": "TAX00000078",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "JAC-00590",
+  "invoice_date": "2026-02-20",
+  "due_date": "2026-03-22",
+  "purchase_order_number": "PO-00590",
+  "currency": "USD",
+  "subtotal": 3282.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 590.76,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3872.76,
+  "amount_due": 3872.76,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "223",
+      "tax_rate": "0.18",
+      "line_total": "669"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "386",
+      "tax_rate": "0.18",
+      "line_total": "772"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "209",
+      "tax_rate": "0.18",
+      "line_total": "836"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "210",
+      "tax_rate": "0.18",
+      "line_total": "840"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "165",
+      "tax_rate": "0.18",
+      "line_total": "165"
+    }
+  ],
+  "warnings": []
+}

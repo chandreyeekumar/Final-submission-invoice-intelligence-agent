@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Schneider-Murphy",
+  "vendor_address": "685 Michael Falls, West Stacey, NM 25667",
+  "vendor_tax_id": "TAX00000081",
+  "vendor_bank_account": "XXXX7953",
+  "invoice_number": "SCH1-00046",
+  "invoice_date": "2026-02-16",
+  "due_date": "2026-03-18",
+  "purchase_order_number": "PO-00046",
+  "currency": "USD",
+  "subtotal": 993.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 178.74,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1171.74,
+  "amount_due": 1171.74,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "140",
+      "tax_rate": "0.18",
+      "line_total": "420"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "191",
+      "tax_rate": "0.18",
+      "line_total": "573"
+    }
+  ],
+  "warnings": []
+}

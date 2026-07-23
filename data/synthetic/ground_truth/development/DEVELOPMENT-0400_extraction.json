@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Wagner and S0ns",
+  "vendor_address": "8892 Watson Haven Suite 659, Port Crystalmouth, CA 43714",
+  "vendor_tax_id": "TAX00000079",
+  "vendor_bank_account": "XXXX0514",
+  "invoice_number": "WAG-00400",
+  "invoice_date": "2026-02-10",
+  "due_date": "2026-03-12",
+  "purchase_order_number": "PO-00400",
+  "currency": "USD",
+  "subtotal": 2567.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 462.06,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3029.06,
+  "amount_due": 3029.06,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "462"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "421",
+      "tax_rate": "0.18",
+      "line_total": "2105"
+    }
+  ],
+  "warnings": []
+}

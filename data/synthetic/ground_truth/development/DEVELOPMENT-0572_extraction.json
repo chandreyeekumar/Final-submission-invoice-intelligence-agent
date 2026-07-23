@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Vasquez-Ray",
+  "vendor_address": "94131 Obrien Turnpike, Port Alexandra, NV 58529",
+  "vendor_tax_id": "TAX00000040",
+  "vendor_bank_account": "XXXX4040",
+  "invoice_number": "VAS-00572",
+  "invoice_date": "2026-02-02",
+  "due_date": "2026-03-04",
+  "purchase_order_number": "PO-00572",
+  "currency": "INR",
+  "subtotal": 4588.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 825.84,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5413.84,
+  "amount_due": 5413.84,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "402",
+      "tax_rate": "0.18",
+      "line_total": "2010"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "32",
+      "tax_rate": "0.18",
+      "line_total": "160"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "257",
+      "tax_rate": "0.18",
+      "line_total": "1028"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "467",
+      "tax_rate": "0.18",
+      "line_total": "934"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "456"
+    }
+  ],
+  "warnings": []
+}

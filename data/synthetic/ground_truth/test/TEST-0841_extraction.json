@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Armstrong-Andrews",
+  "vendor_address": "Unit 4064 Box 0909, DPO AP 65608",
+  "vendor_tax_id": "TAX00000055",
+  "vendor_bank_account": "XXXX4315",
+  "invoice_number": "ARM-00841",
+  "invoice_date": "2026-05-02",
+  "due_date": "2026-06-01",
+  "purchase_order_number": "PO-00841",
+  "currency": "INR",
+  "subtotal": 8408.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1513.44,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9921.44,
+  "amount_due": 9921.44,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "193",
+      "tax_rate": "0.18",
+      "line_total": "193"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "445",
+      "tax_rate": "0.18",
+      "line_total": "890"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "455",
+      "tax_rate": "0.18",
+      "line_total": "2275"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "168"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "267",
+      "tax_rate": "0.18",
+      "line_total": "801"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "465"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "21",
+      "tax_rate": "0.18",
+      "line_total": "42"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "221",
+      "tax_rate": "0.18",
+      "line_total": "1105"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "492",
+      "tax_rate": "0.18",
+      "line_total": "984"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "495",
+      "tax_rate": "0.18",
+      "line_total": "1485"
+    }
+  ],
+  "warnings": []
+}

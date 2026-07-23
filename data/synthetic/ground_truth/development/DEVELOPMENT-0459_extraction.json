@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Rodriguez-Gregory",
+  "vendor_address": "36900 Kevin Forest Apt. 445, North Tylerchester, HI 17433",
+  "vendor_tax_id": "TAX00000072",
+  "vendor_bank_account": "XXXX6118",
+  "invoice_number": "ROD1-00459",
+  "invoice_date": "2026-04-10",
+  "due_date": "2026-05-10",
+  "purchase_order_number": "PO-00459",
+  "currency": "EUR",
+  "subtotal": 7241.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1303.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8544.38,
+  "amount_due": 8544.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "39",
+      "tax_rate": "0.18",
+      "line_total": "39"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "202",
+      "tax_rate": "0.18",
+      "line_total": "808"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "90",
+      "tax_rate": "0.18",
+      "line_total": "180"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "207",
+      "tax_rate": "0.18",
+      "line_total": "621"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "147",
+      "tax_rate": "0.18",
+      "line_total": "735"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "151",
+      "tax_rate": "0.18",
+      "line_total": "302"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "201"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "224",
+      "tax_rate": "0.18",
+      "line_total": "1120"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "489",
+      "tax_rate": "0.18",
+      "line_total": "2445"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "395",
+      "tax_rate": "0.18",
+      "line_total": "790"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Henderson-Owens",
+  "vendor_address": "65133 Amanda Dam, Whitemouth, IA 10381",
+  "vendor_tax_id": "TAX00000012",
+  "vendor_bank_account": "XXXX6924",
+  "invoice_number": "HEN-00878",
+  "invoice_date": "2026-06-08",
+  "due_date": "2026-07-08",
+  "purchase_order_number": "PO-00878",
+  "currency": "USD",
+  "subtotal": 1619.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 291.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1910.42,
+  "amount_due": 1910.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "200",
+      "tax_rate": "0.18",
+      "line_total": "800"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "273",
+      "tax_rate": "0.18",
+      "line_total": "819"
+    }
+  ],
+  "warnings": []
+}

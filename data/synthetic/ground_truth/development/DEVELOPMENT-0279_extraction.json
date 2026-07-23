@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 279",
+  "vendor_address": "USS Ellis, FPO AP 13605",
+  "vendor_tax_id": "TAX00000016",
+  "vendor_bank_account": "XXXX9891",
+  "invoice_number": "BRY-00279",
+  "invoice_date": "2026-04-10",
+  "due_date": "2026-05-10",
+  "purchase_order_number": "PO-00279",
+  "currency": "INR",
+  "subtotal": 5519.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 993.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6512.42,
+  "amount_due": 6512.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "443",
+      "tax_rate": "0.18",
+      "line_total": "1329"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "40",
+      "tax_rate": "0.18",
+      "line_total": "200"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "447",
+      "tax_rate": "0.18",
+      "line_total": "894"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "95",
+      "tax_rate": "0.18",
+      "line_total": "285"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "384",
+      "tax_rate": "0.18",
+      "line_total": "384"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "202",
+      "tax_rate": "0.18",
+      "line_total": "404"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "282",
+      "tax_rate": "0.18",
+      "line_total": "1128"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "366",
+      "tax_rate": "0.18",
+      "line_total": "366"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "153",
+      "tax_rate": "0.18",
+      "line_total": "459"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "35",
+      "tax_rate": "0.18",
+      "line_total": "70"
+    }
+  ],
+  "warnings": []
+}

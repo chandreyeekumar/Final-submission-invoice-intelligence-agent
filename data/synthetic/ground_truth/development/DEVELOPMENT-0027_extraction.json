@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Key-Higgins",
+  "vendor_address": "125 Shannon Springs Suite 289, Port Tammy, NE 66412",
+  "vendor_tax_id": "TAX00000097",
+  "vendor_bank_account": "XXXX3872",
+  "invoice_number": "KEY-00027",
+  "invoice_date": "2026-01-28",
+  "due_date": "2026-02-27",
+  "purchase_order_number": "PO-00027",
+  "currency": "USD",
+  "subtotal": 8396.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1511.28,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9907.28,
+  "amount_due": 9907.28,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "308",
+      "tax_rate": "0.18",
+      "line_total": "1540"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "57"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "129",
+      "tax_rate": "0.18",
+      "line_total": "645"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "775"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "497",
+      "tax_rate": "0.18",
+      "line_total": "994"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "1413"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "470",
+      "tax_rate": "0.18",
+      "line_total": "470"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "209",
+      "tax_rate": "0.18",
+      "line_total": "418"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "100",
+      "tax_rate": "0.18",
+      "line_total": "300"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "446",
+      "tax_rate": "0.18",
+      "line_total": "1784"
+    }
+  ],
+  "warnings": []
+}

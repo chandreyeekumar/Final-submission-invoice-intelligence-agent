@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Burton Ltd",
+  "vendor_address": "6978 Maddox Wall, Lake Jenniferside, WV 35474",
+  "vendor_tax_id": "TAX00000007",
+  "vendor_bank_account": "XXXX8279",
+  "invoice_number": "BUR-00327",
+  "invoice_date": "2026-05-28",
+  "due_date": "2026-06-27",
+  "purchase_order_number": "PO-00327",
+  "currency": "USD",
+  "subtotal": 6545.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1178.1,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7723.1,
+  "amount_due": 7723.1,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "195",
+      "tax_rate": "0.18",
+      "line_total": "390"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "311",
+      "tax_rate": "0.18",
+      "line_total": "1244"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "93",
+      "tax_rate": "0.18",
+      "line_total": "372"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "461",
+      "tax_rate": "0.18",
+      "line_total": "1383"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "418",
+      "tax_rate": "0.18",
+      "line_total": "836"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "269",
+      "tax_rate": "0.18",
+      "line_total": "269"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "343",
+      "tax_rate": "0.18",
+      "line_total": "1029"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "180",
+      "tax_rate": "0.18",
+      "line_total": "360"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "22",
+      "tax_rate": "0.18",
+      "line_total": "22"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "160",
+      "tax_rate": "0.18",
+      "line_total": "640"
+    }
+  ],
+  "warnings": []
+}

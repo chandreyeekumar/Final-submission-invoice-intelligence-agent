@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 79",
+  "vendor_address": "8416 Ryan View Apt. 845, North Markport, ME 58948",
+  "vendor_tax_id": "TAX00000091",
+  "vendor_bank_account": "XXXX3139",
+  "invoice_number": "GON-00079",
+  "invoice_date": "2026-03-21",
+  "due_date": "2026-04-20",
+  "purchase_order_number": "PO-00079",
+  "currency": "USD",
+  "subtotal": 1784.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 321.12,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2105.12,
+  "amount_due": 2105.12,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "144",
+      "tax_rate": "0.18",
+      "line_total": "576"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "302",
+      "tax_rate": "0.18",
+      "line_total": "1208"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Hill Inc",
+  "vendor_address": "5581 Edward Lights, Lake Jason, MT 53925",
+  "vendor_tax_id": "TAX00000028",
+  "vendor_bank_account": "XXXX1169",
+  "invoice_number": "HIL-00054",
+  "invoice_date": "2026-02-24",
+  "due_date": "2026-03-26",
+  "purchase_order_number": "PO-00054",
+  "currency": "EUR",
+  "subtotal": 7367.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1326.06,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8693.06,
+  "amount_due": 8693.06,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "105",
+      "tax_rate": "0.18",
+      "line_total": "315"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "1650"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "418",
+      "tax_rate": "0.18",
+      "line_total": "418"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "179",
+      "tax_rate": "0.18",
+      "line_total": "358"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "316",
+      "tax_rate": "0.18",
+      "line_total": "316"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "495",
+      "tax_rate": "0.18",
+      "line_total": "495"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "314",
+      "tax_rate": "0.18",
+      "line_total": "942"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "223",
+      "tax_rate": "0.18",
+      "line_total": "892"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "58",
+      "tax_rate": "0.18",
+      "line_total": "116"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "373",
+      "tax_rate": "0.18",
+      "line_total": "1865"
+    }
+  ],
+  "warnings": []
+}

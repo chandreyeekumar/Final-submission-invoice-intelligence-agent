@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 877",
+  "vendor_address": "7737 Patrick Rapid Apt. 146, Sarahhaven, KY 00837",
+  "vendor_tax_id": "TAX00000048",
+  "vendor_bank_account": "XXXX6304",
+  "invoice_number": "COL-00877",
+  "invoice_date": "2026-06-07",
+  "due_date": "2026-07-07",
+  "purchase_order_number": "PO-00877",
+  "currency": "EUR",
+  "subtotal": 7377.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1327.86,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8704.86,
+  "amount_due": 8704.86,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "423",
+      "tax_rate": "0.18",
+      "line_total": "423"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "461",
+      "tax_rate": "0.18",
+      "line_total": "461"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "418",
+      "tax_rate": "0.18",
+      "line_total": "836"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "183",
+      "tax_rate": "0.18",
+      "line_total": "366"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "219",
+      "tax_rate": "0.18",
+      "line_total": "438"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "1556"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "437",
+      "tax_rate": "0.18",
+      "line_total": "1748"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "77",
+      "tax_rate": "0.18",
+      "line_total": "77"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "238",
+      "tax_rate": "0.18",
+      "line_total": "1190"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "94",
+      "tax_rate": "0.18",
+      "line_total": "282"
+    }
+  ],
+  "warnings": []
+}

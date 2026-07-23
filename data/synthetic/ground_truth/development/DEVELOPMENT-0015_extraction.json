@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Willis and Sons",
+  "vendor_address": "042 Amber Union, North Donna, AK 17776",
+  "vendor_tax_id": "TAX00000063",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "WIL1-00015",
+  "invoice_date": "2026-01-16",
+  "due_date": "2026-02-15",
+  "purchase_order_number": "PO-00015",
+  "currency": "INR",
+  "subtotal": 11716.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 2108.88,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 13824.88,
+  "amount_due": 13824.88,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "412",
+      "tax_rate": "0.18",
+      "line_total": "2060"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "85",
+      "tax_rate": "0.18",
+      "line_total": "170"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "301",
+      "tax_rate": "0.18",
+      "line_total": "1204"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "310"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "466",
+      "tax_rate": "0.18",
+      "line_total": "2330"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "236",
+      "tax_rate": "0.18",
+      "line_total": "1180"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "495",
+      "tax_rate": "0.18",
+      "line_total": "990"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "406",
+      "tax_rate": "0.18",
+      "line_total": "2030"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "385",
+      "tax_rate": "0.18",
+      "line_total": "770"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "224",
+      "tax_rate": "0.18",
+      "line_total": "672"
+    }
+  ],
+  "warnings": []
+}

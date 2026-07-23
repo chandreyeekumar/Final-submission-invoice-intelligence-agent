@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Rose, Burch and Montoya",
+  "vendor_address": "0758 Jennifer Path, West Christopherburgh, KY 59394",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX7749",
+  "invoice_number": "ROS-00913",
+  "invoice_date": "2026-01-14",
+  "due_date": "2026-02-13",
+  "purchase_order_number": "PO-00913",
+  "currency": "INR",
+  "subtotal": 10650.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1917.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 12567.0,
+  "amount_due": 12567.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "274",
+      "tax_rate": "0.18",
+      "line_total": "274"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "494",
+      "tax_rate": "0.18",
+      "line_total": "2470"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "71",
+      "tax_rate": "0.18",
+      "line_total": "355"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "277",
+      "tax_rate": "0.18",
+      "line_total": "1108"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "432",
+      "tax_rate": "0.18",
+      "line_total": "2160"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "361",
+      "tax_rate": "0.18",
+      "line_total": "361"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "456",
+      "tax_rate": "0.18",
+      "line_total": "1368"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "512"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "417",
+      "tax_rate": "0.18",
+      "line_total": "834"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "302",
+      "tax_rate": "0.18",
+      "line_total": "1208"
+    }
+  ],
+  "warnings": []
+}

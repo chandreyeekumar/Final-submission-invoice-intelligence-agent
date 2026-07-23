@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Dalton-Branch",
+  "vendor_address": "133 Guerrero Estate, East Andrea, GA 00851",
+  "vendor_tax_id": "TAX00000041",
+  "vendor_bank_account": "XXXX8830",
+  "invoice_number": "DAL-00585",
+  "invoice_date": "2026-02-15",
+  "due_date": "2026-03-17",
+  "purchase_order_number": "PO-00585",
+  "currency": "EUR",
+  "subtotal": 7546.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1358.28,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8904.28,
+  "amount_due": 8904.28,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "296",
+      "tax_rate": "0.18",
+      "line_total": "1184"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "293",
+      "tax_rate": "0.18",
+      "line_total": "586"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "82",
+      "tax_rate": "0.18",
+      "line_total": "246"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "227",
+      "tax_rate": "0.18",
+      "line_total": "227"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "413",
+      "tax_rate": "0.18",
+      "line_total": "1652"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "254",
+      "tax_rate": "0.18",
+      "line_total": "508"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "99",
+      "tax_rate": "0.18",
+      "line_total": "297"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "398",
+      "tax_rate": "0.18",
+      "line_total": "398"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "279",
+      "tax_rate": "0.18",
+      "line_total": "1395"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "351",
+      "tax_rate": "0.18",
+      "line_total": "1053"
+    }
+  ],
+  "warnings": []
+}

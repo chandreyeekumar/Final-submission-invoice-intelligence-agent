@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Baldwin Ltd",
+  "vendor_address": "9402 Peterson Drives, Port Matthew, CO 50298",
+  "vendor_tax_id": "TAX00000002",
+  "vendor_bank_account": "XXXX4012",
+  "invoice_number": "BAL-00439",
+  "invoice_date": "2026-03-21",
+  "due_date": "2026-04-20",
+  "purchase_order_number": "PO-00439",
+  "currency": "EUR",
+  "subtotal": 1018.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 183.24,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1201.24,
+  "amount_due": 1201.24,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "217",
+      "tax_rate": "0.18",
+      "line_total": "434"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "146",
+      "tax_rate": "0.18",
+      "line_total": "584"
+    }
+  ],
+  "warnings": []
+}

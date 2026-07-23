@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Walker-Velasquez",
+  "vendor_address": "30365 Lin Trail Suite 586, Sheilaville, FM 34738",
+  "vendor_tax_id": "TAX00000021",
+  "vendor_bank_account": "XXXX1139",
+  "invoice_number": "WAL-00114",
+  "invoice_date": "2026-04-25",
+  "due_date": "2026-05-25",
+  "purchase_order_number": "PO-00114",
+  "currency": "EUR",
+  "subtotal": 7961.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1432.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9393.98,
+  "amount_due": 9393.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "159",
+      "tax_rate": "0.18",
+      "line_total": "159"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "358",
+      "tax_rate": "0.18",
+      "line_total": "1432"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "268",
+      "tax_rate": "0.18",
+      "line_total": "1072"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "246",
+      "tax_rate": "0.18",
+      "line_total": "1230"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "159",
+      "tax_rate": "0.18",
+      "line_total": "636"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "406",
+      "tax_rate": "0.18",
+      "line_total": "812"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "78",
+      "tax_rate": "0.18",
+      "line_total": "390"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "240",
+      "tax_rate": "0.18",
+      "line_total": "720"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "165",
+      "tax_rate": "0.18",
+      "line_total": "165"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "269",
+      "tax_rate": "0.18",
+      "line_total": "1345"
+    }
+  ],
+  "warnings": []
+}

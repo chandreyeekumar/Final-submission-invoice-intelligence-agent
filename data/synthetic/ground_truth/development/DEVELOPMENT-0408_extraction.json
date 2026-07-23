@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Cortez Group",
+  "vendor_address": "777 Christopher Forges, Holtport, TN 76726",
+  "vendor_tax_id": "TAX00000036",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "COR-00408",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-03-20",
+  "purchase_order_number": "PO-00408",
+  "currency": "USD",
+  "subtotal": 8526.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1534.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10060.68,
+  "amount_due": 10060.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "496",
+      "tax_rate": "0.18",
+      "line_total": "1984"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "314",
+      "tax_rate": "0.18",
+      "line_total": "1256"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "153",
+      "tax_rate": "0.18",
+      "line_total": "153"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "228",
+      "tax_rate": "0.18",
+      "line_total": "456"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "74",
+      "tax_rate": "0.18",
+      "line_total": "370"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "285"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "170",
+      "tax_rate": "0.18",
+      "line_total": "850"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "79",
+      "tax_rate": "0.18",
+      "line_total": "237"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "151",
+      "tax_rate": "0.18",
+      "line_total": "755"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "436",
+      "tax_rate": "0.18",
+      "line_total": "2180"
+    }
+  ],
+  "warnings": []
+}

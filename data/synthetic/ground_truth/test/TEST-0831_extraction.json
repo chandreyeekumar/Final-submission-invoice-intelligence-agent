@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Bryant-Hickman",
+  "vendor_address": "USS Ellis, FPO AP 13605",
+  "vendor_tax_id": "TAX00000016",
+  "vendor_bank_account": "XXXX9891",
+  "invoice_number": "BRY-00831",
+  "invoice_date": "2026-04-22",
+  "due_date": "2026-05-22",
+  "purchase_order_number": "PO-00831",
+  "currency": "INR",
+  "subtotal": 2994.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 538.92,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3532.92,
+  "amount_due": 3532.92,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "53",
+      "tax_rate": "0.18",
+      "line_total": "212"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "347",
+      "tax_rate": "0.18",
+      "line_total": "1041"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "205",
+      "tax_rate": "0.18",
+      "line_total": "205"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "418",
+      "tax_rate": "0.18",
+      "line_total": "1254"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "94",
+      "tax_rate": "0.18",
+      "line_total": "282"
+    }
+  ],
+  "warnings": []
+}

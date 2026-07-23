@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Bray, Services",
+  "vendor_address": "3524 Jean Crossroad, Brandonton, OH 38791",
+  "vendor_tax_id": "TAX00000038",
+  "vendor_bank_account": "XXXX6482",
+  "invoice_number": "BRA-00147",
+  "invoice_date": "2026-05-28",
+  "due_date": "2026-06-27",
+  "purchase_order_number": "PO-00147",
+  "currency": "EUR",
+  "subtotal": 7032.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1265.76,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8297.76,
+  "amount_due": 8297.76,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "105",
+      "tax_rate": "0.18",
+      "line_total": "420"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "199",
+      "tax_rate": "0.18",
+      "line_total": "796"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "41",
+      "tax_rate": "0.18",
+      "line_total": "164"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "334",
+      "tax_rate": "0.18",
+      "line_total": "1002"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "160",
+      "tax_rate": "0.18",
+      "line_total": "640"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "58",
+      "tax_rate": "0.18",
+      "line_total": "58"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "206",
+      "tax_rate": "0.18",
+      "line_total": "824"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "430",
+      "tax_rate": "0.18",
+      "line_total": "2150"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "35",
+      "tax_rate": "0.18",
+      "line_total": "70"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "454",
+      "tax_rate": "0.18",
+      "line_total": "908"
+    }
+  ],
+  "warnings": []
+}

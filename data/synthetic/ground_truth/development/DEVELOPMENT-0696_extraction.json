@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Anderson-Baker",
+  "vendor_address": "0609 Michael Heights Apt. 687, Marciaville, DC 13173",
+  "vendor_tax_id": "TAX00000104",
+  "vendor_bank_account": "XXXX7973",
+  "invoice_number": "AND1-00696",
+  "invoice_date": "2026-06-06",
+  "due_date": "2026-07-06",
+  "purchase_order_number": "PO-00696",
+  "currency": "EUR",
+  "subtotal": 9879.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1778.22,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11657.22,
+  "amount_due": 11657.22,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "452",
+      "tax_rate": "0.18",
+      "line_total": "2260"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "139",
+      "tax_rate": "0.18",
+      "line_total": "695"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "173",
+      "tax_rate": "0.18",
+      "line_total": "519"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "361",
+      "tax_rate": "0.18",
+      "line_total": "1083"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "364",
+      "tax_rate": "0.18",
+      "line_total": "1820"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "385",
+      "tax_rate": "0.18",
+      "line_total": "770"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "286",
+      "tax_rate": "0.18",
+      "line_total": "1144"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "73",
+      "tax_rate": "0.18",
+      "line_total": "146"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "284",
+      "tax_rate": "0.18",
+      "line_total": "852"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "118",
+      "tax_rate": "0.18",
+      "line_total": "590"
+    }
+  ],
+  "warnings": []
+}

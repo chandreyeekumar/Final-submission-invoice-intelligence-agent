@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Dalt0n-Branch",
+  "vendor_address": "133 Guerrero Estate, East Andrea, GA 00851",
+  "vendor_tax_id": "TAX00000041",
+  "vendor_bank_account": "XXXX8830",
+  "invoice_number": "DAL-00731",
+  "invoice_date": "2026-01-12",
+  "due_date": "2026-02-11",
+  "purchase_order_number": "PO-00731",
+  "currency": "EUR",
+  "subtotal": 294.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 52.92,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 346.92,
+  "amount_due": 346.92,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "51",
+      "tax_rate": "0.18",
+      "line_total": "102"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "48",
+      "tax_rate": "0.18",
+      "line_total": "192"
+    }
+  ],
+  "warnings": []
+}

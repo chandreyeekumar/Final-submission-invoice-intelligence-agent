@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Gibson Ltd",
+  "vendor_address": "6320 Kimberly Forges Apt. 870, Port David, DC 61402",
+  "vendor_tax_id": "TAX00000026",
+  "vendor_bank_account": "XXXX5820",
+  "invoice_number": "GIB-00797",
+  "invoice_date": "2026-03-19",
+  "due_date": "2026-04-18",
+  "purchase_order_number": "PO-00797",
+  "currency": "USD",
+  "subtotal": 1284.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 231.12,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1515.12,
+  "amount_due": 1515.12,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "152",
+      "tax_rate": "0.18",
+      "line_total": "304"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "245",
+      "tax_rate": "0.18",
+      "line_total": "980"
+    }
+  ],
+  "warnings": []
+}

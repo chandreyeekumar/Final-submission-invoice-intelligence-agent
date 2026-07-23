@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Gross-Valencia",
+  "vendor_address": "Unit 2588 Box 1537, DPO AE 35559",
+  "vendor_tax_id": "TAX00000101",
+  "vendor_bank_account": "XXXX4345",
+  "invoice_number": "GRO-00532",
+  "invoice_date": "2026-06-22",
+  "due_date": "2026-07-22",
+  "purchase_order_number": "PO-00532",
+  "currency": "USD",
+  "subtotal": 1890.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 340.2,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2230.2,
+  "amount_due": 2230.2,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "316",
+      "tax_rate": "0.18",
+      "line_total": "1264"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "313",
+      "tax_rate": "0.18",
+      "line_total": "626"
+    }
+  ],
+  "warnings": []
+}

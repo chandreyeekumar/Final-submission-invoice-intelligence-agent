@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Cortez Group",
+  "vendor_address": "777 Christopher Forges, Holtport, TN 76726",
+  "vendor_tax_id": "TAX00000036",
+  "vendor_bank_account": "XXXX9292",
+  "invoice_number": "COR-00346",
+  "invoice_date": "2026-06-16",
+  "due_date": "2026-07-16",
+  "purchase_order_number": "PO-00346",
+  "currency": "USD",
+  "subtotal": 1024.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 184.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1208.32,
+  "amount_due": 1208.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "226",
+      "tax_rate": "0.18",
+      "line_total": "904"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "60",
+      "tax_rate": "0.18",
+      "line_total": "120"
+    }
+  ],
+  "warnings": []
+}

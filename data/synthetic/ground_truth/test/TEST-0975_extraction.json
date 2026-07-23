@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Gibson",
+  "vendor_address": "6417 Kaitlyn Center Suite 310, East Jamestown, RI 20474",
+  "vendor_tax_id": "TAX00000031",
+  "vendor_bank_account": "XXXX6216",
+  "invoice_number": "GIB1-00975",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-16",
+  "purchase_order_number": "PO-00975",
+  "currency": "USD",
+  "subtotal": 4581.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 824.58,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5405.58,
+  "amount_due": 5405.58,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "368",
+      "tax_rate": "0.18",
+      "line_total": "1840"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "459",
+      "tax_rate": "0.18",
+      "line_total": "1836"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "83",
+      "tax_rate": "0.18",
+      "line_total": "415"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "94",
+      "tax_rate": "0.18",
+      "line_total": "376"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "114"
+    }
+  ],
+  "warnings": []
+}

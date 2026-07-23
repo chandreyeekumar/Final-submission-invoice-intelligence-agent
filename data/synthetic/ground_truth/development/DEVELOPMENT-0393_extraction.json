@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 393",
+  "vendor_address": "USCGC Garcia, FPO AA 94127",
+  "vendor_tax_id": "TAX00000078",
+  "vendor_bank_account": "XXXX0964",
+  "invoice_number": "JAC-00393",
+  "invoice_date": "2026-02-03",
+  "due_date": "2026-03-05",
+  "purchase_order_number": "PO-00393",
+  "currency": "USD",
+  "subtotal": 9908.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1783.44,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11691.44,
+  "amount_due": 11691.44,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "132",
+      "tax_rate": "0.18",
+      "line_total": "264"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "327",
+      "tax_rate": "0.18",
+      "line_total": "1308"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "426",
+      "tax_rate": "0.18",
+      "line_total": "852"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "440",
+      "tax_rate": "0.18",
+      "line_total": "2200"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "339",
+      "tax_rate": "0.18",
+      "line_total": "678"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "775"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "390",
+      "tax_rate": "0.18",
+      "line_total": "780"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "492",
+      "tax_rate": "0.18",
+      "line_total": "1476"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "325",
+      "tax_rate": "0.18",
+      "line_total": "1300"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "55",
+      "tax_rate": "0.18",
+      "line_total": "275"
+    }
+  ],
+  "warnings": []
+}

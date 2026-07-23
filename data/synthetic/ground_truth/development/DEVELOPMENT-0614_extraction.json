@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 614",
+  "vendor_address": "401 Suzanne Villages Apt. 490, South April, NV 36959",
+  "vendor_tax_id": "TAX00000044",
+  "vendor_bank_account": "XXXX2266",
+  "invoice_number": "MIL-00614",
+  "invoice_date": "2026-03-16",
+  "due_date": "2026-04-15",
+  "purchase_order_number": "PO-00614",
+  "currency": "INR",
+  "subtotal": 5053.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 909.54,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5962.54,
+  "amount_due": 5962.54,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "82",
+      "tax_rate": "0.18",
+      "line_total": "328"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "449",
+      "tax_rate": "0.18",
+      "line_total": "898"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "391",
+      "tax_rate": "0.18",
+      "line_total": "1564"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "162",
+      "tax_rate": "0.18",
+      "line_total": "648"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "323",
+      "tax_rate": "0.18",
+      "line_total": "1615"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 205",
+  "vendor_address": "6909 Erika Land Suite 719, New Michael, MD 85640",
+  "vendor_tax_id": "TAX00000093",
+  "vendor_bank_account": "XXXX3006",
+  "invoice_number": "MAR1-00205",
+  "invoice_date": "2026-01-26",
+  "due_date": "2026-02-25",
+  "purchase_order_number": "PO-00205",
+  "currency": "USD",
+  "subtotal": 1111.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 199.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1310.98,
+  "amount_due": 1310.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "209",
+      "tax_rate": "0.18",
+      "line_total": "418"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "693"
+    }
+  ],
+  "warnings": []
+}

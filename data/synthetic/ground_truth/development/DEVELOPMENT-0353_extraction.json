@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "vendor_address": "819 Johnson Course, East William, AK 74064",
+  "vendor_tax_id": "TAX00000001",
+  "vendor_bank_account": "XXXX0409",
+  "invoice_number": "ROD-00353",
+  "invoice_date": "2026-06-23",
+  "due_date": "2026-07-23",
+  "purchase_order_number": "PO-00353",
+  "currency": "EUR",
+  "subtotal": 6514.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1172.52,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7686.52,
+  "amount_due": 7686.52,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "449",
+      "tax_rate": "0.18",
+      "line_total": "1796"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "267",
+      "tax_rate": "0.18",
+      "line_total": "1335"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "419",
+      "tax_rate": "0.18",
+      "line_total": "2095"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "374",
+      "tax_rate": "0.18",
+      "line_total": "748"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "108",
+      "tax_rate": "0.18",
+      "line_total": "540"
+    }
+  ],
+  "warnings": []
+}

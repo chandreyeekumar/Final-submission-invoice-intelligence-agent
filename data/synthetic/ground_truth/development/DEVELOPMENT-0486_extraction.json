@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Bray, Warren and Campbell",
+  "vendor_address": "3524 Jean Crossroad, Brandonton, OH 38791",
+  "vendor_tax_id": "TAX00000038",
+  "vendor_bank_account": "XXXX6482",
+  "invoice_number": "BRA-00486",
+  "invoice_date": "2026-05-07",
+  "due_date": "2026-06-06",
+  "purchase_order_number": "PO-00486",
+  "currency": "EUR",
+  "subtotal": 9139.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1645.02,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10784.02,
+  "amount_due": 10784.02,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "482",
+      "tax_rate": "0.18",
+      "line_total": "2410"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "257",
+      "tax_rate": "0.18",
+      "line_total": "514"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "66",
+      "tax_rate": "0.18",
+      "line_total": "264"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "77",
+      "tax_rate": "0.18",
+      "line_total": "385"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "418",
+      "tax_rate": "0.18",
+      "line_total": "836"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "500",
+      "tax_rate": "0.18",
+      "line_total": "2500"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "89",
+      "tax_rate": "0.18",
+      "line_total": "445"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "924"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "250",
+      "tax_rate": "0.18",
+      "line_total": "750"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "111",
+      "tax_rate": "0.18",
+      "line_total": "111"
+    }
+  ],
+  "warnings": []
+}

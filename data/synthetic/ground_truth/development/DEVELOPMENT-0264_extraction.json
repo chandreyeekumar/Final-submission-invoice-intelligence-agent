@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Kelley, Nguyen and Vang",
+  "vendor_address": "961 Melissa Run Apt. 673, Morganmouth, MO 55025",
+  "vendor_tax_id": "TAX00000066",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "KEL-00264",
+  "invoice_date": "2026-03-26",
+  "due_date": "2026-04-25",
+  "purchase_order_number": "PO-00264",
+  "currency": "USD",
+  "subtotal": 6832.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1229.76,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8061.76,
+  "amount_due": 8061.76,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "294",
+      "tax_rate": "0.18",
+      "line_total": "588"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "220",
+      "tax_rate": "0.18",
+      "line_total": "660"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "344",
+      "tax_rate": "0.18",
+      "line_total": "1720"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "178",
+      "tax_rate": "0.18",
+      "line_total": "178"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "393",
+      "tax_rate": "0.18",
+      "line_total": "1572"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "49",
+      "tax_rate": "0.18",
+      "line_total": "98"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "64",
+      "tax_rate": "0.18",
+      "line_total": "128"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "79",
+      "tax_rate": "0.18",
+      "line_total": "316"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "333",
+      "tax_rate": "0.18",
+      "line_total": "1332"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "48",
+      "tax_rate": "0.18",
+      "line_total": "240"
+    }
+  ],
+  "warnings": []
+}

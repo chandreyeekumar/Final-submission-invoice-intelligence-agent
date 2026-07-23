@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Wright-Wilson",
+  "vendor_address": "681 Hampton Squares Suite 394, Gonzalezberg, PR 10207",
+  "vendor_tax_id": "TAX00000094",
+  "vendor_bank_account": "XXXX4092",
+  "invoice_number": "WRI-00686",
+  "invoice_date": "2026-05-27",
+  "due_date": "2026-06-26",
+  "purchase_order_number": "PO-00686",
+  "currency": "INR",
+  "subtotal": 3022.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 543.96,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3565.96,
+  "amount_due": 3565.96,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "191",
+      "tax_rate": "0.18",
+      "line_total": "573"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "82",
+      "tax_rate": "0.18",
+      "line_total": "164"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "244",
+      "tax_rate": "0.18",
+      "line_total": "488"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "413",
+      "tax_rate": "0.18",
+      "line_total": "1652"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "145",
+      "tax_rate": "0.18",
+      "line_total": "145"
+    }
+  ],
+  "warnings": []
+}

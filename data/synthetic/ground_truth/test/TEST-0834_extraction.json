@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Shea Gr0up",
+  "vendor_address": "75655 Mia Isle Suite 746, South Christopherview, MD 15695",
+  "vendor_tax_id": "TAX00000045",
+  "vendor_bank_account": "XXXX1489",
+  "invoice_number": "SHE-00834",
+  "invoice_date": "2026-04-25",
+  "due_date": "2026-05-25",
+  "purchase_order_number": "PO-00834",
+  "currency": "EUR",
+  "subtotal": 5418.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 975.24,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6393.24,
+  "amount_due": 6393.24,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "302",
+      "tax_rate": "0.18",
+      "line_total": "1510"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "2355"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "264",
+      "tax_rate": "0.18",
+      "line_total": "1056"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "85",
+      "tax_rate": "0.18",
+      "line_total": "425"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "72"
+    }
+  ],
+  "warnings": []
+}

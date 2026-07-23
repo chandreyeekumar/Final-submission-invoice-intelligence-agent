@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Cooke and Sons",
+  "vendor_address": "880 Walter River, New Nicholas, GA 24204",
+  "vendor_tax_id": "TAX00000082",
+  "vendor_bank_account": "XXXX2167",
+  "invoice_number": "COO-00236",
+  "invoice_date": "2026-02-26",
+  "due_date": "2026-03-28",
+  "purchase_order_number": "PO-00236",
+  "currency": "USD",
+  "subtotal": 4393.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 790.74,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5183.74,
+  "amount_due": 5183.74,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "472",
+      "tax_rate": "0.18",
+      "line_total": "2360"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "250",
+      "tax_rate": "0.18",
+      "line_total": "500"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "239",
+      "tax_rate": "0.18",
+      "line_total": "1195"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "22",
+      "tax_rate": "0.18",
+      "line_total": "88"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "125",
+      "tax_rate": "0.18",
+      "line_total": "250"
+    }
+  ],
+  "warnings": []
+}

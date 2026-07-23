@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Dalton-Branch",
+  "vendor_address": "133 Guerrero Estate, East Andrea, GA 00851",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX8830",
+  "invoice_number": "DAL-00632",
+  "invoice_date": "2026-04-03",
+  "due_date": "2026-05-03",
+  "purchase_order_number": "PO-00632",
+  "currency": "EUR",
+  "subtotal": 3582.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 644.76,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4226.76,
+  "amount_due": 4226.76,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "453",
+      "tax_rate": "0.18",
+      "line_total": "906"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "156",
+      "tax_rate": "0.18",
+      "line_total": "624"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "350",
+      "tax_rate": "0.18",
+      "line_total": "1050"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "151",
+      "tax_rate": "0.18",
+      "line_total": "302"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "140",
+      "tax_rate": "0.18",
+      "line_total": "700"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Hernandez, Kim and P0tts",
+  "vendor_address": "0606 Young Common Suite 305, Port Jennifermouth, WY 19643",
+  "vendor_tax_id": "TAX00000085",
+  "vendor_bank_account": "XXXX1545",
+  "invoice_number": "HER-00981",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-04-22",
+  "purchase_order_number": "PO-00981",
+  "currency": "INR",
+  "subtotal": 5552.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 999.36,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6551.36,
+  "amount_due": 6551.36,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "417",
+      "tax_rate": "0.18",
+      "line_total": "2085"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "152",
+      "tax_rate": "0.18",
+      "line_total": "760"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "377",
+      "tax_rate": "0.18",
+      "line_total": "754"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "321",
+      "tax_rate": "0.18",
+      "line_total": "963"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "198",
+      "tax_rate": "0.18",
+      "line_total": "990"
+    }
+  ],
+  "warnings": []
+}

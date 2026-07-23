@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Peters0n, Carter and Moore",
+  "vendor_address": "281 Skinner Parkways Apt. 252, New Mariotown, DE 48077",
+  "vendor_tax_id": "TAX00000008",
+  "vendor_bank_account": "XXXX9195",
+  "invoice_number": "PET-00471",
+  "invoice_date": "2026-04-22",
+  "due_date": "2026-05-22",
+  "purchase_order_number": "PO-00471",
+  "currency": "EUR",
+  "subtotal": 8090.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1456.2,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9546.2,
+  "amount_due": 9546.2,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "158",
+      "tax_rate": "0.18",
+      "line_total": "790"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "258",
+      "tax_rate": "0.18",
+      "line_total": "258"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "54",
+      "tax_rate": "0.18",
+      "line_total": "54"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "358",
+      "tax_rate": "0.18",
+      "line_total": "1432"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "359",
+      "tax_rate": "0.18",
+      "line_total": "1077"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "462",
+      "tax_rate": "0.18",
+      "line_total": "1386"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "29",
+      "tax_rate": "0.18",
+      "line_total": "29"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "464",
+      "tax_rate": "0.18",
+      "line_total": "1392"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "138",
+      "tax_rate": "0.18",
+      "line_total": "552"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "280",
+      "tax_rate": "0.18",
+      "line_total": "1120"
+    }
+  ],
+  "warnings": []
+}

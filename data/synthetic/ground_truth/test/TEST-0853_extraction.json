@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Vasquez-Ray",
+  "vendor_address": "94131 Obrien Turnpike, Port Alexandra, NV 58529",
+  "vendor_tax_id": "TAX00000040",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "VAS-00853",
+  "invoice_date": "2026-05-14",
+  "due_date": "2026-06-13",
+  "purchase_order_number": "PO-00853",
+  "currency": "INR",
+  "subtotal": 7112.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1280.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8392.16,
+  "amount_due": 8392.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "192",
+      "tax_rate": "0.18",
+      "line_total": "384"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "265",
+      "tax_rate": "0.18",
+      "line_total": "1060"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "281",
+      "tax_rate": "0.18",
+      "line_total": "281"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "349",
+      "tax_rate": "0.18",
+      "line_total": "1396"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "175",
+      "tax_rate": "0.18",
+      "line_total": "175"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "157",
+      "tax_rate": "0.18",
+      "line_total": "157"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "163",
+      "tax_rate": "0.18",
+      "line_total": "489"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "384",
+      "tax_rate": "0.18",
+      "line_total": "1152"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "146",
+      "tax_rate": "0.18",
+      "line_total": "584"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "478",
+      "tax_rate": "0.18",
+      "line_total": "1434"
+    }
+  ],
+  "warnings": []
+}

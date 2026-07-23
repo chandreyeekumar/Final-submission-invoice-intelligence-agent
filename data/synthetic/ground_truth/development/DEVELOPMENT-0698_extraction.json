@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Knight-Sparks",
+  "vendor_address": "693 Durham Divide, South Dana, NH 33967",
+  "vendor_tax_id": "TAX00000053",
+  "vendor_bank_account": "XXXX1827",
+  "invoice_number": "KNI-00698",
+  "invoice_date": "2026-06-08",
+  "due_date": "2026-07-08",
+  "purchase_order_number": "PO-00698",
+  "currency": "EUR",
+  "subtotal": 3891.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 700.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4591.38,
+  "amount_due": 4591.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "263",
+      "tax_rate": "0.18",
+      "line_total": "526"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "248",
+      "tax_rate": "0.18",
+      "line_total": "496"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "209",
+      "tax_rate": "0.18",
+      "line_total": "209"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "226",
+      "tax_rate": "0.18",
+      "line_total": "1130"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "306",
+      "tax_rate": "0.18",
+      "line_total": "1530"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Odonnell, Brooks and David",
+  "vendor_address": "49190 Patel Shore, Caseymouth, AL 55558",
+  "vendor_tax_id": "TAX00000033",
+  "vendor_bank_account": "XXXX5313",
+  "invoice_number": "ODO-00334",
+  "invoice_date": "2026-06-04",
+  "due_date": "2026-07-04",
+  "purchase_order_number": "PO-00334",
+  "currency": "USD",
+  "subtotal": 1606.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 289.08,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1895.08,
+  "amount_due": 1895.08,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "174",
+      "tax_rate": "0.18",
+      "line_total": "174"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "358",
+      "tax_rate": "0.18",
+      "line_total": "1432"
+    }
+  ],
+  "warnings": []
+}

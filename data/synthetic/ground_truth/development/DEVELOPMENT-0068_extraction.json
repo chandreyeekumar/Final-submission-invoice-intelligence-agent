@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Anderson, Browning and Murphy",
+  "vendor_address": "85884 Jonathan Views, Coffeyport, WA 44897",
+  "vendor_tax_id": "TAX00000057",
+  "vendor_bank_account": "XXXX4889",
+  "invoice_number": "AND-00068",
+  "invoice_date": "2026-03-10",
+  "due_date": "2026-04-09",
+  "purchase_order_number": "PO-00068",
+  "currency": "USD",
+  "subtotal": 3811.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 685.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4496.98,
+  "amount_due": 4496.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "176",
+      "tax_rate": "0.18",
+      "line_total": "704"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "337",
+      "tax_rate": "0.18",
+      "line_total": "1685"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "332",
+      "tax_rate": "0.18",
+      "line_total": "332"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "410",
+      "tax_rate": "0.18",
+      "line_total": "410"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "340",
+      "tax_rate": "0.18",
+      "line_total": "680"
+    }
+  ],
+  "warnings": []
+}

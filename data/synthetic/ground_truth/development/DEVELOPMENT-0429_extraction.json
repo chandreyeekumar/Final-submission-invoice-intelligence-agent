@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Schneider-Murphy",
+  "vendor_address": "685 Michael Falls, West Stacey, NM 25667",
+  "vendor_tax_id": "TAX00000081",
+  "vendor_bank_account": "XXXX7953",
+  "invoice_number": "SCH1-00429",
+  "invoice_date": "2026-03-11",
+  "due_date": "2026-04-10",
+  "purchase_order_number": "PO-00429",
+  "currency": "USD",
+  "subtotal": 10150.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1827.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11977.0,
+  "amount_due": 11977.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "34",
+      "tax_rate": "0.18",
+      "line_total": "68"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "359",
+      "tax_rate": "0.18",
+      "line_total": "359"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "460",
+      "tax_rate": "0.18",
+      "line_total": "1380"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "462",
+      "tax_rate": "0.18",
+      "line_total": "1386"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "259",
+      "tax_rate": "0.18",
+      "line_total": "1036"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "498",
+      "tax_rate": "0.18",
+      "line_total": "2490"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "300",
+      "tax_rate": "0.18",
+      "line_total": "900"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "89",
+      "tax_rate": "0.18",
+      "line_total": "356"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "550"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "325",
+      "tax_rate": "0.18",
+      "line_total": "1625"
+    }
+  ],
+  "warnings": []
+}

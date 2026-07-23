@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Moore, Campbell and Clark",
+  "vendor_address": "740 Cynthia Village Suite 005, Lake Tina, GA 97655",
+  "vendor_tax_id": "TAX00000018",
+  "vendor_bank_account": "XXXX6201",
+  "invoice_number": "MOO-00458",
+  "invoice_date": "2026-04-09",
+  "due_date": "2026-05-09",
+  "purchase_order_number": "PO-00458",
+  "currency": "EUR",
+  "subtotal": 4283.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 770.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5053.94,
+  "amount_due": 5053.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "399"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "458",
+      "tax_rate": "0.18",
+      "line_total": "916"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "31",
+      "tax_rate": "0.18",
+      "line_total": "93"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "490",
+      "tax_rate": "0.18",
+      "line_total": "1470"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "281",
+      "tax_rate": "0.18",
+      "line_total": "1405"
+    }
+  ],
+  "warnings": []
+}

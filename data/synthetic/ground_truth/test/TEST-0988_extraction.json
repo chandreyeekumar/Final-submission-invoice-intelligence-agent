@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 988",
+  "vendor_address": "1925 Ponce Square, Andersonland, ME 73760",
+  "vendor_tax_id": "TAX00000080",
+  "vendor_bank_account": "XXXX8423",
+  "invoice_number": "GRA-00988",
+  "invoice_date": "2026-03-30",
+  "due_date": "2026-04-29",
+  "purchase_order_number": "PO-00988",
+  "currency": "INR",
+  "subtotal": 6632.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1193.76,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7825.76,
+  "amount_due": 7825.76,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "244",
+      "tax_rate": "0.18",
+      "line_total": "244"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "340",
+      "tax_rate": "0.18",
+      "line_total": "1360"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "467",
+      "tax_rate": "0.18",
+      "line_total": "1868"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "311",
+      "tax_rate": "0.18",
+      "line_total": "311"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "85",
+      "tax_rate": "0.18",
+      "line_total": "85"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "172",
+      "tax_rate": "0.18",
+      "line_total": "860"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "80",
+      "tax_rate": "0.18",
+      "line_total": "80"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "138",
+      "tax_rate": "0.18",
+      "line_total": "552"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "327",
+      "tax_rate": "0.18",
+      "line_total": "327"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "189",
+      "tax_rate": "0.18",
+      "line_total": "945"
+    }
+  ],
+  "warnings": []
+}

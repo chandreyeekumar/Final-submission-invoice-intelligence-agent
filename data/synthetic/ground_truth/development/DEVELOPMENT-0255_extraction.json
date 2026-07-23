@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Hill Inc",
+  "vendor_address": "5581 Edward Lights, Lake Jason, MT 53925",
+  "vendor_tax_id": "TAX00000028",
+  "vendor_bank_account": "XXXX1169",
+  "invoice_number": "HIL-00255",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-16",
+  "purchase_order_number": "PO-00255",
+  "currency": "EUR",
+  "subtotal": 5313.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 956.34,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6269.34,
+  "amount_due": 6269.34,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "285",
+      "tax_rate": "0.18",
+      "line_total": "570"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "96"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "376",
+      "tax_rate": "0.18",
+      "line_total": "376"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "438",
+      "tax_rate": "0.18",
+      "line_total": "1314"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "460",
+      "tax_rate": "0.18",
+      "line_total": "460"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "375",
+      "tax_rate": "0.18",
+      "line_total": "1500"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "264",
+      "tax_rate": "0.18",
+      "line_total": "528"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "137",
+      "tax_rate": "0.18",
+      "line_total": "137"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "65",
+      "tax_rate": "0.18",
+      "line_total": "260"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "72",
+      "tax_rate": "0.18",
+      "line_total": "72"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,3962 @@
+[
+  {
+    "template_id": "TPL-V0001-01",
+    "vendor_id": "V0001",
+    "legal_name": "Rodriguez, Figueroa and Sanchez",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "ROD-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0002-01",
+    "vendor_id": "V0002",
+    "legal_name": "Baldwin Ltd",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "BAL-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0003-01",
+    "vendor_id": "V0003",
+    "legal_name": "Howard LLC",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "HOW-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0004-01",
+    "vendor_id": "V0004",
+    "legal_name": "Mejia Inc",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "MEJ-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0005-01",
+    "vendor_id": "V0005",
+    "legal_name": "Ferguson and Sons",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "FER-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0006-01",
+    "vendor_id": "V0006",
+    "legal_name": "Porter, Wilkerson and Day",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "POR-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0007-01",
+    "vendor_id": "V0007",
+    "legal_name": "Burton Ltd",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "BUR-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0008-01",
+    "vendor_id": "V0008",
+    "legal_name": "Peterson, Carter and Moore",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "PET-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0009-01",
+    "vendor_id": "V0009",
+    "legal_name": "Allen-Allen",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "ALL-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0010-01",
+    "vendor_id": "V0010",
+    "legal_name": "Vaughn, Marquez and Ross",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "VAU-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0011-01",
+    "vendor_id": "V0011",
+    "legal_name": "Jones-Young",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "JON-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0012-01",
+    "vendor_id": "V0012",
+    "legal_name": "Henderson-Owens",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HEN-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0013-01",
+    "vendor_id": "V0013",
+    "legal_name": "Morton-Chase",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "MOR-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0014-01",
+    "vendor_id": "V0014",
+    "legal_name": "Mitchell-Horton",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "MIT-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0015-01",
+    "vendor_id": "V0015",
+    "legal_name": "Larson Ltd",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "LAR-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0016-01",
+    "vendor_id": "V0016",
+    "legal_name": "Bryant-Hickman",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "BRY-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0017-01",
+    "vendor_id": "V0017",
+    "legal_name": "Medina PLC",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "MED-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0018-01",
+    "vendor_id": "V0018",
+    "legal_name": "Moore, Campbell and Clark",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "MOO-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0019-01",
+    "vendor_id": "V0019",
+    "legal_name": "Arnold-Patterson",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "ARN-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0020-01",
+    "vendor_id": "V0020",
+    "legal_name": "Clark-Wright",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "CLA-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0021-01",
+    "vendor_id": "V0021",
+    "legal_name": "Walker-Velasquez",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "WAL-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0022-01",
+    "vendor_id": "V0022",
+    "legal_name": "Carpenter LLC",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "CAR-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0023-01",
+    "vendor_id": "V0023",
+    "legal_name": "Mclaughlin, Gonzalez and Reynolds",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "MCL-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0024-01",
+    "vendor_id": "V0024",
+    "legal_name": "Mccullough, Hunter and Estrada",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "MCC-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0025-01",
+    "vendor_id": "V0025",
+    "legal_name": "Pena, Marshall and Ramos",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "PEN-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0026-01",
+    "vendor_id": "V0026",
+    "legal_name": "Gibson Ltd",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "GIB-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0027-01",
+    "vendor_id": "V0027",
+    "legal_name": "Schmidt, Hansen and Stewart",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "SCH-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0028-01",
+    "vendor_id": "V0028",
+    "legal_name": "Hill Inc",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HIL-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0029-01",
+    "vendor_id": "V0029",
+    "legal_name": "Daniels-Perry",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "DAN-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0030-01",
+    "vendor_id": "V0030",
+    "legal_name": "Price Ltd",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "PRI-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0031-01",
+    "vendor_id": "V0031",
+    "legal_name": "Gibson LLC",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "GIB1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0032-01",
+    "vendor_id": "V0032",
+    "legal_name": "Martinez Ltd",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "MAR-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0033-01",
+    "vendor_id": "V0033",
+    "legal_name": "Odonnell, Brooks and David",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "ODO-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0034-01",
+    "vendor_id": "V0034",
+    "legal_name": "Garcia-Yu",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "GAR-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0035-01",
+    "vendor_id": "V0035",
+    "legal_name": "Keith-Sanchez",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "KEI-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0036-01",
+    "vendor_id": "V0036",
+    "legal_name": "Cortez Group",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "COR-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0037-01",
+    "vendor_id": "V0037",
+    "legal_name": "Kennedy-Schmidt",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "KEN-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0038-01",
+    "vendor_id": "V0038",
+    "legal_name": "Bray, Warren and Campbell",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "BRA-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0039-01",
+    "vendor_id": "V0039",
+    "legal_name": "Raymond, Little and Mullins",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "RAY-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0040-01",
+    "vendor_id": "V0040",
+    "legal_name": "Vasquez-Ray",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "VAS-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0041-01",
+    "vendor_id": "V0041",
+    "legal_name": "Dalton-Branch",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "DAL-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0042-01",
+    "vendor_id": "V0042",
+    "legal_name": "Hayes-Wheeler",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HAY-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0043-01",
+    "vendor_id": "V0043",
+    "legal_name": "Kerr and Sons",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "KER-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0044-01",
+    "vendor_id": "V0044",
+    "legal_name": "Miller-Williams",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "MIL-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0045-01",
+    "vendor_id": "V0045",
+    "legal_name": "Shea Group",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "SHE-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0046-01",
+    "vendor_id": "V0046",
+    "legal_name": "Hancock-Bryan",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HAN-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0047-01",
+    "vendor_id": "V0047",
+    "legal_name": "Johnson Ltd",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "JOH-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0048-01",
+    "vendor_id": "V0048",
+    "legal_name": "Collier, Jimenez and Moran",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "COL-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0049-01",
+    "vendor_id": "V0049",
+    "legal_name": "Barber-Monroe",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "BAR-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0050-01",
+    "vendor_id": "V0050",
+    "legal_name": "Kennedy, Mcintyre and James",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "KEN1-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0051-01",
+    "vendor_id": "V0051",
+    "legal_name": "Lozano, Smith and Thomas",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "LOZ-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0052-01",
+    "vendor_id": "V0052",
+    "legal_name": "Williamson and Sons",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "WIL-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0053-01",
+    "vendor_id": "V0053",
+    "legal_name": "Knight-Sparks",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "KNI-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0054-01",
+    "vendor_id": "V0054",
+    "legal_name": "Smith, Ballard and Santana",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "SMI-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0055-01",
+    "vendor_id": "V0055",
+    "legal_name": "Armstrong-Andrews",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "ARM-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0056-01",
+    "vendor_id": "V0056",
+    "legal_name": "Parsons-Hall",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "PAR-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0057-01",
+    "vendor_id": "V0057",
+    "legal_name": "Anderson, Browning and Murphy",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "AND-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0058-01",
+    "vendor_id": "V0058",
+    "legal_name": "Mcdonald Inc",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "MCD-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0059-01",
+    "vendor_id": "V0059",
+    "legal_name": "Chambers, Richards and Carson",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "CHA-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0060-01",
+    "vendor_id": "V0060",
+    "legal_name": "Henson, Hoffman and Herman",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HEN1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0061-01",
+    "vendor_id": "V0061",
+    "legal_name": "Taylor, Chavez and Santiago",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "TAY-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0062-01",
+    "vendor_id": "V0062",
+    "legal_name": "Stephens-Levine",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "STE-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0063-01",
+    "vendor_id": "V0063",
+    "legal_name": "Willis and Sons",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "WIL1-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0064-01",
+    "vendor_id": "V0064",
+    "legal_name": "Howard and Sons",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HOW1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0065-01",
+    "vendor_id": "V0065",
+    "legal_name": "Gordon-Dougherty",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "GOR-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0066-01",
+    "vendor_id": "V0066",
+    "legal_name": "Kelley, Nguyen and Vang",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "KEL-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0067-01",
+    "vendor_id": "V0067",
+    "legal_name": "Davis, Simmons and Ortega",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "DAV-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0068-01",
+    "vendor_id": "V0068",
+    "legal_name": "Hoffman, Santiago and Jenkins",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HOF-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0069-01",
+    "vendor_id": "V0069",
+    "legal_name": "Perez, Patterson and Hoffman",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "PER-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0070-01",
+    "vendor_id": "V0070",
+    "legal_name": "Sandoval, Jones and Figueroa",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "SAN-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0071-01",
+    "vendor_id": "V0071",
+    "legal_name": "Nguyen, Pugh and Carlson",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "NGU-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0072-01",
+    "vendor_id": "V0072",
+    "legal_name": "Rodriguez-Gregory",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "ROD1-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0073-01",
+    "vendor_id": "V0073",
+    "legal_name": "Patel-Hall",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "PAT-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0074-01",
+    "vendor_id": "V0074",
+    "legal_name": "Stevens, Norris and Cox",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "STE1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0075-01",
+    "vendor_id": "V0075",
+    "legal_name": "Wilson, Hicks and Bullock",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "WIL2-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0076-01",
+    "vendor_id": "V0076",
+    "legal_name": "Wolf, Cole and Glass",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "WOL-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0077-01",
+    "vendor_id": "V0077",
+    "legal_name": "Brown LLC",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "BRO-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0078-01",
+    "vendor_id": "V0078",
+    "legal_name": "Jacobs-Mason",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "JAC-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0079-01",
+    "vendor_id": "V0079",
+    "legal_name": "Wagner and Sons",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "WAG-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0080-01",
+    "vendor_id": "V0080",
+    "legal_name": "Grant Group",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "GRA-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0081-01",
+    "vendor_id": "V0081",
+    "legal_name": "Schneider-Murphy",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "SCH1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0082-01",
+    "vendor_id": "V0082",
+    "legal_name": "Cooke and Sons",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "COO-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0083-01",
+    "vendor_id": "V0083",
+    "legal_name": "Wise, Lamb and Martin",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "WIS-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0084-01",
+    "vendor_id": "V0084",
+    "legal_name": "Rose, Burch and Montoya",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "ROS-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0085-01",
+    "vendor_id": "V0085",
+    "legal_name": "Hernandez, Kim and Potts",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "HER-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0086-01",
+    "vendor_id": "V0086",
+    "legal_name": "Johnson Group",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "JOH1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0087-01",
+    "vendor_id": "V0087",
+    "legal_name": "Rose, Rodriguez and Roberts",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "ROS1-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0088-01",
+    "vendor_id": "V0088",
+    "legal_name": "Gomez, Duncan and Lopez",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "GOM-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0089-01",
+    "vendor_id": "V0089",
+    "legal_name": "Fuller, Ingram and Moss",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "FUL-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0090-01",
+    "vendor_id": "V0090",
+    "legal_name": "Harris-Moody",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HAR-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0091-01",
+    "vendor_id": "V0091",
+    "legal_name": "Gonzales, Huber and Morgan",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "GON-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0092-01",
+    "vendor_id": "V0092",
+    "legal_name": "Robbins, Jackson and Wallace",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "ROB-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0093-01",
+    "vendor_id": "V0093",
+    "legal_name": "Martinez and Sons",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "MAR1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0094-01",
+    "vendor_id": "V0094",
+    "legal_name": "Wright-Wilson",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "WRI-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0095-01",
+    "vendor_id": "V0095",
+    "legal_name": "Thompson-Reeves",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "THO-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0096-01",
+    "vendor_id": "V0096",
+    "legal_name": "Little, Leon and Hicks",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "LIT-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0097-01",
+    "vendor_id": "V0097",
+    "legal_name": "Key-Higgins",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "KEY-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0098-01",
+    "vendor_id": "V0098",
+    "legal_name": "Guerra PLC",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "GUE-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0099-01",
+    "vendor_id": "V0099",
+    "legal_name": "Shaw and Sons",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "SHA-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0100-01",
+    "vendor_id": "V0100",
+    "legal_name": "Johnson, Small and Gardner",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "JOH2-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0101-01",
+    "vendor_id": "V0101",
+    "legal_name": "Gross-Valencia",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "GRO-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0102-01",
+    "vendor_id": "V0102",
+    "legal_name": "Wright-Davis",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "WRI1-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0103-01",
+    "vendor_id": "V0103",
+    "legal_name": "Landry PLC",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "LAN-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0104-01",
+    "vendor_id": "V0104",
+    "legal_name": "Anderson-Baker",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "AND1-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0105-01",
+    "vendor_id": "V0105",
+    "legal_name": "Brooks-Hatfield",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "BRO1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0106-01",
+    "vendor_id": "V0106",
+    "legal_name": "Flores, Long and Jensen",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "FLO-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0107-01",
+    "vendor_id": "V0107",
+    "legal_name": "Coffey-Patton",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "COF-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0108-01",
+    "vendor_id": "V0108",
+    "legal_name": "Rodriguez, Smith and Edwards",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "ROD2-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0109-01",
+    "vendor_id": "V0109",
+    "legal_name": "Frye-Stevens",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "FRY-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0110-01",
+    "vendor_id": "V0110",
+    "legal_name": "Castro-Michael",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "CAS-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0111-01",
+    "vendor_id": "V0111",
+    "legal_name": "Nelson, Rodriguez and Yang",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "NEL-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0112-01",
+    "vendor_id": "V0112",
+    "legal_name": "Russell Group",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "RUS-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0113-01",
+    "vendor_id": "V0113",
+    "legal_name": "French-Lopez",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "FRE-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0114-01",
+    "vendor_id": "V0114",
+    "legal_name": "Stevens, Scott and Lopez",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "STE2-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0115-01",
+    "vendor_id": "V0115",
+    "legal_name": "Reyes-Griffin",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "REY-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0116-01",
+    "vendor_id": "V0116",
+    "legal_name": "Hendricks, Phillips and Mendez",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HEN2-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0117-01",
+    "vendor_id": "V0117",
+    "legal_name": "Fox PLC",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "FOX-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0118-01",
+    "vendor_id": "V0118",
+    "legal_name": "Harris, Aguilar and Davis",
+    "layout_description": "Vendor top-left, invoice number top-right, totals bottom-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "HAR1-NNNNN",
+    "usual_currency": "EUR",
+    "usual_payment_terms": "Net 45",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0119-01",
+    "vendor_id": "V0119",
+    "legal_name": "Robinson, Jones and Henderson",
+    "layout_description": "Centered vendor header, line-item table in the middle.",
+    "expected_labels": {
+      "invoice_number": [
+        "Invoice No",
+        "Bill No"
+      ],
+      "subtotal": [
+        "Subtotal",
+        "Taxable Value"
+      ],
+      "tax_total": [
+        "Tax",
+        "GST Amount"
+      ],
+      "total": [
+        "Total",
+        "Net Payable"
+      ]
+    },
+    "invoice_number_pattern": "ROB1-NNNNN",
+    "usual_currency": "INR",
+    "usual_payment_terms": "Net 15",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  },
+  {
+    "template_id": "TPL-V0120-01",
+    "vendor_id": "V0120",
+    "legal_name": "Miller-Brandt",
+    "layout_description": "Logo top-left, purchase-order details top-right.",
+    "expected_labels": {
+      "invoice_number": [
+        "Document No"
+      ],
+      "subtotal": [
+        "Net Amount"
+      ],
+      "tax_total": [
+        "Tax Amount"
+      ],
+      "total": [
+        "Amount Due"
+      ]
+    },
+    "invoice_number_pattern": "MIL1-NNNNN",
+    "usual_currency": "USD",
+    "usual_payment_terms": "Net 30",
+    "usual_table_columns": [
+      "description",
+      "quantity",
+      "unit_price",
+      "tax",
+      "line_total"
+    ],
+    "active": true
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Robbins, Jackson and Wallace",
+  "vendor_address": "640 Emily Lodge Suite 820, Port Cathy, WY 57933",
+  "vendor_tax_id": "TAX00000092",
+  "vendor_bank_account": "XXXX7350",
+  "invoice_number": "ROB-00805",
+  "invoice_date": "2026-03-27",
+  "due_date": "2026-04-26",
+  "purchase_order_number": "PO-00805",
+  "currency": "USD",
+  "subtotal": 8489.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1528.02,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10017.02,
+  "amount_due": 10017.02,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "421",
+      "tax_rate": "0.18",
+      "line_total": "2105"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "36",
+      "tax_rate": "0.18",
+      "line_total": "180"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "274",
+      "tax_rate": "0.18",
+      "line_total": "548"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "174",
+      "tax_rate": "0.18",
+      "line_total": "174"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "467",
+      "tax_rate": "0.18",
+      "line_total": "2335"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "106",
+      "tax_rate": "0.18",
+      "line_total": "424"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "79",
+      "tax_rate": "0.18",
+      "line_total": "316"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "359",
+      "tax_rate": "0.18",
+      "line_total": "1436"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "143",
+      "tax_rate": "0.18",
+      "line_total": "715"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "256"
+    }
+  ],
+  "warnings": []
+}

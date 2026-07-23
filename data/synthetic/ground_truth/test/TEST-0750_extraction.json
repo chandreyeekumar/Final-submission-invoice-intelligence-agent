@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Nguyen, Pugh and Carls0n",
+  "vendor_address": "90147 Tucker Mills, Nelsonhaven, DE 45743",
+  "vendor_tax_id": "TAX00000071",
+  "vendor_bank_account": "XXXX6537",
+  "invoice_number": "NGU-00750",
+  "invoice_date": "2026-01-31",
+  "due_date": "2026-03-02",
+  "purchase_order_number": "PO-00750",
+  "currency": "EUR",
+  "subtotal": 4325.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 778.5,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5103.5,
+  "amount_due": 5103.5,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "247",
+      "tax_rate": "0.18",
+      "line_total": "741"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "200",
+      "tax_rate": "0.18",
+      "line_total": "1000"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "318",
+      "tax_rate": "0.18",
+      "line_total": "636"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "258",
+      "tax_rate": "0.18",
+      "line_total": "258"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "338",
+      "tax_rate": "0.18",
+      "line_total": "1690"
+    }
+  ],
+  "warnings": []
+}

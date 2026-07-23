@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Barber-Monroe",
+  "vendor_address": "78755 Gibson Islands Apt. 396, Port Kimberly, AZ 42205",
+  "vendor_tax_id": "TAX00000049",
+  "vendor_bank_account": "XXXX7668",
+  "invoice_number": "BAR-00887",
+  "invoice_date": "2026-06-17",
+  "due_date": "2026-07-17",
+  "purchase_order_number": "PO-00887",
+  "currency": "INR",
+  "subtotal": 690.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 124.2,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 814.2,
+  "amount_due": 814.2,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "225",
+      "tax_rate": "0.18",
+      "line_total": "450"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "48",
+      "tax_rate": "0.18",
+      "line_total": "240"
+    }
+  ],
+  "warnings": []
+}

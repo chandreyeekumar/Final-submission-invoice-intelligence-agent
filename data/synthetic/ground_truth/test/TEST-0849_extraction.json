@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Rose, Rodriguez and Roberts",
+  "vendor_address": "69711 Carlson Brook, Lake Douglas, NE 00706",
+  "vendor_tax_id": "TAX00000087",
+  "vendor_bank_account": "XXXX6735",
+  "invoice_number": "ROS1-00849",
+  "invoice_date": "2026-05-10",
+  "due_date": "2026-06-09",
+  "purchase_order_number": "PO-00849",
+  "currency": "INR",
+  "subtotal": 4112.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 740.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4852.16,
+  "amount_due": 4852.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "397",
+      "tax_rate": "0.18",
+      "line_total": "1985"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "242",
+      "tax_rate": "0.18",
+      "line_total": "242"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "672"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "268",
+      "tax_rate": "0.18",
+      "line_total": "804"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "409",
+      "tax_rate": "0.18",
+      "line_total": "409"
+    }
+  ],
+  "warnings": []
+}

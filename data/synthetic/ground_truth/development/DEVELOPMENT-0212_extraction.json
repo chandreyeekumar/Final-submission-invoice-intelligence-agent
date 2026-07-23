@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Clark-Wright",
+  "vendor_address": "232 Nicole Burg Apt. 563, Erikville, MS 05576",
+  "vendor_tax_id": "TAX00000020",
+  "vendor_bank_account": "XXXX5925",
+  "invoice_number": "CLA-00212",
+  "invoice_date": "2026-02-02",
+  "due_date": "2026-03-04",
+  "purchase_order_number": "PO-00212",
+  "currency": "EUR",
+  "subtotal": 3936.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 708.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4644.48,
+  "amount_due": 4644.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "437",
+      "tax_rate": "0.18",
+      "line_total": "1311"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "156",
+      "tax_rate": "0.18",
+      "line_total": "468"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "60",
+      "tax_rate": "0.18",
+      "line_total": "240"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "227",
+      "tax_rate": "0.18",
+      "line_total": "681"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "309",
+      "tax_rate": "0.18",
+      "line_total": "1236"
+    }
+  ],
+  "warnings": []
+}

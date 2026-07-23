@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Coffey-Patton",
+  "vendor_address": "097 Alexandria Stravenue, Hernandezbury, AZ 75548",
+  "vendor_tax_id": "TAX00000107",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "COF-00138",
+  "invoice_date": "2026-05-19",
+  "due_date": "2026-06-18",
+  "purchase_order_number": "PO-00138",
+  "currency": "EUR",
+  "subtotal": 6739.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1213.02,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7952.02,
+  "amount_due": 7952.02,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "290",
+      "tax_rate": "0.18",
+      "line_total": "1450"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "76",
+      "tax_rate": "0.18",
+      "line_total": "304"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "141",
+      "tax_rate": "0.18",
+      "line_total": "423"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "82",
+      "tax_rate": "0.18",
+      "line_total": "246"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "142",
+      "tax_rate": "0.18",
+      "line_total": "142"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "347",
+      "tax_rate": "0.18",
+      "line_total": "1388"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "254",
+      "tax_rate": "0.18",
+      "line_total": "1270"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "76",
+      "tax_rate": "0.18",
+      "line_total": "76"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "325",
+      "tax_rate": "0.18",
+      "line_total": "1300"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "28",
+      "tax_rate": "0.18",
+      "line_total": "140"
+    }
+  ],
+  "warnings": []
+}

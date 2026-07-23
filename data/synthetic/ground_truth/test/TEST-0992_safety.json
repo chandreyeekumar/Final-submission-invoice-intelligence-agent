@@ -1,0 +1,5 @@
+{
+  "label": "benign",
+  "attack_type": "benign_lookalike",
+  "expected_action": "allow"
+}

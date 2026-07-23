@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Kennedy-Schmidt",
+  "vendor_address": "7444 David Fields Suite 182, East Joanna, KY 95473",
+  "vendor_tax_id": "TAX00000037",
+  "vendor_bank_account": "XXXX3483",
+  "invoice_number": "KEN-00510",
+  "invoice_date": "2026-05-31",
+  "due_date": "2026-06-30",
+  "purchase_order_number": "PO-00510",
+  "currency": "EUR",
+  "subtotal": 6109.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1099.62,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7208.62,
+  "amount_due": 7208.62,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "363",
+      "tax_rate": "0.18",
+      "line_total": "1452"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "159",
+      "tax_rate": "0.18",
+      "line_total": "159"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "100",
+      "tax_rate": "0.18",
+      "line_total": "200"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "78",
+      "tax_rate": "0.18",
+      "line_total": "234"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "338",
+      "tax_rate": "0.18",
+      "line_total": "338"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "283",
+      "tax_rate": "0.18",
+      "line_total": "1415"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "125",
+      "tax_rate": "0.18",
+      "line_total": "125"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "199",
+      "tax_rate": "0.18",
+      "line_total": "995"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "183",
+      "tax_rate": "0.18",
+      "line_total": "915"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "92",
+      "tax_rate": "0.18",
+      "line_total": "276"
+    }
+  ],
+  "warnings": []
+}

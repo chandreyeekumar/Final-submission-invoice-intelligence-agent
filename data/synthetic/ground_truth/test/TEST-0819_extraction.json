@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Mclaughlin, Gonzalez and Reynolds",
+  "vendor_address": "USNV Hanson, FPO AP 16835",
+  "vendor_tax_id": "TAX00000023",
+  "vendor_bank_account": "XXXX3814",
+  "invoice_number": "MCL-00819",
+  "invoice_date": "2026-04-10",
+  "due_date": "2026-05-10",
+  "purchase_order_number": "PO-00819",
+  "currency": "INR",
+  "subtotal": 3773.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 679.14,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4452.14,
+  "amount_due": 4452.14,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "352",
+      "tax_rate": "0.18",
+      "line_total": "1760"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "323",
+      "tax_rate": "0.18",
+      "line_total": "969"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "96",
+      "tax_rate": "0.18",
+      "line_total": "384"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "145",
+      "tax_rate": "0.18",
+      "line_total": "580"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "80",
+      "tax_rate": "0.18",
+      "line_total": "80"
+    }
+  ],
+  "warnings": []
+}

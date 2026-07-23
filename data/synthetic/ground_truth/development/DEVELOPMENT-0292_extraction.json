@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Dalton-Branch",
+  "vendor_address": "133 Guerrero Estate, East Andrea, GA 00851",
+  "vendor_tax_id": "TAX00000041",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "DAL-00292",
+  "invoice_date": "2026-04-23",
+  "due_date": "2026-05-23",
+  "purchase_order_number": "PO-00292",
+  "currency": "EUR",
+  "subtotal": 2512.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 452.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2964.16,
+  "amount_due": 2964.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "422",
+      "tax_rate": "0.18",
+      "line_total": "2110"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "134",
+      "tax_rate": "0.18",
+      "line_total": "402"
+    }
+  ],
+  "warnings": []
+}

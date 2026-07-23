@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Cooke Services",
+  "vendor_address": "880 Walter River, New Nicholas, GA 24204",
+  "vendor_tax_id": "TAX00000082",
+  "vendor_bank_account": "XXXX2167",
+  "invoice_number": "COO-00595",
+  "invoice_date": "2026-02-25",
+  "due_date": "2026-03-27",
+  "purchase_order_number": "PO-00595",
+  "currency": "USD",
+  "subtotal": 1241.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 223.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1464.38,
+  "amount_due": 1464.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "233",
+      "tax_rate": "0.18",
+      "line_total": "699"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "271",
+      "tax_rate": "0.18",
+      "line_total": "542"
+    }
+  ],
+  "warnings": []
+}

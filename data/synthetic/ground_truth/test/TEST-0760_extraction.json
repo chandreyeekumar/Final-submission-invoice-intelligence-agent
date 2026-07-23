@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Carpenter",
+  "vendor_address": "5698 Paul Ports Apt. 406, New Saraside, TX 94798",
+  "vendor_tax_id": "TAX00000022",
+  "vendor_bank_account": "XXXX3733",
+  "invoice_number": "CAR-00760",
+  "invoice_date": "2026-02-10",
+  "due_date": "2026-03-12",
+  "purchase_order_number": "PO-00760",
+  "currency": "USD",
+  "subtotal": 5353.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 963.54,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6316.54,
+  "amount_due": 6316.54,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "443",
+      "tax_rate": "0.18",
+      "line_total": "443"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "270",
+      "tax_rate": "0.18",
+      "line_total": "1350"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "115",
+      "tax_rate": "0.18",
+      "line_total": "115"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "55",
+      "tax_rate": "0.18",
+      "line_total": "110"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "165",
+      "tax_rate": "0.18",
+      "line_total": "660"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "139",
+      "tax_rate": "0.18",
+      "line_total": "278"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "1071"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "55",
+      "tax_rate": "0.18",
+      "line_total": "275"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "49",
+      "tax_rate": "0.18",
+      "line_total": "196"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "285",
+      "tax_rate": "0.18",
+      "line_total": "855"
+    }
+  ],
+  "warnings": []
+}

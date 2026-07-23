@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Schmidt, Hansen and Stewart",
+  "vendor_address": "868 Merritt Summit Suite 743, Katiehaven, NM 82650",
+  "vendor_tax_id": "TAX00000027",
+  "vendor_bank_account": "XXXX4374",
+  "invoice_number": "SCH-00328",
+  "invoice_date": "2026-05-29",
+  "due_date": "2026-06-28",
+  "purchase_order_number": "PO-00328",
+  "currency": "USD",
+  "subtotal": 626.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 112.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 738.68,
+  "amount_due": 738.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "270",
+      "tax_rate": "0.18",
+      "line_total": "540"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "86",
+      "tax_rate": "0.18",
+      "line_total": "86"
+    }
+  ],
+  "warnings": []
+}

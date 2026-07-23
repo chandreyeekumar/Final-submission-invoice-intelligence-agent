@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Rodriguez-Gregory",
+  "vendor_address": "36900 Kevin Forest Apt. 445, North Tylerchester, HI 17433",
+  "vendor_tax_id": "TAX00000072",
+  "vendor_bank_account": "XXXX6118",
+  "invoice_number": "ROD1-00824",
+  "invoice_date": "2026-04-15",
+  "due_date": "2026-05-15",
+  "purchase_order_number": "PO-00824",
+  "currency": "EUR",
+  "subtotal": 710.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 127.8,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 837.8,
+  "amount_due": 837.8,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "85",
+      "tax_rate": "0.18",
+      "line_total": "85"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "125",
+      "tax_rate": "0.18",
+      "line_total": "625"
+    }
+  ],
+  "warnings": []
+}

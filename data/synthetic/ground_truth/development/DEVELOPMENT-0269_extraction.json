@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Thompson-Reeves",
+  "vendor_address": "Unit 5518 Box 8442, DPO AP 93504",
+  "vendor_tax_id": "TAX00000095",
+  "vendor_bank_account": "XXXX9016",
+  "invoice_number": "THO-00269",
+  "invoice_date": "2026-03-31",
+  "due_date": "2026-04-30",
+  "purchase_order_number": "PO-00269",
+  "currency": "USD",
+  "subtotal": 1579.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 284.22,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1863.22,
+  "amount_due": 1863.22,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "145",
+      "tax_rate": "0.18",
+      "line_total": "145"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "261",
+      "tax_rate": "0.18",
+      "line_total": "261"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "216",
+      "tax_rate": "0.18",
+      "line_total": "648"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "111",
+      "tax_rate": "0.18",
+      "line_total": "222"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "303",
+      "tax_rate": "0.18",
+      "line_total": "303"
+    }
+  ],
+  "warnings": []
+}

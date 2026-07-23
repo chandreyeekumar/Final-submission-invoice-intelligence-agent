@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 563",
+  "vendor_address": "49190 Patel Shore, Caseymouth, AL 55558",
+  "vendor_tax_id": "TAX00000033",
+  "vendor_bank_account": "XXXX5313",
+  "invoice_number": "ODO-00563",
+  "invoice_date": "2026-01-24",
+  "due_date": "2026-02-23",
+  "purchase_order_number": "PO-00563",
+  "currency": "USD",
+  "subtotal": 2454.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 441.72,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2895.72,
+  "amount_due": 2895.72,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "42",
+      "tax_rate": "0.18",
+      "line_total": "168"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "399",
+      "tax_rate": "0.18",
+      "line_total": "399"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "493",
+      "tax_rate": "0.18",
+      "line_total": "493"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "550"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "422",
+      "tax_rate": "0.18",
+      "line_total": "844"
+    }
+  ],
+  "warnings": []
+}

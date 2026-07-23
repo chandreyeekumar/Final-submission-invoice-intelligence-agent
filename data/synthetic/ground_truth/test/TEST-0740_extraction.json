@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 740",
+  "vendor_address": "Unit 5518 Box 8442, DPO AP 93504",
+  "vendor_tax_id": "TAX00000095",
+  "vendor_bank_account": "XXXX9016",
+  "invoice_number": "THO-00740",
+  "invoice_date": "2026-01-21",
+  "due_date": "2026-02-20",
+  "purchase_order_number": "PO-00740",
+  "currency": "USD",
+  "subtotal": 956.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 172.08,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1128.08,
+  "amount_due": 1128.08,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "125",
+      "tax_rate": "0.18",
+      "line_total": "500"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "456"
+    }
+  ],
+  "warnings": []
+}

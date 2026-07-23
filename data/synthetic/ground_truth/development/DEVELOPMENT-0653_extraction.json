@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Kerr Services",
+  "vendor_address": "9947 Taylor Hollow, Benderhaven, ND 65223",
+  "vendor_tax_id": "TAX00000043",
+  "vendor_bank_account": "XXXX6543",
+  "invoice_number": "KER-00653",
+  "invoice_date": "2026-04-24",
+  "due_date": "2026-05-24",
+  "purchase_order_number": "PO-00653",
+  "currency": "INR",
+  "subtotal": 4836.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 870.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5706.48,
+  "amount_due": 5706.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "990"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "383",
+      "tax_rate": "0.18",
+      "line_total": "1915"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "22",
+      "tax_rate": "0.18",
+      "line_total": "22"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "278",
+      "tax_rate": "0.18",
+      "line_total": "834"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "215",
+      "tax_rate": "0.18",
+      "line_total": "1075"
+    }
+  ],
+  "warnings": []
+}

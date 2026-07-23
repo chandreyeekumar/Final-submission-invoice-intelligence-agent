@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Pars0ns-Hall",
+  "vendor_address": "394 Courtney Road, West Kristinaton, OR 48324",
+  "vendor_tax_id": "TAX00000056",
+  "vendor_bank_account": "XXXX8317",
+  "invoice_number": "PAR-00620",
+  "invoice_date": "2026-03-22",
+  "due_date": "2026-04-21",
+  "purchase_order_number": "PO-00620",
+  "currency": "EUR",
+  "subtotal": 6793.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1222.74,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8015.74,
+  "amount_due": 8015.74,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "411",
+      "tax_rate": "0.18",
+      "line_total": "1644"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "311",
+      "tax_rate": "0.18",
+      "line_total": "311"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "1428"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "370",
+      "tax_rate": "0.18",
+      "line_total": "1850"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "312",
+      "tax_rate": "0.18",
+      "line_total": "1560"
+    }
+  ],
+  "warnings": []
+}

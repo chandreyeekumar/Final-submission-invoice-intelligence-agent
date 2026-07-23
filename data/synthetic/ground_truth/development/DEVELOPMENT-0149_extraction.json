@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Wise, Lamb and Martin",
+  "vendor_address": "3794 Young Garden Suite 735, Murrayport, WI 50553",
+  "vendor_tax_id": "TAX00000083",
+  "vendor_bank_account": "XXXX9440",
+  "invoice_number": "WIS-00149",
+  "invoice_date": "2026-05-30",
+  "due_date": "2026-06-29",
+  "purchase_order_number": "PO-00149",
+  "currency": "EUR",
+  "subtotal": 2560.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 460.8,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3020.8,
+  "amount_due": 3020.8,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "36",
+      "tax_rate": "0.18",
+      "line_total": "180"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "98",
+      "tax_rate": "0.18",
+      "line_total": "490"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "209",
+      "tax_rate": "0.18",
+      "line_total": "836"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "247",
+      "tax_rate": "0.18",
+      "line_total": "741"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "313",
+      "tax_rate": "0.18",
+      "line_total": "313"
+    }
+  ],
+  "warnings": []
+}

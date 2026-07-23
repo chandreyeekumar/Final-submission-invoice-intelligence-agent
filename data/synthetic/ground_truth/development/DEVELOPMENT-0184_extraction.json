@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Armstrong-Andrews",
+  "vendor_address": "Unit 4064 Box 0909, DPO AP 65608",
+  "vendor_tax_id": "TAX00000055",
+  "vendor_bank_account": "XXXX4315",
+  "invoice_number": "ARM-00184",
+  "invoice_date": "2026-01-05",
+  "due_date": "2026-02-04",
+  "purchase_order_number": "PO-00184",
+  "currency": "INR",
+  "subtotal": 642.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 115.56,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 757.56,
+  "amount_due": 757.56,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "114"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "264",
+      "tax_rate": "0.18",
+      "line_total": "528"
+    }
+  ],
+  "warnings": []
+}

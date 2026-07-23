@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Carpenter LLC",
+  "vendor_address": "5698 Paul Ports Apt. 406, New Saraside, TX 94798",
+  "vendor_tax_id": "TAX00000022",
+  "vendor_bank_account": "XXXX3733",
+  "invoice_number": "CAR-00298",
+  "invoice_date": "2026-04-29",
+  "due_date": "2026-05-29",
+  "purchase_order_number": "PO-00298",
+  "currency": "USD",
+  "subtotal": 493.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 88.74,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 581.74,
+  "amount_due": 581.74,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "300",
+      "tax_rate": "0.18",
+      "line_total": "300"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "193",
+      "tax_rate": "0.18",
+      "line_total": "193"
+    }
+  ],
+  "warnings": []
+}

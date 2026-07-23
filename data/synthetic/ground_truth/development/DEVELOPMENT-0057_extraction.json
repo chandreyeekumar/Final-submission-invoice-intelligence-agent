@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Frye-Stevens",
+  "vendor_address": "497 Susan Harbors Suite 344, Lake Janet, MD 63389",
+  "vendor_tax_id": "TAX00000109",
+  "vendor_bank_account": "XXXX7811",
+  "invoice_number": "FRY-00057",
+  "invoice_date": "2026-02-27",
+  "due_date": "2026-03-29",
+  "purchase_order_number": "PO-00057",
+  "currency": "USD",
+  "subtotal": 12057.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 2170.26,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 14227.26,
+  "amount_due": 14227.26,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "205",
+      "tax_rate": "0.18",
+      "line_total": "820"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "382",
+      "tax_rate": "0.18",
+      "line_total": "1528"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "242",
+      "tax_rate": "0.18",
+      "line_total": "484"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "395",
+      "tax_rate": "0.18",
+      "line_total": "790"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "353",
+      "tax_rate": "0.18",
+      "line_total": "1765"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "335",
+      "tax_rate": "0.18",
+      "line_total": "1005"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "416",
+      "tax_rate": "0.18",
+      "line_total": "2080"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "258",
+      "tax_rate": "0.18",
+      "line_total": "1032"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "442",
+      "tax_rate": "0.18",
+      "line_total": "1768"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "157",
+      "tax_rate": "0.18",
+      "line_total": "785"
+    }
+  ],
+  "warnings": []
+}

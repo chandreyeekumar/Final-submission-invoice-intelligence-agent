@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Harris, Aguilar and Davis",
+  "vendor_address": "2867 Angelica Spring, Jenniferfurt, KS 00896",
+  "vendor_tax_id": "TAX00000118",
+  "vendor_bank_account": "XXXX5183",
+  "invoice_number": "HAR1-00539",
+  "invoice_date": "2026-06-29",
+  "due_date": "2026-07-29",
+  "purchase_order_number": "PO-00539",
+  "currency": "EUR",
+  "subtotal": 3619.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 651.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4270.42,
+  "amount_due": 4270.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "332",
+      "tax_rate": "0.18",
+      "line_total": "1328"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "191",
+      "tax_rate": "0.18",
+      "line_total": "573"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "156",
+      "tax_rate": "0.18",
+      "line_total": "468"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "150",
+      "tax_rate": "0.18",
+      "line_total": "150"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "220",
+      "tax_rate": "0.18",
+      "line_total": "1100"
+    }
+  ],
+  "warnings": []
+}

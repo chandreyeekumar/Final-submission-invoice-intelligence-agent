@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Miller-Brandt",
+  "vendor_address": "512 Rice Stream, Port Adam, AK 39608",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX6484",
+  "invoice_number": "MIL1-00029",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-03-01",
+  "purchase_order_number": "PO-00029",
+  "currency": "USD",
+  "subtotal": 2172.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 390.96,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2562.96,
+  "amount_due": 2562.96,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "310"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "475",
+      "tax_rate": "0.18",
+      "line_total": "475"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "400",
+      "tax_rate": "0.18",
+      "line_total": "400"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "99",
+      "tax_rate": "0.18",
+      "line_total": "495"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "164",
+      "tax_rate": "0.18",
+      "line_total": "492"
+    }
+  ],
+  "warnings": []
+}

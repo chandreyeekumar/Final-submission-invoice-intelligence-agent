@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 659",
+  "vendor_address": "75655 Mia Isle Suite 746, South Christopherview, MD 15695",
+  "vendor_tax_id": "TAX00000045",
+  "vendor_bank_account": "XXXX1489",
+  "invoice_number": "SHE-00659",
+  "invoice_date": "2026-04-30",
+  "due_date": "2026-05-30",
+  "purchase_order_number": "PO-00659",
+  "currency": "EUR",
+  "subtotal": 5469.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 984.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6453.42,
+  "amount_due": 6453.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "447",
+      "tax_rate": "0.18",
+      "line_total": "894"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "403",
+      "tax_rate": "0.18",
+      "line_total": "806"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "441",
+      "tax_rate": "0.18",
+      "line_total": "2205"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "308",
+      "tax_rate": "0.18",
+      "line_total": "924"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "640"
+    }
+  ],
+  "warnings": []
+}

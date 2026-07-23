@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Martinez Ltd",
+  "vendor_address": "4529 Kimberly Estates, Danieltown, ME 75971",
+  "vendor_tax_id": "TAX00000032",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "MAR-00410",
+  "invoice_date": "2026-02-20",
+  "due_date": "2026-03-22",
+  "purchase_order_number": "PO-00410",
+  "currency": "INR",
+  "subtotal": 6111.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1099.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7210.98,
+  "amount_due": 7210.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "368",
+      "tax_rate": "0.18",
+      "line_total": "1472"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "479",
+      "tax_rate": "0.18",
+      "line_total": "1916"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "461",
+      "tax_rate": "0.18",
+      "line_total": "2305"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "266",
+      "tax_rate": "0.18",
+      "line_total": "266"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "152",
+      "tax_rate": "0.18",
+      "line_total": "152"
+    }
+  ],
+  "warnings": []
+}

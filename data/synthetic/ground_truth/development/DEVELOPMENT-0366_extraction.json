@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Johnson Ltd",
+  "vendor_address": "248 Andrea Course, Port Robin, NH 15897",
+  "vendor_tax_id": "TAX00000047",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "JOH-00366",
+  "invoice_date": "2026-01-07",
+  "due_date": "2026-02-06",
+  "purchase_order_number": "PO-00366",
+  "currency": "EUR",
+  "subtotal": 8872.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1596.96,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10468.96,
+  "amount_due": 10468.96,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "291",
+      "tax_rate": "0.18",
+      "line_total": "1455"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "307",
+      "tax_rate": "0.18",
+      "line_total": "1228"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "78",
+      "tax_rate": "0.18",
+      "line_total": "78"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "248",
+      "tax_rate": "0.18",
+      "line_total": "744"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "483",
+      "tax_rate": "0.18",
+      "line_total": "966"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "490",
+      "tax_rate": "0.18",
+      "line_total": "2450"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "144",
+      "tax_rate": "0.18",
+      "line_total": "720"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "369",
+      "tax_rate": "0.18",
+      "line_total": "369"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "215",
+      "tax_rate": "0.18",
+      "line_total": "645"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "217",
+      "tax_rate": "0.18",
+      "line_total": "217"
+    }
+  ],
+  "warnings": []
+}

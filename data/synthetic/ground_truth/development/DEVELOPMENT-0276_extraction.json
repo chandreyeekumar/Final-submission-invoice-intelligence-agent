@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Little, Leon and Hicks",
+  "vendor_address": "37058 Mcdonald Plaza, New Nicole, CA 41040",
+  "vendor_tax_id": "TAX00000096",
+  "vendor_bank_account": "XXXX8856",
+  "invoice_number": "LIT-00276",
+  "invoice_date": "2026-04-07",
+  "due_date": "2026-05-07",
+  "purchase_order_number": "PO-00276",
+  "currency": "USD",
+  "subtotal": 7633.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1373.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9006.94,
+  "amount_due": 9006.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "346",
+      "tax_rate": "0.18",
+      "line_total": "692"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "58",
+      "tax_rate": "0.18",
+      "line_total": "232"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "310",
+      "tax_rate": "0.18",
+      "line_total": "1550"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "242",
+      "tax_rate": "0.18",
+      "line_total": "242"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "141",
+      "tax_rate": "0.18",
+      "line_total": "282"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "153",
+      "tax_rate": "0.18",
+      "line_total": "459"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "494",
+      "tax_rate": "0.18",
+      "line_total": "1482"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "378",
+      "tax_rate": "0.18",
+      "line_total": "1512"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "182",
+      "tax_rate": "0.18",
+      "line_total": "546"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "159",
+      "tax_rate": "0.18",
+      "line_total": "636"
+    }
+  ],
+  "warnings": []
+}

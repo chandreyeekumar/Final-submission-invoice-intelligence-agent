@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Patel-Hall",
+  "vendor_address": "60607 Michelle Ports Suite 966, Dariustown, MD 23028",
+  "vendor_tax_id": "TAX00000073",
+  "vendor_bank_account": "XXXX7397",
+  "invoice_number": "PAT-00231",
+  "invoice_date": "2026-02-21",
+  "due_date": "2026-03-23",
+  "purchase_order_number": "PO-00231",
+  "currency": "INR",
+  "subtotal": 10570.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1902.6,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 12472.6,
+  "amount_due": 12472.6,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "405",
+      "tax_rate": "0.18",
+      "line_total": "1620"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "427",
+      "tax_rate": "0.18",
+      "line_total": "1281"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "74",
+      "tax_rate": "0.18",
+      "line_total": "296"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "70",
+      "tax_rate": "0.18",
+      "line_total": "70"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "399"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "402",
+      "tax_rate": "0.18",
+      "line_total": "2010"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "1525"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "372",
+      "tax_rate": "0.18",
+      "line_total": "1860"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "665"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "211",
+      "tax_rate": "0.18",
+      "line_total": "844"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Daniels-Perry",
+  "vendor_address": "9096 Smith Knoll Suite 668, South Jeffrey, NE 64155",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX2803",
+  "invoice_number": "DAN-00071",
+  "invoice_date": "2026-03-13",
+  "due_date": "2026-04-12",
+  "purchase_order_number": "PO-00071",
+  "currency": "EUR",
+  "subtotal": 4375.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 787.5,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5162.5,
+  "amount_due": 5162.5,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "56",
+      "tax_rate": "0.18",
+      "line_total": "112"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "104",
+      "tax_rate": "0.18",
+      "line_total": "104"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "324",
+      "tax_rate": "0.18",
+      "line_total": "972"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "491",
+      "tax_rate": "0.18",
+      "line_total": "2455"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "244",
+      "tax_rate": "0.18",
+      "line_total": "732"
+    }
+  ],
+  "warnings": []
+}

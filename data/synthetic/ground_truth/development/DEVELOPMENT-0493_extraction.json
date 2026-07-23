@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Arn0ld-Patterson",
+  "vendor_address": "280 Aguilar Drive, Andersonport, MN 05730",
+  "vendor_tax_id": "TAX00000019",
+  "vendor_bank_account": "XXXX4803",
+  "invoice_number": "ARN-00493",
+  "invoice_date": "2026-05-14",
+  "due_date": "2026-06-13",
+  "purchase_order_number": "PO-00493",
+  "currency": "USD",
+  "subtotal": 2333.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 419.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2752.94,
+  "amount_due": 2752.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "172",
+      "tax_rate": "0.18",
+      "line_total": "860"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "491",
+      "tax_rate": "0.18",
+      "line_total": "1473"
+    }
+  ],
+  "warnings": []
+}

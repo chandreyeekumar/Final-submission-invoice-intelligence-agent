@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Baldwin Ltd",
+  "vendor_address": "9402 Peterson Drives, Port Matthew, CO 50298",
+  "vendor_tax_id": "TAX00000002",
+  "vendor_bank_account": "XXXX4012",
+  "invoice_number": "BAL-00954",
+  "invoice_date": "2026-02-24",
+  "due_date": "2026-03-26",
+  "purchase_order_number": "PO-00954",
+  "currency": "EUR",
+  "subtotal": 2740.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 493.2,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3233.2,
+  "amount_due": 3233.2,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "110"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "1413"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "107",
+      "tax_rate": "0.18",
+      "line_total": "107"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "324",
+      "tax_rate": "0.18",
+      "line_total": "324"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "262",
+      "tax_rate": "0.18",
+      "line_total": "786"
+    }
+  ],
+  "warnings": []
+}

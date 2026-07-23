@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Clark-Wright",
+  "vendor_address": "232 Nicole Burg Apt. 563, Erikville, MS 05576",
+  "vendor_tax_id": "TAX00000020",
+  "vendor_bank_account": "XXXX5925",
+  "invoice_number": "CLA-00432",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-04-13",
+  "purchase_order_number": "PO-00432",
+  "currency": "EUR",
+  "subtotal": 7861.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1414.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9275.98,
+  "amount_due": 9275.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "196",
+      "tax_rate": "0.18",
+      "line_total": "392"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "260",
+      "tax_rate": "0.18",
+      "line_total": "780"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "120"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "406",
+      "tax_rate": "0.18",
+      "line_total": "1624"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "173",
+      "tax_rate": "0.18",
+      "line_total": "692"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "412",
+      "tax_rate": "0.18",
+      "line_total": "412"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "428",
+      "tax_rate": "0.18",
+      "line_total": "1712"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "325",
+      "tax_rate": "0.18",
+      "line_total": "975"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "427",
+      "tax_rate": "0.18",
+      "line_total": "854"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "300",
+      "tax_rate": "0.18",
+      "line_total": "300"
+    }
+  ],
+  "warnings": []
+}

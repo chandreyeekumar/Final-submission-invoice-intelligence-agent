@@ -1,0 +1,5 @@
+{
+  "label": "benign",
+  "attack_type": "none",
+  "expected_action": "allow"
+}

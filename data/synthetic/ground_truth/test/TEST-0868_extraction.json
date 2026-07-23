@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Arnold-Patterson",
+  "vendor_address": "280 Aguilar Drive, Andersonport, MN 05730",
+  "vendor_tax_id": "TAX00000019",
+  "vendor_bank_account": "XXXX4803",
+  "invoice_number": "ARN-00868",
+  "invoice_date": "2026-05-29",
+  "due_date": "2026-06-28",
+  "purchase_order_number": "PO-00868",
+  "currency": "USD",
+  "subtotal": 7012.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1262.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8274.16,
+  "amount_due": 8274.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "255",
+      "tax_rate": "0.18",
+      "line_total": "510"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "437",
+      "tax_rate": "0.18",
+      "line_total": "874"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "116",
+      "tax_rate": "0.18",
+      "line_total": "232"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "271",
+      "tax_rate": "0.18",
+      "line_total": "1355"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "351",
+      "tax_rate": "0.18",
+      "line_total": "702"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "30",
+      "tax_rate": "0.18",
+      "line_total": "90"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "103",
+      "tax_rate": "0.18",
+      "line_total": "309"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "438",
+      "tax_rate": "0.18",
+      "line_total": "876"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "371",
+      "tax_rate": "0.18",
+      "line_total": "1484"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "116",
+      "tax_rate": "0.18",
+      "line_total": "580"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Medina PLC",
+  "vendor_address": "35427 Carr Valley Apt. 841, West Darrell, CT 97811",
+  "vendor_tax_id": "TAX00000017",
+  "vendor_bank_account": "XXXX7527",
+  "invoice_number": "MED-00252",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-04-13",
+  "purchase_order_number": "PO-00252",
+  "currency": "INR",
+  "subtotal": 4728.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 851.04,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5579.04,
+  "amount_due": 5579.04,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "477",
+      "tax_rate": "0.18",
+      "line_total": "1431"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "43",
+      "tax_rate": "0.18",
+      "line_total": "43"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "340",
+      "tax_rate": "0.18",
+      "line_total": "340"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "28",
+      "tax_rate": "0.18",
+      "line_total": "112"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "495",
+      "tax_rate": "0.18",
+      "line_total": "495"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "245",
+      "tax_rate": "0.18",
+      "line_total": "490"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "20",
+      "tax_rate": "0.18",
+      "line_total": "80"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "123",
+      "tax_rate": "0.18",
+      "line_total": "492"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "942"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "101",
+      "tax_rate": "0.18",
+      "line_total": "303"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Williams0n and Sons",
+  "vendor_address": "16117 Heather Burgs Apt. 504, Nicholasberg, IA 70122",
+  "vendor_tax_id": "TAX00000052",
+  "vendor_bank_account": "XXXX4371",
+  "invoice_number": "WIL-00804",
+  "invoice_date": "2026-03-26",
+  "due_date": "2026-04-25",
+  "purchase_order_number": "PO-00804",
+  "currency": "EUR",
+  "subtotal": 3815.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 686.7,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4501.7,
+  "amount_due": 4501.7,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "239",
+      "tax_rate": "0.18",
+      "line_total": "717"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "1428"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "395",
+      "tax_rate": "0.18",
+      "line_total": "395"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "170",
+      "tax_rate": "0.18",
+      "line_total": "680"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "119",
+      "tax_rate": "0.18",
+      "line_total": "595"
+    }
+  ],
+  "warnings": []
+}

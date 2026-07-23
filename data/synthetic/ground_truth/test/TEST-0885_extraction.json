@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Hoffman, Santiago and Jenkins",
+  "vendor_address": "049 Bell Ports Apt. 273, West Meganstad, DE 37013",
+  "vendor_tax_id": "TAX00000068",
+  "vendor_bank_account": "XXXX4342",
+  "invoice_number": "HOF-00885",
+  "invoice_date": "2026-06-15",
+  "due_date": "2026-07-15",
+  "purchase_order_number": "PO-00885",
+  "currency": "EUR",
+  "subtotal": 3033.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 545.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3578.94,
+  "amount_due": 3578.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "1556"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "247",
+      "tax_rate": "0.18",
+      "line_total": "741"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "166",
+      "tax_rate": "0.18",
+      "line_total": "166"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "99",
+      "tax_rate": "0.18",
+      "line_total": "99"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "471"
+    }
+  ],
+  "warnings": []
+}

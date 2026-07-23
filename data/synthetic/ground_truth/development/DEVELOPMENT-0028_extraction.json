@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Sandoval, Jones and Figueroa",
+  "vendor_address": "Unit 1836 Box 6752, DPO AA 41347",
+  "vendor_tax_id": "TAX00000070",
+  "vendor_bank_account": "XXXX3295",
+  "invoice_number": "SAN-00028",
+  "invoice_date": "2026-01-29",
+  "due_date": "2026-02-28",
+  "purchase_order_number": "PO-00028",
+  "currency": "USD",
+  "subtotal": 985.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 177.3,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1162.3,
+  "amount_due": 1162.3,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "120"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "173",
+      "tax_rate": "0.18",
+      "line_total": "865"
+    }
+  ],
+  "warnings": []
+}

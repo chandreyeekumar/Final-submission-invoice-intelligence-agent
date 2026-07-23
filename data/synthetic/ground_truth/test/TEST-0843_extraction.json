@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Grant Group",
+  "vendor_address": "1925 Ponce Square, Andersonland, ME 73760",
+  "vendor_tax_id": "TAX00000080",
+  "vendor_bank_account": "XXXX8423",
+  "invoice_number": "GRA-00843",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-06-03",
+  "purchase_order_number": "PO-00843",
+  "currency": "INR",
+  "subtotal": 3137.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 564.66,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3701.66,
+  "amount_due": 3701.66,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "335",
+      "tax_rate": "0.18",
+      "line_total": "335"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "188",
+      "tax_rate": "0.18",
+      "line_total": "752"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "201",
+      "tax_rate": "0.18",
+      "line_total": "603"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "22",
+      "tax_rate": "0.18",
+      "line_total": "22"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "475",
+      "tax_rate": "0.18",
+      "line_total": "1425"
+    }
+  ],
+  "warnings": []
+}

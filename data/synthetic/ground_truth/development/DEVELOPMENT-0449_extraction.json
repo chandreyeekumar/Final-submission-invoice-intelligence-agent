@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Perez, Patterson and Hoffman",
+  "vendor_address": "402 Park Inlet, Michaelburgh, VI 19277",
+  "vendor_tax_id": "TAX00000069",
+  "vendor_bank_account": "XXXX6932",
+  "invoice_number": "PER-00449",
+  "invoice_date": "2026-03-31",
+  "due_date": "2026-04-30",
+  "purchase_order_number": "PO-00449",
+  "currency": "EUR",
+  "subtotal": 3873.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 697.14,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4570.14,
+  "amount_due": 4570.14,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "412",
+      "tax_rate": "0.18",
+      "line_total": "1648"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "98",
+      "tax_rate": "0.18",
+      "line_total": "490"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "164",
+      "tax_rate": "0.18",
+      "line_total": "820"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "229",
+      "tax_rate": "0.18",
+      "line_total": "687"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "76",
+      "tax_rate": "0.18",
+      "line_total": "228"
+    }
+  ],
+  "warnings": []
+}

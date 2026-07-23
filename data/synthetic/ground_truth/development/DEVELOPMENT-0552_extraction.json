@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Willis and S0ns",
+  "vendor_address": "042 Amber Union, North Donna, AK 17776",
+  "vendor_tax_id": "TAX00000063",
+  "vendor_bank_account": "XXXX3923",
+  "invoice_number": "WIL1-00552",
+  "invoice_date": "2026-01-13",
+  "due_date": "2026-02-12",
+  "purchase_order_number": "PO-00552",
+  "currency": "INR",
+  "subtotal": 6357.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1144.26,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7501.26,
+  "amount_due": 7501.26,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "275",
+      "tax_rate": "0.18",
+      "line_total": "825"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "447",
+      "tax_rate": "0.18",
+      "line_total": "2235"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "28",
+      "tax_rate": "0.18",
+      "line_total": "112"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "193",
+      "tax_rate": "0.18",
+      "line_total": "193"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "192",
+      "tax_rate": "0.18",
+      "line_total": "192"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "227",
+      "tax_rate": "0.18",
+      "line_total": "227"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "128"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "254",
+      "tax_rate": "0.18",
+      "line_total": "1270"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "96",
+      "tax_rate": "0.18",
+      "line_total": "480"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "139",
+      "tax_rate": "0.18",
+      "line_total": "695"
+    }
+  ],
+  "warnings": []
+}

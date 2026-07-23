@@ -1,0 +1,92 @@
+{
+  "vendor_name": "H0ffman, Santiago and Jenkins",
+  "vendor_address": "049 Bell Ports Apt. 273, West Meganstad, DE 37013",
+  "vendor_tax_id": "TAX00000068",
+  "vendor_bank_account": "XXXX4342",
+  "invoice_number": "HOF-00489",
+  "invoice_date": "2026-05-10",
+  "due_date": "2026-06-09",
+  "purchase_order_number": "PO-00489",
+  "currency": "EUR",
+  "subtotal": 6671.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1200.78,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7871.78,
+  "amount_due": 7871.78,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "333",
+      "tax_rate": "0.18",
+      "line_total": "1665"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "213",
+      "tax_rate": "0.18",
+      "line_total": "426"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "214",
+      "tax_rate": "0.18",
+      "line_total": "1070"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "413",
+      "tax_rate": "0.18",
+      "line_total": "413"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "487",
+      "tax_rate": "0.18",
+      "line_total": "974"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "309",
+      "tax_rate": "0.18",
+      "line_total": "927"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "103",
+      "tax_rate": "0.18",
+      "line_total": "206"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "111",
+      "tax_rate": "0.18",
+      "line_total": "222"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "234",
+      "tax_rate": "0.18",
+      "line_total": "234"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "178",
+      "tax_rate": "0.18",
+      "line_total": "534"
+    }
+  ],
+  "warnings": []
+}

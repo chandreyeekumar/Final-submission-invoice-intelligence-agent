@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Wright-Davis",
+  "vendor_address": "632 Peck Stravenue Suite 327, Jimenezport, NM 03538",
+  "vendor_tax_id": "TAX00000102",
+  "vendor_bank_account": "XXXX6930",
+  "invoice_number": "WRI1-00573",
+  "invoice_date": "2026-02-03",
+  "due_date": "2026-03-05",
+  "purchase_order_number": "PO-00573",
+  "currency": "INR",
+  "subtotal": 9270.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1668.6,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10938.6,
+  "amount_due": 10938.6,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "460",
+      "tax_rate": "0.18",
+      "line_total": "460"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "217",
+      "tax_rate": "0.18",
+      "line_total": "217"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "291",
+      "tax_rate": "0.18",
+      "line_total": "873"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "171",
+      "tax_rate": "0.18",
+      "line_total": "171"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "405",
+      "tax_rate": "0.18",
+      "line_total": "1620"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "377",
+      "tax_rate": "0.18",
+      "line_total": "1131"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "297",
+      "tax_rate": "0.18",
+      "line_total": "1485"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "426",
+      "tax_rate": "0.18",
+      "line_total": "2130"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "423",
+      "tax_rate": "0.18",
+      "line_total": "846"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "337",
+      "tax_rate": "0.18",
+      "line_total": "337"
+    }
+  ],
+  "warnings": []
+}

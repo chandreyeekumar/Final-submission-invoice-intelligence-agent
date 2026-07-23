@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Hendricks, Phillips and Mendez",
+  "vendor_address": "2795 Miles Mountains, Port John, WV 78595",
+  "vendor_tax_id": "TAX00000116",
+  "vendor_bank_account": "XXXX1343",
+  "invoice_number": "HEN2-00706",
+  "invoice_date": "2026-06-16",
+  "due_date": "2026-07-16",
+  "purchase_order_number": "PO-00706",
+  "currency": "USD",
+  "subtotal": 8005.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1440.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9445.9,
+  "amount_due": 9445.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "396",
+      "tax_rate": "0.18",
+      "line_total": "1584"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "350",
+      "tax_rate": "0.18",
+      "line_total": "1050"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "463",
+      "tax_rate": "0.18",
+      "line_total": "463"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "382",
+      "tax_rate": "0.18",
+      "line_total": "764"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "312",
+      "tax_rate": "0.18",
+      "line_total": "312"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "307",
+      "tax_rate": "0.18",
+      "line_total": "921"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "349",
+      "tax_rate": "0.18",
+      "line_total": "349"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "63",
+      "tax_rate": "0.18",
+      "line_total": "315"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "336",
+      "tax_rate": "0.18",
+      "line_total": "672"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "315",
+      "tax_rate": "0.18",
+      "line_total": "1575"
+    }
+  ],
+  "warnings": []
+}

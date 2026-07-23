@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Kennedy-Schmidt",
+  "vendor_address": "7444 David Fields Suite 182, East Joanna, KY 95473",
+  "vendor_tax_id": "TAX00000037",
+  "vendor_bank_account": "XXXX3483",
+  "invoice_number": "KEN-00998",
+  "invoice_date": "2026-04-09",
+  "due_date": "2026-05-09",
+  "purchase_order_number": "PO-00998",
+  "currency": "EUR",
+  "subtotal": 998.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 179.64,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1177.64,
+  "amount_due": 1177.64,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "169",
+      "tax_rate": "0.18",
+      "line_total": "338"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "660"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Hendricks, Phillips and Mendez",
+  "vendor_address": "2795 Miles Mountains, Port John, WV 78595",
+  "vendor_tax_id": "TAX00000116",
+  "vendor_bank_account": "XXXX1343",
+  "invoice_number": "HEN2-00332",
+  "invoice_date": "2026-06-02",
+  "due_date": "2026-07-02",
+  "purchase_order_number": "PO-00332",
+  "currency": "USD",
+  "subtotal": 1929.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 347.22,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2276.22,
+  "amount_due": 2276.22,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "484",
+      "tax_rate": "0.18",
+      "line_total": "968"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "29",
+      "tax_rate": "0.18",
+      "line_total": "116"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "134",
+      "tax_rate": "0.18",
+      "line_total": "268"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "256"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "321",
+      "tax_rate": "0.18",
+      "line_total": "321"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "R0binson, Jones and Henderson",
+  "vendor_address": "70462 Katie Stream, Brooksfurt, NV 49980",
+  "vendor_tax_id": "TAX00000119",
+  "vendor_bank_account": "XXXX5147",
+  "invoice_number": "ROB1-00553",
+  "invoice_date": "2026-01-14",
+  "due_date": "2026-02-13",
+  "purchase_order_number": "PO-00553",
+  "currency": "INR",
+  "subtotal": 1677.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 301.86,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1978.86,
+  "amount_due": 1978.86,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "354",
+      "tax_rate": "0.18",
+      "line_total": "1416"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "261",
+      "tax_rate": "0.18",
+      "line_total": "261"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Allen-Allen",
+  "vendor_address": "71822 Arroyo Expressway, Allisonchester, IL 71187",
+  "vendor_tax_id": "TAX00000009",
+  "vendor_bank_account": "XXXX8928",
+  "invoice_number": "ALL-00411",
+  "invoice_date": "2026-02-21",
+  "due_date": "2026-03-23",
+  "purchase_order_number": "PO-00411",
+  "currency": "USD",
+  "subtotal": 8007.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1441.26,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9448.26,
+  "amount_due": 9448.26,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "366",
+      "tax_rate": "0.18",
+      "line_total": "732"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "429",
+      "tax_rate": "0.18",
+      "line_total": "858"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "693"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "284",
+      "tax_rate": "0.18",
+      "line_total": "852"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "120"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "147",
+      "tax_rate": "0.18",
+      "line_total": "441"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "201"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "364",
+      "tax_rate": "0.18",
+      "line_total": "1456"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "58",
+      "tax_rate": "0.18",
+      "line_total": "174"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "496",
+      "tax_rate": "0.18",
+      "line_total": "2480"
+    }
+  ],
+  "warnings": []
+}

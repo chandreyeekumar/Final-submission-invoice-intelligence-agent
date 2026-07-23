@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Taylor, Chavez and Santiago",
+  "vendor_address": "261 Gilbert Harbors Apt. 537, Sampsonstad, CT 90374",
+  "vendor_tax_id": "TAX00000061",
+  "vendor_bank_account": "XXXX5310",
+  "invoice_number": "TAY-00675",
+  "invoice_date": "2026-05-16",
+  "due_date": "2026-06-15",
+  "purchase_order_number": "PO-00675",
+  "currency": "USD",
+  "subtotal": 5969.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1074.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7043.42,
+  "amount_due": 7043.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "398",
+      "tax_rate": "0.18",
+      "line_total": "796"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "268",
+      "tax_rate": "0.18",
+      "line_total": "1072"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "30",
+      "tax_rate": "0.18",
+      "line_total": "120"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "319",
+      "tax_rate": "0.18",
+      "line_total": "1276"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "123",
+      "tax_rate": "0.18",
+      "line_total": "246"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "311",
+      "tax_rate": "0.18",
+      "line_total": "933"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "46",
+      "tax_rate": "0.18",
+      "line_total": "184"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "72"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "342",
+      "tax_rate": "0.18",
+      "line_total": "342"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "232",
+      "tax_rate": "0.18",
+      "line_total": "928"
+    }
+  ],
+  "warnings": []
+}

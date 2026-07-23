@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 330",
+  "vendor_address": "9904 Schwartz Circle Apt. 742, Parksport, UT 15890",
+  "vendor_tax_id": "TAX00000115",
+  "vendor_bank_account": "XXXX9740",
+  "invoice_number": "REY-00330",
+  "invoice_date": "2026-05-31",
+  "due_date": "2026-06-30",
+  "purchase_order_number": "PO-00330",
+  "currency": "USD",
+  "subtotal": 4374.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 787.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5161.32,
+  "amount_due": 5161.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "29",
+      "tax_rate": "0.18",
+      "line_total": "58"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "340",
+      "tax_rate": "0.18",
+      "line_total": "340"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "135",
+      "tax_rate": "0.18",
+      "line_total": "270"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "179",
+      "tax_rate": "0.18",
+      "line_total": "537"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "72",
+      "tax_rate": "0.18",
+      "line_total": "144"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "277",
+      "tax_rate": "0.18",
+      "line_total": "1108"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "176",
+      "tax_rate": "0.18",
+      "line_total": "880"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "53",
+      "tax_rate": "0.18",
+      "line_total": "106"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "172",
+      "tax_rate": "0.18",
+      "line_total": "172"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "253",
+      "tax_rate": "0.18",
+      "line_total": "759"
+    }
+  ],
+  "warnings": []
+}

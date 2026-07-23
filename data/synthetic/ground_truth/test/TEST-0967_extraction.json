@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Moore, Campbell and Clark",
+  "vendor_address": "740 Cynthia Village Suite 005, Lake Tina, GA 97655",
+  "vendor_tax_id": "TAX00000018",
+  "vendor_bank_account": "XXXX6201",
+  "invoice_number": "MOO-00967",
+  "invoice_date": "2026-03-09",
+  "due_date": "2026-04-08",
+  "purchase_order_number": "PO-00967",
+  "currency": "EUR",
+  "subtotal": 7415.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1334.7,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8749.7,
+  "amount_due": 8749.7,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "63",
+      "tax_rate": "0.18",
+      "line_total": "189"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "310",
+      "tax_rate": "0.18",
+      "line_total": "930"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "299",
+      "tax_rate": "0.18",
+      "line_total": "1196"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "212",
+      "tax_rate": "0.18",
+      "line_total": "424"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "69",
+      "tax_rate": "0.18",
+      "line_total": "276"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "289",
+      "tax_rate": "0.18",
+      "line_total": "578"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "375",
+      "tax_rate": "0.18",
+      "line_total": "1500"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "277",
+      "tax_rate": "0.18",
+      "line_total": "831"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "259",
+      "tax_rate": "0.18",
+      "line_total": "777"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "238",
+      "tax_rate": "0.18",
+      "line_total": "714"
+    }
+  ],
+  "warnings": []
+}

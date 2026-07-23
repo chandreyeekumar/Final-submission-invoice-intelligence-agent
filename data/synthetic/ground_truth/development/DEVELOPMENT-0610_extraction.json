@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Henson, Hoffman and Herman",
+  "vendor_address": "746 Donald Camp, Wendyville, CT 31276",
+  "vendor_tax_id": "TAX00000060",
+  "vendor_bank_account": "XXXX8689",
+  "invoice_number": "HEN1-00610",
+  "invoice_date": "2026-03-12",
+  "due_date": "2026-04-11",
+  "purchase_order_number": "PO-00610",
+  "currency": "USD",
+  "subtotal": 2055.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 369.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2424.9,
+  "amount_due": 2424.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "380",
+      "tax_rate": "0.18",
+      "line_total": "1140"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "915"
+    }
+  ],
+  "warnings": []
+}

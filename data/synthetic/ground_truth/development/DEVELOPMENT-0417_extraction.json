@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Bryant-Hickman",
+  "vendor_address": "USS Ellis, FPO AP 13605",
+  "vendor_tax_id": "TAX00000016",
+  "vendor_bank_account": "XXXX9891",
+  "invoice_number": "BRY-00417",
+  "invoice_date": "2026-02-27",
+  "due_date": "2026-03-29",
+  "purchase_order_number": "PO-00417",
+  "currency": "INR",
+  "subtotal": 7111.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1279.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8390.98,
+  "amount_due": 8390.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "26",
+      "tax_rate": "0.18",
+      "line_total": "26"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "214",
+      "tax_rate": "0.18",
+      "line_total": "428"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "71",
+      "tax_rate": "0.18",
+      "line_total": "355"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "205",
+      "tax_rate": "0.18",
+      "line_total": "615"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "461",
+      "tax_rate": "0.18",
+      "line_total": "2305"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "115",
+      "tax_rate": "0.18",
+      "line_total": "345"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "154",
+      "tax_rate": "0.18",
+      "line_total": "770"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "157",
+      "tax_rate": "0.18",
+      "line_total": "314"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "333",
+      "tax_rate": "0.18",
+      "line_total": "1332"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "207",
+      "tax_rate": "0.18",
+      "line_total": "621"
+    }
+  ],
+  "warnings": []
+}

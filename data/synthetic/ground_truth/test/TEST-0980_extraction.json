@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 980",
+  "vendor_address": "74596 Melissa Walk, Finleyfort, VI 71413",
+  "vendor_tax_id": "TAX00000051",
+  "vendor_bank_account": "XXXX1876",
+  "invoice_number": "LOZ-00980",
+  "invoice_date": "2026-03-22",
+  "due_date": "2026-04-21",
+  "purchase_order_number": "PO-00980",
+  "currency": "USD",
+  "subtotal": 2168.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 390.24,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2558.24,
+  "amount_due": 2558.24,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "212",
+      "tax_rate": "0.18",
+      "line_total": "848"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "1320"
+    }
+  ],
+  "warnings": []
+}

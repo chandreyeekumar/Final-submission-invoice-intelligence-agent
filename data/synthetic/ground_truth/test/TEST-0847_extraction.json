@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Porter, Wilkerson and Day",
+  "vendor_address": "88496 Cox Dam, Daviston, VI 14872",
+  "vendor_tax_id": "TAX00000006",
+  "vendor_bank_account": "XXXX1535",
+  "invoice_number": "POR-00847",
+  "invoice_date": "2026-05-08",
+  "due_date": "2026-06-07",
+  "purchase_order_number": "PO-00847",
+  "currency": "USD",
+  "subtotal": 6659.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1198.62,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7857.62,
+  "amount_due": 7857.62,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "481",
+      "tax_rate": "0.18",
+      "line_total": "1443"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "102",
+      "tax_rate": "0.18",
+      "line_total": "102"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "265",
+      "tax_rate": "0.18",
+      "line_total": "530"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "80",
+      "tax_rate": "0.18",
+      "line_total": "240"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "270",
+      "tax_rate": "0.18",
+      "line_total": "1080"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "273",
+      "tax_rate": "0.18",
+      "line_total": "1365"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "186",
+      "tax_rate": "0.18",
+      "line_total": "372"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "276",
+      "tax_rate": "0.18",
+      "line_total": "1104"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "87",
+      "tax_rate": "0.18",
+      "line_total": "348"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "75",
+      "tax_rate": "0.18",
+      "line_total": "75"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,5 @@
+{
+  "label": "malicious",
+  "attack_type": "secret_exfiltration",
+  "expected_action": "block"
+}

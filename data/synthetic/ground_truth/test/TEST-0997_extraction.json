@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Parsons-Hall",
+  "vendor_address": "394 Courtney Road, West Kristinaton, OR 48324",
+  "vendor_tax_id": "TAX00000056",
+  "vendor_bank_account": "XXXX8317",
+  "invoice_number": "PAR-00997",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-05-08",
+  "purchase_order_number": "PO-00997",
+  "currency": "EUR",
+  "subtotal": 5975.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1075.5,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7050.5,
+  "amount_due": 7050.5,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "321",
+      "tax_rate": "0.18",
+      "line_total": "321"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "136",
+      "tax_rate": "0.18",
+      "line_total": "136"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "402",
+      "tax_rate": "0.18",
+      "line_total": "1608"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "310",
+      "tax_rate": "0.18",
+      "line_total": "1550"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "430",
+      "tax_rate": "0.18",
+      "line_total": "430"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "467",
+      "tax_rate": "0.18",
+      "line_total": "467"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "436",
+      "tax_rate": "0.18",
+      "line_total": "872"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "59",
+      "tax_rate": "0.18",
+      "line_total": "59"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "84",
+      "tax_rate": "0.18",
+      "line_total": "84"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "112",
+      "tax_rate": "0.18",
+      "line_total": "448"
+    }
+  ],
+  "warnings": []
+}

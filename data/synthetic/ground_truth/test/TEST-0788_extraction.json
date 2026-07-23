@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Robbins, Jackson and Wallace",
+  "vendor_address": "640 Emily Lodge Suite 820, Port Cathy, WY 57933",
+  "vendor_tax_id": "TAX00000092",
+  "vendor_bank_account": "XXXX7350",
+  "invoice_number": "ROB-00788",
+  "invoice_date": "2026-03-10",
+  "due_date": "2026-04-09",
+  "purchase_order_number": "PO-00788",
+  "currency": "USD",
+  "subtotal": 505.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 90.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 595.9,
+  "amount_due": 595.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "22",
+      "tax_rate": "0.18",
+      "line_total": "44"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "461",
+      "tax_rate": "0.18",
+      "line_total": "461"
+    }
+  ],
+  "warnings": []
+}

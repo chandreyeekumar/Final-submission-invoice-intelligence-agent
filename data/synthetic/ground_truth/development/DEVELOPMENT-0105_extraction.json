@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Williamson and Sons",
+  "vendor_address": "16117 Heather Burgs Apt. 504, Nicholasberg, IA 70122",
+  "vendor_tax_id": "TAX00000052",
+  "vendor_bank_account": "XXXX4371",
+  "invoice_number": "WIL-00105",
+  "invoice_date": "2026-04-16",
+  "due_date": "2026-05-16",
+  "purchase_order_number": "PO-00105",
+  "currency": "EUR",
+  "subtotal": 7989.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1438.02,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9427.02,
+  "amount_due": 9427.02,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "228"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "184",
+      "tax_rate": "0.18",
+      "line_total": "184"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "95",
+      "tax_rate": "0.18",
+      "line_total": "475"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "84",
+      "tax_rate": "0.18",
+      "line_total": "84"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "339",
+      "tax_rate": "0.18",
+      "line_total": "1017"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "300",
+      "tax_rate": "0.18",
+      "line_total": "1500"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "215",
+      "tax_rate": "0.18",
+      "line_total": "645"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "291",
+      "tax_rate": "0.18",
+      "line_total": "1455"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "252",
+      "tax_rate": "0.18",
+      "line_total": "756"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "329",
+      "tax_rate": "0.18",
+      "line_total": "1645"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 321",
+  "vendor_address": "777 Christopher Forges, Holtport, TN 76726",
+  "vendor_tax_id": "TAX00000036",
+  "vendor_bank_account": "XXXX9292",
+  "invoice_number": "COR-00321",
+  "invoice_date": "2026-05-22",
+  "due_date": "2026-06-21",
+  "purchase_order_number": "PO-00321",
+  "currency": "USD",
+  "subtotal": 7424.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1336.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8760.32,
+  "amount_due": 8760.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "355",
+      "tax_rate": "0.18",
+      "line_total": "1065"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "116",
+      "tax_rate": "0.18",
+      "line_total": "348"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "284",
+      "tax_rate": "0.18",
+      "line_total": "568"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "480",
+      "tax_rate": "0.18",
+      "line_total": "960"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "432",
+      "tax_rate": "0.18",
+      "line_total": "432"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "226",
+      "tax_rate": "0.18",
+      "line_total": "1130"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "368",
+      "tax_rate": "0.18",
+      "line_total": "1104"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "778"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "355",
+      "tax_rate": "0.18",
+      "line_total": "355"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "171",
+      "tax_rate": "0.18",
+      "line_total": "684"
+    }
+  ],
+  "warnings": []
+}

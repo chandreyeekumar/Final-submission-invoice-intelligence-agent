@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Rose, Burch and Montoya",
+  "vendor_address": "0758 Jennifer Path, West Christopherburgh, KY 59394",
+  "vendor_tax_id": "TAX00000084",
+  "vendor_bank_account": "XXXX7749",
+  "invoice_number": "ROS-00041",
+  "invoice_date": "2026-02-11",
+  "due_date": "2026-03-13",
+  "purchase_order_number": "PO-00041",
+  "currency": "INR",
+  "subtotal": 4940.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 889.2,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5829.2,
+  "amount_due": 5829.2,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "281",
+      "tax_rate": "0.18",
+      "line_total": "562"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "426",
+      "tax_rate": "0.18",
+      "line_total": "1704"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "714"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "165",
+      "tax_rate": "0.18",
+      "line_total": "165"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "359",
+      "tax_rate": "0.18",
+      "line_total": "1795"
+    }
+  ],
+  "warnings": []
+}

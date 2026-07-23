@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Ferguson and Sons",
+  "vendor_address": "8350 Lydia Valley Suite 641, New Nancy, MD 28370",
+  "vendor_tax_id": "TAX00000005",
+  "vendor_bank_account": "XXXX6912",
+  "invoice_number": "FER-00769",
+  "invoice_date": "2026-02-19",
+  "due_date": "2026-03-21",
+  "purchase_order_number": "PO-00769",
+  "currency": "USD",
+  "subtotal": 6750.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1215.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7965.0,
+  "amount_due": 7965.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "187",
+      "tax_rate": "0.18",
+      "line_total": "374"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "268",
+      "tax_rate": "0.18",
+      "line_total": "1072"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "54",
+      "tax_rate": "0.18",
+      "line_total": "216"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "300",
+      "tax_rate": "0.18",
+      "line_total": "300"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "385",
+      "tax_rate": "0.18",
+      "line_total": "770"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "91",
+      "tax_rate": "0.18",
+      "line_total": "364"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "440",
+      "tax_rate": "0.18",
+      "line_total": "1760"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "450",
+      "tax_rate": "0.18",
+      "line_total": "1350"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "107",
+      "tax_rate": "0.18",
+      "line_total": "214"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "330"
+    }
+  ],
+  "warnings": []
+}

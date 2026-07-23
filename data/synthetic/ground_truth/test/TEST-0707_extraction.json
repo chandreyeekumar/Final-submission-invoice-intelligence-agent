@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Key-Higgins",
+  "vendor_address": "125 Shannon Springs Suite 289, Port Tammy, NE 66412",
+  "vendor_tax_id": "TAX00000097",
+  "vendor_bank_account": "XXXX3872",
+  "invoice_number": "KEY-00707",
+  "invoice_date": "2026-06-17",
+  "due_date": "2026-07-17",
+  "purchase_order_number": "PO-00707",
+  "currency": "USD",
+  "subtotal": 1916.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 344.88,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2260.88,
+  "amount_due": 2260.88,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "404",
+      "tax_rate": "0.18",
+      "line_total": "808"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "277",
+      "tax_rate": "0.18",
+      "line_total": "1108"
+    }
+  ],
+  "warnings": []
+}

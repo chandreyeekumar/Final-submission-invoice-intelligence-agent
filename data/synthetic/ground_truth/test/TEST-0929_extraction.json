@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Stevens, Scott and Lopez",
+  "vendor_address": "329 Wilcox Passage Suite 161, East Thomas, IA 01396",
+  "vendor_tax_id": "TAX00000114",
+  "vendor_bank_account": "XXXX9333",
+  "invoice_number": "STE2-00929",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-03-01",
+  "purchase_order_number": "PO-00929",
+  "currency": "INR",
+  "subtotal": 2325.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 418.5,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2743.5,
+  "amount_due": 2743.5,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "437",
+      "tax_rate": "0.18",
+      "line_total": "1311"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "338",
+      "tax_rate": "0.18",
+      "line_total": "1014"
+    }
+  ],
+  "warnings": []
+}

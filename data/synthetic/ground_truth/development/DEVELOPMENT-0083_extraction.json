@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 83",
+  "vendor_address": "261 Gilbert Harbors Apt. 537, Sampsonstad, CT 90374",
+  "vendor_tax_id": "TAX00000061",
+  "vendor_bank_account": "XXXX5310",
+  "invoice_number": "TAY-00083",
+  "invoice_date": "2026-03-25",
+  "due_date": "2026-04-24",
+  "purchase_order_number": "PO-00083",
+  "currency": "USD",
+  "subtotal": 5071.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 912.78,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5983.78,
+  "amount_due": 5983.78,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "359",
+      "tax_rate": "0.18",
+      "line_total": "1436"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "273",
+      "tax_rate": "0.18",
+      "line_total": "546"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "84",
+      "tax_rate": "0.18",
+      "line_total": "84"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "322",
+      "tax_rate": "0.18",
+      "line_total": "1610"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "465",
+      "tax_rate": "0.18",
+      "line_total": "1395"
+    }
+  ],
+  "warnings": []
+}

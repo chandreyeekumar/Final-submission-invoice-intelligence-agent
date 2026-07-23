@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Guerra PLC",
+  "vendor_address": "53584 John Roads, Davidport, RI 70425",
+  "vendor_tax_id": "TAX00000098",
+  "vendor_bank_account": "XXXX7956",
+  "invoice_number": "GUE-00984",
+  "invoice_date": "2026-03-26",
+  "due_date": "2026-04-25",
+  "purchase_order_number": "PO-00984",
+  "currency": "USD",
+  "subtotal": 2781.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 500.58,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3281.58,
+  "amount_due": 3281.58,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "492",
+      "tax_rate": "0.18",
+      "line_total": "492"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "184",
+      "tax_rate": "0.18",
+      "line_total": "368"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "377",
+      "tax_rate": "0.18",
+      "line_total": "377"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "213",
+      "tax_rate": "0.18",
+      "line_total": "852"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "346",
+      "tax_rate": "0.18",
+      "line_total": "692"
+    }
+  ],
+  "warnings": []
+}

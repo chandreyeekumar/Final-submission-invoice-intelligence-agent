@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Johnson Group",
+  "vendor_address": "779 Rebecca Brook, Jasonberg, OH 95821",
+  "vendor_tax_id": "TAX00000086",
+  "vendor_bank_account": "XXXX7062",
+  "invoice_number": "JOH1-00254",
+  "invoice_date": "2026-03-16",
+  "due_date": "2026-04-15",
+  "purchase_order_number": "PO-00254",
+  "currency": "USD",
+  "subtotal": 3411.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 613.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4024.98,
+  "amount_due": 4024.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "340",
+      "tax_rate": "0.18",
+      "line_total": "1360"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "391",
+      "tax_rate": "0.18",
+      "line_total": "1173"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "239",
+      "tax_rate": "0.18",
+      "line_total": "478"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "380",
+      "tax_rate": "0.18",
+      "line_total": "380"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "20",
+      "tax_rate": "0.18",
+      "line_total": "20"
+    }
+  ],
+  "warnings": []
+}

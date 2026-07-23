@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Williamson Services",
+  "vendor_address": "16117 Heather Burgs Apt. 504, Nicholasberg, IA 70122",
+  "vendor_tax_id": "TAX00000052",
+  "vendor_bank_account": "XXXX4371",
+  "invoice_number": "WIL-00280",
+  "invoice_date": "2026-04-11",
+  "due_date": "2026-05-11",
+  "purchase_order_number": "PO-00280",
+  "currency": "EUR",
+  "subtotal": 991.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 178.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1169.38,
+  "amount_due": 1169.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "147",
+      "tax_rate": "0.18",
+      "line_total": "735"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "256",
+      "tax_rate": "0.18",
+      "line_total": "256"
+    }
+  ],
+  "warnings": []
+}

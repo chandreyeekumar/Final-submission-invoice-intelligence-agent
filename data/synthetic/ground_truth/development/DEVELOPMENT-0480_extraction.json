@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Keith-Sanchez",
+  "vendor_address": "0752 Lewis Union Suite 549, Angelahaven, ID 11722",
+  "vendor_tax_id": "TAX00000035",
+  "vendor_bank_account": "XXXX4386",
+  "invoice_number": "KEI-00480",
+  "invoice_date": "2026-05-01",
+  "due_date": "2026-05-31",
+  "purchase_order_number": "PO-00480",
+  "currency": "INR",
+  "subtotal": 7710.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1387.8,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9097.8,
+  "amount_due": 9097.8,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "138",
+      "tax_rate": "0.18",
+      "line_total": "690"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "371",
+      "tax_rate": "0.18",
+      "line_total": "742"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "203",
+      "tax_rate": "0.18",
+      "line_total": "203"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "372",
+      "tax_rate": "0.18",
+      "line_total": "372"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "88",
+      "tax_rate": "0.18",
+      "line_total": "352"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "453",
+      "tax_rate": "0.18",
+      "line_total": "2265"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "260",
+      "tax_rate": "0.18",
+      "line_total": "1300"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "342"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "271",
+      "tax_rate": "0.18",
+      "line_total": "1084"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "90",
+      "tax_rate": "0.18",
+      "line_total": "360"
+    }
+  ],
+  "warnings": []
+}

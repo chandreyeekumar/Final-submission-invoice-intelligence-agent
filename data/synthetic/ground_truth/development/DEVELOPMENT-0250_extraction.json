@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Russell Gr0up",
+  "vendor_address": "5401 Amanda Stream, East Robertburgh, PW 05264",
+  "vendor_tax_id": "TAX00000112",
+  "vendor_bank_account": "XXXX9749",
+  "invoice_number": "RUS-00250",
+  "invoice_date": "2026-03-12",
+  "due_date": "2026-04-11",
+  "purchase_order_number": "PO-00250",
+  "currency": "USD",
+  "subtotal": 2745.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 494.1,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3239.1,
+  "amount_due": 3239.1,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "345",
+      "tax_rate": "0.18",
+      "line_total": "1380"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "455",
+      "tax_rate": "0.18",
+      "line_total": "1365"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Shaw and Sons",
+  "vendor_address": "99590 Christopher Row, Debrashire, MT 81517",
+  "vendor_tax_id": "TAX00000099",
+  "vendor_bank_account": "XXXX6570",
+  "invoice_number": "SHA-00198",
+  "invoice_date": "2026-01-19",
+  "due_date": "2026-02-18",
+  "purchase_order_number": "PO-00198",
+  "currency": "INR",
+  "subtotal": 8359.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1504.62,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9863.62,
+  "amount_due": 9863.62,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "468",
+      "tax_rate": "0.18",
+      "line_total": "1404"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "358",
+      "tax_rate": "0.18",
+      "line_total": "716"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "665"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "173",
+      "tax_rate": "0.18",
+      "line_total": "692"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "51",
+      "tax_rate": "0.18",
+      "line_total": "153"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "322",
+      "tax_rate": "0.18",
+      "line_total": "1610"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "340",
+      "tax_rate": "0.18",
+      "line_total": "680"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "304",
+      "tax_rate": "0.18",
+      "line_total": "1216"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "44",
+      "tax_rate": "0.18",
+      "line_total": "176"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "349",
+      "tax_rate": "0.18",
+      "line_total": "1047"
+    }
+  ],
+  "warnings": []
+}

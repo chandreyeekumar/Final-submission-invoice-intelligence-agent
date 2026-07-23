@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Lozano, Services",
+  "vendor_address": "74596 Melissa Walk, Finleyfort, VI 71413",
+  "vendor_tax_id": "TAX00000051",
+  "vendor_bank_account": "XXXX1876",
+  "invoice_number": "LOZ-00513",
+  "invoice_date": "2026-06-03",
+  "due_date": "2026-07-03",
+  "purchase_order_number": "PO-00513",
+  "currency": "USD",
+  "subtotal": 8333.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1499.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9832.94,
+  "amount_due": 9832.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "342",
+      "tax_rate": "0.18",
+      "line_total": "1710"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "335",
+      "tax_rate": "0.18",
+      "line_total": "1340"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "179",
+      "tax_rate": "0.18",
+      "line_total": "537"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "438",
+      "tax_rate": "0.18",
+      "line_total": "1314"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "385",
+      "tax_rate": "0.18",
+      "line_total": "770"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "60",
+      "tax_rate": "0.18",
+      "line_total": "300"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "310",
+      "tax_rate": "0.18",
+      "line_total": "1240"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "134"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "69",
+      "tax_rate": "0.18",
+      "line_total": "276"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "178",
+      "tax_rate": "0.18",
+      "line_total": "712"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Guerra PLC",
+  "vendor_address": "53584 John Roads, Davidport, RI 70425",
+  "vendor_tax_id": "TAX00000098",
+  "vendor_bank_account": "XXXX7956",
+  "invoice_number": "GUE-00543",
+  "invoice_date": "2026-01-04",
+  "due_date": "2026-02-03",
+  "purchase_order_number": "PO-00543",
+  "currency": "USD",
+  "subtotal": 8748.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1574.64,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10322.64,
+  "amount_due": 10322.64,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "478",
+      "tax_rate": "0.18",
+      "line_total": "956"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "376",
+      "tax_rate": "0.18",
+      "line_total": "376"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "149",
+      "tax_rate": "0.18",
+      "line_total": "298"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "259",
+      "tax_rate": "0.18",
+      "line_total": "777"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "347",
+      "tax_rate": "0.18",
+      "line_total": "347"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "492",
+      "tax_rate": "0.18",
+      "line_total": "1968"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "413",
+      "tax_rate": "0.18",
+      "line_total": "1239"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "374",
+      "tax_rate": "0.18",
+      "line_total": "1496"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "151",
+      "tax_rate": "0.18",
+      "line_total": "453"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "419",
+      "tax_rate": "0.18",
+      "line_total": "838"
+    }
+  ],
+  "warnings": []
+}

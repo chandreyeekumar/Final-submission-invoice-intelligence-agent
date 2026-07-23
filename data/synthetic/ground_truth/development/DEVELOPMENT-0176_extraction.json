@@ -1,0 +1,57 @@
+{
+  "vendor_name": "R0driguez-Gregory",
+  "vendor_address": "36900 Kevin Forest Apt. 445, North Tylerchester, HI 17433",
+  "vendor_tax_id": "TAX00000072",
+  "vendor_bank_account": "XXXX6118",
+  "invoice_number": "ROD1-00176",
+  "invoice_date": "2026-06-26",
+  "due_date": "2026-07-26",
+  "purchase_order_number": "PO-00176",
+  "currency": "EUR",
+  "subtotal": 4885.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 879.3,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5764.3,
+  "amount_due": 5764.3,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "167",
+      "tax_rate": "0.18",
+      "line_total": "501"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "313",
+      "tax_rate": "0.18",
+      "line_total": "313"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "214",
+      "tax_rate": "0.18",
+      "line_total": "1070"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "439",
+      "tax_rate": "0.18",
+      "line_total": "1756"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "415",
+      "tax_rate": "0.18",
+      "line_total": "1245"
+    }
+  ],
+  "warnings": []
+}

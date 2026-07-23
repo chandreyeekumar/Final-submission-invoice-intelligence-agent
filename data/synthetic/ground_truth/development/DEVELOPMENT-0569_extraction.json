@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Taylor, Chavez and Santiago",
+  "vendor_address": "261 Gilbert Harbors Apt. 537, Sampsonstad, CT 90374",
+  "vendor_tax_id": "TAX00000061",
+  "vendor_bank_account": "XXXX5310",
+  "invoice_number": "TAY-00569",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-03-01",
+  "purchase_order_number": "PO-00569",
+  "currency": "USD",
+  "subtotal": 3747.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 674.46,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4421.46,
+  "amount_due": 4421.46,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "396",
+      "tax_rate": "0.18",
+      "line_total": "1584"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "146",
+      "tax_rate": "0.18",
+      "line_total": "292"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "242",
+      "tax_rate": "0.18",
+      "line_total": "726"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "665"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "96",
+      "tax_rate": "0.18",
+      "line_total": "480"
+    }
+  ],
+  "warnings": []
+}

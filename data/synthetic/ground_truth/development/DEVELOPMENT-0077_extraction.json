@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Johnson Ltd",
+  "vendor_address": "248 Andrea Course, Port Robin, NH 15897",
+  "vendor_tax_id": "TAX00000047",
+  "vendor_bank_account": "XXXX6916",
+  "invoice_number": "JOH-00077",
+  "invoice_date": "2026-03-19",
+  "due_date": "2026-04-18",
+  "purchase_order_number": "PO-00077",
+  "currency": "EUR",
+  "subtotal": 4383.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 788.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5171.94,
+  "amount_due": 5171.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "409",
+      "tax_rate": "0.18",
+      "line_total": "1636"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "124",
+      "tax_rate": "0.18",
+      "line_total": "124"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "301",
+      "tax_rate": "0.18",
+      "line_total": "903"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "494",
+      "tax_rate": "0.18",
+      "line_total": "988"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "244",
+      "tax_rate": "0.18",
+      "line_total": "732"
+    }
+  ],
+  "warnings": []
+}

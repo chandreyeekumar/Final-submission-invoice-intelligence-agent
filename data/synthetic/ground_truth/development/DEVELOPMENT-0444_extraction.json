@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Miller-Brandt",
+  "vendor_address": "512 Rice Stream, Port Adam, AK 39608",
+  "vendor_tax_id": "TAX00000120",
+  "vendor_bank_account": "XXXX6484",
+  "invoice_number": "MIL1-00444",
+  "invoice_date": "2026-03-26",
+  "due_date": "2026-04-25",
+  "purchase_order_number": "PO-00444",
+  "currency": "USD",
+  "subtotal": 8474.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1525.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9999.32,
+  "amount_due": 9999.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "50",
+      "tax_rate": "0.18",
+      "line_total": "50"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "350",
+      "tax_rate": "0.18",
+      "line_total": "1050"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "379",
+      "tax_rate": "0.18",
+      "line_total": "758"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "425",
+      "tax_rate": "0.18",
+      "line_total": "2125"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "84",
+      "tax_rate": "0.18",
+      "line_total": "84"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "139",
+      "tax_rate": "0.18",
+      "line_total": "556"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "915"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "432",
+      "tax_rate": "0.18",
+      "line_total": "1296"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "395",
+      "tax_rate": "0.18",
+      "line_total": "1580"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "30",
+      "tax_rate": "0.18",
+      "line_total": "60"
+    }
+  ],
+  "warnings": []
+}

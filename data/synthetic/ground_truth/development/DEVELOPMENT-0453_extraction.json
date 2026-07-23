@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Wagner and Sons",
+  "vendor_address": "8892 Watson Haven Suite 659, Port Crystalmouth, CA 43714",
+  "vendor_tax_id": "TAX00000079",
+  "vendor_bank_account": "XXXX0514",
+  "invoice_number": "WAG-00453",
+  "invoice_date": "2026-04-04",
+  "due_date": "2026-05-04",
+  "purchase_order_number": "PO-00453",
+  "currency": "USD",
+  "subtotal": 5287.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 951.66,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6238.66,
+  "amount_due": 6238.66,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "447",
+      "tax_rate": "0.18",
+      "line_total": "447"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "59",
+      "tax_rate": "0.18",
+      "line_total": "177"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "285",
+      "tax_rate": "0.18",
+      "line_total": "570"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "71",
+      "tax_rate": "0.18",
+      "line_total": "71"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "292",
+      "tax_rate": "0.18",
+      "line_total": "584"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "117",
+      "tax_rate": "0.18",
+      "line_total": "468"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "289",
+      "tax_rate": "0.18",
+      "line_total": "578"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "311",
+      "tax_rate": "0.18",
+      "line_total": "622"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "610"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "232",
+      "tax_rate": "0.18",
+      "line_total": "1160"
+    }
+  ],
+  "warnings": []
+}

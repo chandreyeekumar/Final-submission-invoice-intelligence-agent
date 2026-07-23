@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 744",
+  "vendor_address": "USS Leonard, FPO AA 03781",
+  "vendor_tax_id": "TAX00000059",
+  "vendor_bank_account": "XXXX6126",
+  "invoice_number": "CHA-00744",
+  "invoice_date": "2026-01-25",
+  "due_date": "2026-02-24",
+  "purchase_order_number": "PO-00744",
+  "currency": "USD",
+  "subtotal": 5831.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1049.58,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6880.58,
+  "amount_due": 6880.58,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "289",
+      "tax_rate": "0.18",
+      "line_total": "578"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "2355"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "469",
+      "tax_rate": "0.18",
+      "line_total": "1876"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "80",
+      "tax_rate": "0.18",
+      "line_total": "80"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "942"
+    }
+  ],
+  "warnings": []
+}

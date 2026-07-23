@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Gomez, Duncan and Lopez",
+  "vendor_address": "88888 Peter Mountains Apt. 654, West Kristinastad, IA 96569",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX0887",
+  "invoice_number": "GOM-00924",
+  "invoice_date": "2026-01-25",
+  "due_date": "2026-02-24",
+  "purchase_order_number": "PO-00924",
+  "currency": "INR",
+  "subtotal": 4460.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 802.8,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5262.8,
+  "amount_due": 5262.8,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "433",
+      "tax_rate": "0.18",
+      "line_total": "1732"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "112",
+      "tax_rate": "0.18",
+      "line_total": "224"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "25",
+      "tax_rate": "0.18",
+      "line_total": "75"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "714"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "343",
+      "tax_rate": "0.18",
+      "line_total": "1715"
+    }
+  ],
+  "warnings": []
+}

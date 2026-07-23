@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Coffey-Patton",
+  "vendor_address": "097 Alexandria Stravenue, Hernandezbury, AZ 75548",
+  "vendor_tax_id": "TAX00000107",
+  "vendor_bank_account": "XXXX0998",
+  "invoice_number": "COF-00743",
+  "invoice_date": "2026-01-24",
+  "due_date": "2026-02-23",
+  "purchase_order_number": "PO-00743",
+  "currency": "EUR",
+  "subtotal": 545.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 98.1,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 643.1,
+  "amount_due": 643.1,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "193",
+      "tax_rate": "0.18",
+      "line_total": "193"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "176",
+      "tax_rate": "0.18",
+      "line_total": "352"
+    }
+  ],
+  "warnings": []
+}

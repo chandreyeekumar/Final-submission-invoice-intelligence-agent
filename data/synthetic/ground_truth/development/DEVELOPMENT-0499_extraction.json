@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Wagner and Sons",
+  "vendor_address": "8892 Watson Haven Suite 659, Port Crystalmouth, CA 43714",
+  "vendor_tax_id": "TAX00000079",
+  "vendor_bank_account": "XXXX0514",
+  "invoice_number": "WAG-00499",
+  "invoice_date": "2026-05-20",
+  "due_date": "2026-06-19",
+  "purchase_order_number": "PO-00499",
+  "currency": "USD",
+  "subtotal": 2757.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 496.26,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3253.26,
+  "amount_due": 3253.26,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "199",
+      "tax_rate": "0.18",
+      "line_total": "597"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "432",
+      "tax_rate": "0.18",
+      "line_total": "2160"
+    }
+  ],
+  "warnings": []
+}

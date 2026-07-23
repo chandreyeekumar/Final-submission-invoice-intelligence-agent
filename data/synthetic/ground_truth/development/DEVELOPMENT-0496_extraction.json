@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Hoffman, Santiago and Jenkins",
+  "vendor_address": "049 Bell Ports Apt. 273, West Meganstad, DE 37013",
+  "vendor_tax_id": "TAX00000068",
+  "vendor_bank_account": "XXXX4342",
+  "invoice_number": "HOF-00496",
+  "invoice_date": "2026-05-17",
+  "due_date": "2026-06-16",
+  "purchase_order_number": "PO-00496",
+  "currency": "EUR",
+  "subtotal": 2040.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 367.2,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2407.2,
+  "amount_due": 2407.2,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "75",
+      "tax_rate": "0.18",
+      "line_total": "75"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "393",
+      "tax_rate": "0.18",
+      "line_total": "1965"
+    }
+  ],
+  "warnings": []
+}

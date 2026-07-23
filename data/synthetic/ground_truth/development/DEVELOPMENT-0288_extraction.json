@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Daniels-Perry",
+  "vendor_address": "9096 Smith Knoll Suite 668, South Jeffrey, NE 64155",
+  "vendor_tax_id": "TAX00000029",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "DAN-00288",
+  "invoice_date": "2026-04-19",
+  "due_date": "2026-05-19",
+  "purchase_order_number": "PO-00288",
+  "currency": "EUR",
+  "subtotal": 7755.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1395.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9150.9,
+  "amount_due": 9150.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "201",
+      "tax_rate": "0.18",
+      "line_total": "804"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "220"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "323",
+      "tax_rate": "0.18",
+      "line_total": "646"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "432",
+      "tax_rate": "0.18",
+      "line_total": "1296"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "487",
+      "tax_rate": "0.18",
+      "line_total": "1461"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "34",
+      "tax_rate": "0.18",
+      "line_total": "170"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "310",
+      "tax_rate": "0.18",
+      "line_total": "930"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "92",
+      "tax_rate": "0.18",
+      "line_total": "460"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "116",
+      "tax_rate": "0.18",
+      "line_total": "580"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "297",
+      "tax_rate": "0.18",
+      "line_total": "1188"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Martinez and Sons",
+  "vendor_address": "6909 Erika Land Suite 719, New Michael, MD 85640",
+  "vendor_tax_id": "TAX00000093",
+  "vendor_bank_account": "XXXX3006",
+  "invoice_number": "MAR1-00609",
+  "invoice_date": "2026-03-11",
+  "due_date": "2026-04-10",
+  "purchase_order_number": "PO-00609",
+  "currency": "USD",
+  "subtotal": 7636.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1374.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9010.48,
+  "amount_due": 9010.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "455",
+      "tax_rate": "0.18",
+      "line_total": "2275"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "207",
+      "tax_rate": "0.18",
+      "line_total": "828"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "570"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "364",
+      "tax_rate": "0.18",
+      "line_total": "1456"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "112",
+      "tax_rate": "0.18",
+      "line_total": "112"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "214",
+      "tax_rate": "0.18",
+      "line_total": "642"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "129",
+      "tax_rate": "0.18",
+      "line_total": "516"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "136",
+      "tax_rate": "0.18",
+      "line_total": "680"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "77",
+      "tax_rate": "0.18",
+      "line_total": "308"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "83",
+      "tax_rate": "0.18",
+      "line_total": "249"
+    }
+  ],
+  "warnings": []
+}

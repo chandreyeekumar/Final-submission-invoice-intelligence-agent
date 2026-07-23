@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Mccullough, Hunter and Estrada",
+  "vendor_address": "236 Byrd Extensions Suite 680, Justinchester, WY 76520",
+  "vendor_tax_id": "TAX00000024",
+  "vendor_bank_account": "XXXX4554",
+  "invoice_number": "MCC-00418",
+  "invoice_date": "2026-02-28",
+  "due_date": "2026-03-30",
+  "purchase_order_number": "PO-00418",
+  "currency": "USD",
+  "subtotal": 1270.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 228.6,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1498.6,
+  "amount_due": 1498.6,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "206",
+      "tax_rate": "0.18",
+      "line_total": "618"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "163",
+      "tax_rate": "0.18",
+      "line_total": "652"
+    }
+  ],
+  "warnings": []
+}

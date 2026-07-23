@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Medina PLC",
+  "vendor_address": "35427 Carr Valley Apt. 841, West Darrell, CT 97811",
+  "vendor_tax_id": "TAX00000017",
+  "vendor_bank_account": "XXXX7527",
+  "invoice_number": "MED-00762",
+  "invoice_date": "2026-02-12",
+  "due_date": "2026-03-14",
+  "purchase_order_number": "PO-00762",
+  "currency": "INR",
+  "subtotal": 2903.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 522.54,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3425.54,
+  "amount_due": 3425.54,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "219",
+      "tax_rate": "0.18",
+      "line_total": "219"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "86",
+      "tax_rate": "0.18",
+      "line_total": "172"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "178",
+      "tax_rate": "0.18",
+      "line_total": "356"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "438",
+      "tax_rate": "0.18",
+      "line_total": "1752"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "101",
+      "tax_rate": "0.18",
+      "line_total": "404"
+    }
+  ],
+  "warnings": []
+}

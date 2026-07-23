@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Kennedy, Mcintyre and James",
+  "vendor_address": "Unit 2702 Box 8951, DPO AA 13570",
+  "vendor_tax_id": "TAX00000050",
+  "vendor_bank_account": "XXXX9064",
+  "invoice_number": "KEN1-00022",
+  "invoice_date": "2026-01-23",
+  "due_date": "2026-02-22",
+  "purchase_order_number": "PO-00022",
+  "currency": "EUR",
+  "subtotal": 2168.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 390.24,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2558.24,
+  "amount_due": 2558.24,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "166",
+      "tax_rate": "0.18",
+      "line_total": "664"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "376",
+      "tax_rate": "0.18",
+      "line_total": "1504"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Flores, Long and Jensen",
+  "vendor_address": "887 Wells Brook Suite 516, Lauratown, PA 62706",
+  "vendor_tax_id": "TAX00000106",
+  "vendor_bank_account": "XXXX9489",
+  "invoice_number": "FLO-00697",
+  "invoice_date": "2026-06-07",
+  "due_date": "2026-07-07",
+  "purchase_order_number": "PO-00697",
+  "currency": "USD",
+  "subtotal": 2544.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 457.92,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3001.92,
+  "amount_due": 3001.92,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "384",
+      "tax_rate": "0.18",
+      "line_total": "768"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "444",
+      "tax_rate": "0.18",
+      "line_total": "1776"
+    }
+  ],
+  "warnings": []
+}

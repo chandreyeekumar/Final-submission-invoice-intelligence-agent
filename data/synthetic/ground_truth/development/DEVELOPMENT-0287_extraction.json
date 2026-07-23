@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Hancock-Bryan",
+  "vendor_address": "0385 Garrett Trace Apt. 348, West Samuel, UT 64033",
+  "vendor_tax_id": "TAX00000046",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "HAN-00287",
+  "invoice_date": "2026-04-18",
+  "due_date": "2026-05-18",
+  "purchase_order_number": "PO-00287",
+  "currency": "USD",
+  "subtotal": 3762.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 677.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4439.16,
+  "amount_due": 4439.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "71",
+      "tax_rate": "0.18",
+      "line_total": "142"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "356",
+      "tax_rate": "0.18",
+      "line_total": "712"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "156",
+      "tax_rate": "0.18",
+      "line_total": "312"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "437",
+      "tax_rate": "0.18",
+      "line_total": "2185"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "411",
+      "tax_rate": "0.18",
+      "line_total": "411"
+    }
+  ],
+  "warnings": []
+}

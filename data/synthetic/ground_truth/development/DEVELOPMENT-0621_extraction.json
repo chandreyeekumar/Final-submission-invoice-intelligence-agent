@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 621",
+  "vendor_address": "261 Gilbert Harbors Apt. 537, Sampsonstad, CT 90374",
+  "vendor_tax_id": "TAX00000061",
+  "vendor_bank_account": "XXXX5310",
+  "invoice_number": "TAY-00621",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-04-22",
+  "purchase_order_number": "PO-00621",
+  "currency": "USD",
+  "subtotal": 7011.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1261.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8272.98,
+  "amount_due": 8272.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "48",
+      "tax_rate": "0.18",
+      "line_total": "240"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "154",
+      "tax_rate": "0.18",
+      "line_total": "616"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "322",
+      "tax_rate": "0.18",
+      "line_total": "1288"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "335",
+      "tax_rate": "0.18",
+      "line_total": "1340"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "412",
+      "tax_rate": "0.18",
+      "line_total": "1236"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "184",
+      "tax_rate": "0.18",
+      "line_total": "552"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "34",
+      "tax_rate": "0.18",
+      "line_total": "34"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "43",
+      "tax_rate": "0.18",
+      "line_total": "215"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "448",
+      "tax_rate": "0.18",
+      "line_total": "896"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "198",
+      "tax_rate": "0.18",
+      "line_total": "594"
+    }
+  ],
+  "warnings": []
+}

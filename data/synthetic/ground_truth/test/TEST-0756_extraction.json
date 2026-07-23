@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Frye-Stevens",
+  "vendor_address": "497 Susan Harbors Suite 344, Lake Janet, MD 63389",
+  "vendor_tax_id": "TAX00000109",
+  "vendor_bank_account": "XXXX7811",
+  "invoice_number": "FRY-00756",
+  "invoice_date": "2026-02-06",
+  "due_date": "2026-03-08",
+  "purchase_order_number": "PO-00756",
+  "currency": "USD",
+  "subtotal": 4291.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 772.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5063.38,
+  "amount_due": 5063.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "127",
+      "tax_rate": "0.18",
+      "line_total": "508"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "250",
+      "tax_rate": "0.18",
+      "line_total": "1000"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "35",
+      "tax_rate": "0.18",
+      "line_total": "175"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "91",
+      "tax_rate": "0.18",
+      "line_total": "273"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "467",
+      "tax_rate": "0.18",
+      "line_total": "2335"
+    }
+  ],
+  "warnings": []
+}

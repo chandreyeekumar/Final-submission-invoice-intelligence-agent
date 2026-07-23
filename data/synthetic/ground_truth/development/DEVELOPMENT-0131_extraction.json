@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Shaw Services",
+  "vendor_address": "99590 Christopher Row, Debrashire, MT 81517",
+  "vendor_tax_id": "TAX00000099",
+  "vendor_bank_account": "XXXX6570",
+  "invoice_number": "SHA-00131",
+  "invoice_date": "2026-05-12",
+  "due_date": "2026-06-11",
+  "purchase_order_number": "PO-00131",
+  "currency": "INR",
+  "subtotal": 4212.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 758.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4970.16,
+  "amount_due": 4970.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "103",
+      "tax_rate": "0.18",
+      "line_total": "206"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "445",
+      "tax_rate": "0.18",
+      "line_total": "890"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "434",
+      "tax_rate": "0.18",
+      "line_total": "2170"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "778"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "42",
+      "tax_rate": "0.18",
+      "line_total": "168"
+    }
+  ],
+  "warnings": []
+}

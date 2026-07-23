@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Larson Ltd",
+  "vendor_address": "93990 Robert Prairie Suite 435, West Randy, TN 85108",
+  "vendor_tax_id": "TAX00000015",
+  "vendor_bank_account": "XXXX1584",
+  "invoice_number": "LAR-00302",
+  "invoice_date": "2026-05-03",
+  "due_date": "2026-06-02",
+  "purchase_order_number": "PO-00302",
+  "currency": "USD",
+  "subtotal": 4454.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 801.72,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5255.72,
+  "amount_due": 5255.72,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "478",
+      "tax_rate": "0.18",
+      "line_total": "1912"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "66",
+      "tax_rate": "0.18",
+      "line_total": "198"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "218",
+      "tax_rate": "0.18",
+      "line_total": "1090"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "209",
+      "tax_rate": "0.18",
+      "line_total": "418"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "209",
+      "tax_rate": "0.18",
+      "line_total": "836"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Knight-Sparks",
+  "vendor_address": "693 Durham Divide, South Dana, NH 33967",
+  "vendor_tax_id": "TAX00000053",
+  "vendor_bank_account": "XXXX1827",
+  "invoice_number": "KNI-00132",
+  "invoice_date": "2026-05-13",
+  "due_date": "2026-06-12",
+  "purchase_order_number": "PO-00132",
+  "currency": "EUR",
+  "subtotal": 11586.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 2085.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 13671.48,
+  "amount_due": 13671.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "332",
+      "tax_rate": "0.18",
+      "line_total": "1328"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "405",
+      "tax_rate": "0.18",
+      "line_total": "1215"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "139",
+      "tax_rate": "0.18",
+      "line_total": "556"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "142",
+      "tax_rate": "0.18",
+      "line_total": "710"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "434",
+      "tax_rate": "0.18",
+      "line_total": "1302"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "482",
+      "tax_rate": "0.18",
+      "line_total": "1928"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "208",
+      "tax_rate": "0.18",
+      "line_total": "416"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "245",
+      "tax_rate": "0.18",
+      "line_total": "1225"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "413",
+      "tax_rate": "0.18",
+      "line_total": "1652"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "418",
+      "tax_rate": "0.18",
+      "line_total": "1254"
+    }
+  ],
+  "warnings": []
+}

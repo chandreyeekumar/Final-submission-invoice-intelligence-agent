@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Martinez and Sons",
+  "vendor_address": "6909 Erika Land Suite 719, New Michael, MD 85640",
+  "vendor_tax_id": "TAX00000093",
+  "vendor_bank_account": "XXXX3006",
+  "invoice_number": "MAR1-00866",
+  "invoice_date": "2026-05-27",
+  "due_date": "2026-06-26",
+  "purchase_order_number": "PO-00866",
+  "currency": "USD",
+  "subtotal": 2905.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 522.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3427.9,
+  "amount_due": 3427.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "465",
+      "tax_rate": "0.18",
+      "line_total": "1395"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "302",
+      "tax_rate": "0.18",
+      "line_total": "1510"
+    }
+  ],
+  "warnings": []
+}

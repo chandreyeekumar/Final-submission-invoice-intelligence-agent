@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Wright-Davis",
+  "vendor_address": "632 Peck Stravenue Suite 327, Jimenezport, NM 03538",
+  "vendor_tax_id": "TAX00000102",
+  "vendor_bank_account": "XXXX6930",
+  "invoice_number": "WRI1-00848",
+  "invoice_date": "2026-05-09",
+  "due_date": "2026-06-08",
+  "purchase_order_number": "PO-00848",
+  "currency": "INR",
+  "subtotal": 222.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 39.96,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 261.96,
+  "amount_due": 261.96,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "26",
+      "tax_rate": "0.18",
+      "line_total": "130"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "46",
+      "tax_rate": "0.18",
+      "line_total": "92"
+    }
+  ],
+  "warnings": []
+}

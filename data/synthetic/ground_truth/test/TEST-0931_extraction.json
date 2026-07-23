@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Odonnell, Brooks and David",
+  "vendor_address": "49190 Patel Shore, Caseymouth, AL 55558",
+  "vendor_tax_id": "TAX00000033",
+  "vendor_bank_account": "XXXX5313",
+  "invoice_number": "ODO-00931",
+  "invoice_date": "2026-02-01",
+  "due_date": "2026-03-03",
+  "purchase_order_number": "PO-00931",
+  "currency": "USD",
+  "subtotal": 4915.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 884.7,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5799.7,
+  "amount_due": 5799.7,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "200",
+      "tax_rate": "0.18",
+      "line_total": "1000"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "35",
+      "tax_rate": "0.18",
+      "line_total": "140"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "112",
+      "tax_rate": "0.18",
+      "line_total": "112"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "239",
+      "tax_rate": "0.18",
+      "line_total": "717"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "203",
+      "tax_rate": "0.18",
+      "line_total": "406"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "114"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "356",
+      "tax_rate": "0.18",
+      "line_total": "712"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "210",
+      "tax_rate": "0.18",
+      "line_total": "630"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "419",
+      "tax_rate": "0.18",
+      "line_total": "838"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "82",
+      "tax_rate": "0.18",
+      "line_total": "246"
+    }
+  ],
+  "warnings": []
+}

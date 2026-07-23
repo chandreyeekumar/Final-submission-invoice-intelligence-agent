@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Howard and Sons",
+  "vendor_address": "40268 Julie Mountains, Stricklandhaven, OR 14794",
+  "vendor_tax_id": "TAX00000064",
+  "vendor_bank_account": "XXXX9295",
+  "invoice_number": "HOW1-00405",
+  "invoice_date": "2026-02-15",
+  "due_date": "2026-03-17",
+  "purchase_order_number": "PO-00405",
+  "currency": "USD",
+  "subtotal": 6767.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1218.06,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7985.06,
+  "amount_due": 7985.06,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "166",
+      "tax_rate": "0.18",
+      "line_total": "830"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "37",
+      "tax_rate": "0.18",
+      "line_total": "74"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "281",
+      "tax_rate": "0.18",
+      "line_total": "1405"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "377",
+      "tax_rate": "0.18",
+      "line_total": "1885"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "334",
+      "tax_rate": "0.18",
+      "line_total": "668"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "365",
+      "tax_rate": "0.18",
+      "line_total": "730"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "204",
+      "tax_rate": "0.18",
+      "line_total": "204"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "355",
+      "tax_rate": "0.18",
+      "line_total": "710"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "100",
+      "tax_rate": "0.18",
+      "line_total": "100"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "161",
+      "tax_rate": "0.18",
+      "line_total": "161"
+    }
+  ],
+  "warnings": []
+}

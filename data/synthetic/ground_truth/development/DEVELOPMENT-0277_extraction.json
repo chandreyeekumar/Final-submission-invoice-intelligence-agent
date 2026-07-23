@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Price Ltd",
+  "vendor_address": "272 Rebecca Ramp Apt. 162, Whiteview, MS 43407",
+  "vendor_tax_id": "TAX00000030",
+  "vendor_bank_account": "XXXX4010",
+  "invoice_number": "PRI-00277",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-05-08",
+  "purchase_order_number": "PO-00277",
+  "currency": "EUR",
+  "subtotal": 523.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 94.14,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 617.14,
+  "amount_due": 617.14,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "75",
+      "tax_rate": "0.18",
+      "line_total": "375"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "74",
+      "tax_rate": "0.18",
+      "line_total": "148"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Gomez, Duncan and Lopez",
+  "vendor_address": "88888 Peter Mountains Apt. 654, West Kristinastad, IA 96569",
+  "vendor_tax_id": "TAX00000088",
+  "vendor_bank_account": "XXXX0887",
+  "invoice_number": "GOM-00958",
+  "invoice_date": "2026-02-28",
+  "due_date": "2026-03-30",
+  "purchase_order_number": "PO-00958",
+  "currency": "INR",
+  "subtotal": 5633.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1013.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6646.94,
+  "amount_due": 6646.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "230",
+      "tax_rate": "0.18",
+      "line_total": "460"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "714"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "202",
+      "tax_rate": "0.18",
+      "line_total": "404"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "35",
+      "tax_rate": "0.18",
+      "line_total": "140"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "315",
+      "tax_rate": "0.18",
+      "line_total": "630"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "204",
+      "tax_rate": "0.18",
+      "line_total": "816"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "401",
+      "tax_rate": "0.18",
+      "line_total": "802"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "119",
+      "tax_rate": "0.18",
+      "line_total": "119"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "347",
+      "tax_rate": "0.18",
+      "line_total": "1388"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "160",
+      "tax_rate": "0.18",
+      "line_total": "160"
+    }
+  ],
+  "warnings": []
+}

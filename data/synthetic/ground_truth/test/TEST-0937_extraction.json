@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Miller-Williams",
+  "vendor_address": "401 Suzanne Villages Apt. 490, South April, NV 36959",
+  "vendor_tax_id": "TAX00000044",
+  "vendor_bank_account": "XXXX2266",
+  "invoice_number": "MIL-00937",
+  "invoice_date": "2026-02-07",
+  "due_date": "2026-03-09",
+  "purchase_order_number": "PO-00937",
+  "currency": "INR",
+  "subtotal": 7487.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1347.66,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8834.66,
+  "amount_due": 8834.66,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "444",
+      "tax_rate": "0.18",
+      "line_total": "444"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "390",
+      "tax_rate": "0.18",
+      "line_total": "1560"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "160",
+      "tax_rate": "0.18",
+      "line_total": "480"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "405",
+      "tax_rate": "0.18",
+      "line_total": "1215"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "224",
+      "tax_rate": "0.18",
+      "line_total": "672"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "304",
+      "tax_rate": "0.18",
+      "line_total": "304"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "272",
+      "tax_rate": "0.18",
+      "line_total": "816"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "44",
+      "tax_rate": "0.18",
+      "line_total": "220"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "172",
+      "tax_rate": "0.18",
+      "line_total": "688"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "272",
+      "tax_rate": "0.18",
+      "line_total": "1088"
+    }
+  ],
+  "warnings": []
+}

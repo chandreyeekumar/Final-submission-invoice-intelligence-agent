@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Pena, Marshall and Ramos",
+  "vendor_address": "214 Davis Terrace Apt. 433, North Brandon, NJ 80621",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX5977",
+  "invoice_number": "PEN-00775",
+  "invoice_date": "2026-02-25",
+  "due_date": "2026-03-27",
+  "purchase_order_number": "PO-00775",
+  "currency": "INR",
+  "subtotal": 4807.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 865.26,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5672.26,
+  "amount_due": 5672.26,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "500",
+      "tax_rate": "0.18",
+      "line_total": "2000"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "81",
+      "tax_rate": "0.18",
+      "line_total": "324"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "129",
+      "tax_rate": "0.18",
+      "line_total": "258"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "202",
+      "tax_rate": "0.18",
+      "line_total": "202"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "108",
+      "tax_rate": "0.18",
+      "line_total": "324"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "225",
+      "tax_rate": "0.18",
+      "line_total": "225"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "26",
+      "tax_rate": "0.18",
+      "line_total": "78"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "512"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "132",
+      "tax_rate": "0.18",
+      "line_total": "528"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "356",
+      "tax_rate": "0.18",
+      "line_total": "356"
+    }
+  ],
+  "warnings": []
+}

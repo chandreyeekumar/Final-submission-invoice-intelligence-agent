@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 640",
+  "vendor_address": "8687 Johnson Rue Apt. 450, Joshuastad, NE 52932",
+  "vendor_tax_id": "TAX00000090",
+  "vendor_bank_account": "XXXX5559",
+  "invoice_number": "HAR-00640",
+  "invoice_date": "2026-04-11",
+  "due_date": "2026-05-11",
+  "purchase_order_number": "PO-00640",
+  "currency": "USD",
+  "subtotal": 1211.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 217.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1428.98,
+  "amount_due": 1428.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "293",
+      "tax_rate": "0.18",
+      "line_total": "293"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "459",
+      "tax_rate": "0.18",
+      "line_total": "918"
+    }
+  ],
+  "warnings": []
+}

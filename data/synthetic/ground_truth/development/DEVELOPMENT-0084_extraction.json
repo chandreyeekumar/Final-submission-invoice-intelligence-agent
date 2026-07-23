@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Morton-Chase",
+  "vendor_address": "32677 Michelle Circle, South Aaron, MS 35261",
+  "vendor_tax_id": "TAX00000013",
+  "vendor_bank_account": "XXXX2547",
+  "invoice_number": "MOR-00084",
+  "invoice_date": "2026-03-26",
+  "due_date": "2026-04-25",
+  "purchase_order_number": "PO-00084",
+  "currency": "INR",
+  "subtotal": 10473.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1885.14,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 12358.14,
+  "amount_due": 12358.14,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "486",
+      "tax_rate": "0.18",
+      "line_total": "2430"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "27",
+      "tax_rate": "0.18",
+      "line_total": "108"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "229",
+      "tax_rate": "0.18",
+      "line_total": "458"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "58",
+      "tax_rate": "0.18",
+      "line_total": "116"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "420",
+      "tax_rate": "0.18",
+      "line_total": "1680"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "193",
+      "tax_rate": "0.18",
+      "line_total": "579"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "374",
+      "tax_rate": "0.18",
+      "line_total": "1870"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "352",
+      "tax_rate": "0.18",
+      "line_total": "1408"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "456",
+      "tax_rate": "0.18",
+      "line_total": "456"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "456",
+      "tax_rate": "0.18",
+      "line_total": "1368"
+    }
+  ],
+  "warnings": []
+}

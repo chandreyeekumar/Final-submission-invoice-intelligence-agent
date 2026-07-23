@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Allen-Allen",
+  "vendor_address": "71822 Arroyo Expressway, Allisonchester, IL 71187",
+  "vendor_tax_id": "TAX00000009",
+  "vendor_bank_account": "XXXX8928",
+  "invoice_number": "ALL-00983",
+  "invoice_date": "2026-03-25",
+  "due_date": "2026-04-24",
+  "purchase_order_number": "PO-00983",
+  "currency": "USD",
+  "subtotal": 699.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 125.82,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 824.82,
+  "amount_due": 824.82,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "453",
+      "tax_rate": "0.18",
+      "line_total": "453"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "246",
+      "tax_rate": "0.18",
+      "line_total": "246"
+    }
+  ],
+  "warnings": []
+}

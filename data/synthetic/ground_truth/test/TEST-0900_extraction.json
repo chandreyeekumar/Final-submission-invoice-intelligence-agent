@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Mitchell-Horton",
+  "vendor_address": "34309 Julie Centers Apt. 978, North Susan, CO 24857",
+  "vendor_tax_id": "TAX00000014",
+  "vendor_bank_account": "XXXX1674",
+  "invoice_number": "MIT-00900",
+  "invoice_date": "2026-01-01",
+  "due_date": "2026-01-31",
+  "purchase_order_number": "PO-00900",
+  "currency": "USD",
+  "subtotal": 5476.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 985.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6461.68,
+  "amount_due": 6461.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "457",
+      "tax_rate": "0.18",
+      "line_total": "1828"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "134",
+      "tax_rate": "0.18",
+      "line_total": "134"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "467",
+      "tax_rate": "0.18",
+      "line_total": "1868"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "362",
+      "tax_rate": "0.18",
+      "line_total": "1448"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "198",
+      "tax_rate": "0.18",
+      "line_total": "198"
+    }
+  ],
+  "warnings": []
+}

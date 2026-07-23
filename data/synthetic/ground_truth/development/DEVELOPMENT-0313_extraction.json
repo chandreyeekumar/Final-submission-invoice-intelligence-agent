@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Collier, Jimenez and Moran",
+  "vendor_address": "7737 Patrick Rapid Apt. 146, Sarahhaven, KY 00837",
+  "vendor_tax_id": "TAX00000048",
+  "vendor_bank_account": "XXXX6304",
+  "invoice_number": "COL-00313",
+  "invoice_date": "2026-05-14",
+  "due_date": "2026-06-13",
+  "purchase_order_number": "PO-00313",
+  "currency": "EUR",
+  "subtotal": 1255.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 225.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1480.9,
+  "amount_due": 1480.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "53",
+      "tax_rate": "0.18",
+      "line_total": "106"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "383",
+      "tax_rate": "0.18",
+      "line_total": "1149"
+    }
+  ],
+  "warnings": []
+}

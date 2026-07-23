@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Kelley, Nguyen and Vang",
+  "vendor_address": "961 Melissa Run Apt. 673, Morganmouth, MO 55025",
+  "vendor_tax_id": "TAX00000066",
+  "vendor_bank_account": "XXXX2060",
+  "invoice_number": "KEL-00972",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-04-13",
+  "purchase_order_number": "PO-00972",
+  "currency": "USD",
+  "subtotal": 2842.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 511.56,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3353.56,
+  "amount_due": 3353.56,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "284",
+      "tax_rate": "0.18",
+      "line_total": "568"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "307",
+      "tax_rate": "0.18",
+      "line_total": "614"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "89",
+      "tax_rate": "0.18",
+      "line_total": "356"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "478",
+      "tax_rate": "0.18",
+      "line_total": "956"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "174",
+      "tax_rate": "0.18",
+      "line_total": "348"
+    }
+  ],
+  "warnings": []
+}

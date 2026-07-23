@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Grant Gr0up",
+  "vendor_address": "1925 Ponce Square, Andersonland, ME 73760",
+  "vendor_tax_id": "TAX00000080",
+  "vendor_bank_account": "XXXX8423",
+  "invoice_number": "GRA-00991",
+  "invoice_date": "2026-04-02",
+  "due_date": "2026-05-02",
+  "purchase_order_number": "PO-00991",
+  "currency": "INR",
+  "subtotal": 8075.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1453.5,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9528.5,
+  "amount_due": 9528.5,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "318",
+      "tax_rate": "0.18",
+      "line_total": "318"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "499",
+      "tax_rate": "0.18",
+      "line_total": "1996"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "354",
+      "tax_rate": "0.18",
+      "line_total": "1062"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "36",
+      "tax_rate": "0.18",
+      "line_total": "36"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "235",
+      "tax_rate": "0.18",
+      "line_total": "705"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "122",
+      "tax_rate": "0.18",
+      "line_total": "366"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "474",
+      "tax_rate": "0.18",
+      "line_total": "1422"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "91",
+      "tax_rate": "0.18",
+      "line_total": "91"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "300",
+      "tax_rate": "0.18",
+      "line_total": "600"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "493",
+      "tax_rate": "0.18",
+      "line_total": "1479"
+    }
+  ],
+  "warnings": []
+}

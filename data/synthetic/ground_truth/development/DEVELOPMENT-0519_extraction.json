@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 519",
+  "vendor_address": "512 Rice Stream, Port Adam, AK 39608",
+  "vendor_tax_id": "TAX00000120",
+  "vendor_bank_account": "XXXX6484",
+  "invoice_number": "MIL1-00519",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-07-09",
+  "purchase_order_number": "PO-00519",
+  "currency": "USD",
+  "subtotal": 7595.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1367.1,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8962.1,
+  "amount_due": 8962.1,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "323",
+      "tax_rate": "0.18",
+      "line_total": "323"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "257",
+      "tax_rate": "0.18",
+      "line_total": "1285"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "304",
+      "tax_rate": "0.18",
+      "line_total": "912"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "440",
+      "tax_rate": "0.18",
+      "line_total": "440"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "440"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "227",
+      "tax_rate": "0.18",
+      "line_total": "681"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "326",
+      "tax_rate": "0.18",
+      "line_total": "326"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "370",
+      "tax_rate": "0.18",
+      "line_total": "370"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "414",
+      "tax_rate": "0.18",
+      "line_total": "2070"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "187",
+      "tax_rate": "0.18",
+      "line_total": "748"
+    }
+  ],
+  "warnings": []
+}

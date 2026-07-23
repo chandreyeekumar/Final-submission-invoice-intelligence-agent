@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Vaughn, Marquez and Ross",
+  "vendor_address": "8713 Caleb Brooks Apt. 930, Lake Crystalbury, CA 04618",
+  "vendor_tax_id": "TAX00000010",
+  "vendor_bank_account": "XXXX7359",
+  "invoice_number": "VAU-00907",
+  "invoice_date": "2026-01-08",
+  "due_date": "2026-02-07",
+  "purchase_order_number": "PO-00907",
+  "currency": "INR",
+  "subtotal": 7684.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1383.12,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9067.12,
+  "amount_due": 9067.12,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "185",
+      "tax_rate": "0.18",
+      "line_total": "370"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "27",
+      "tax_rate": "0.18",
+      "line_total": "81"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "479",
+      "tax_rate": "0.18",
+      "line_total": "958"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "498",
+      "tax_rate": "0.18",
+      "line_total": "1992"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "275",
+      "tax_rate": "0.18",
+      "line_total": "550"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "78",
+      "tax_rate": "0.18",
+      "line_total": "234"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "154",
+      "tax_rate": "0.18",
+      "line_total": "616"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "1945"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "250",
+      "tax_rate": "0.18",
+      "line_total": "250"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "344",
+      "tax_rate": "0.18",
+      "line_total": "688"
+    }
+  ],
+  "warnings": []
+}

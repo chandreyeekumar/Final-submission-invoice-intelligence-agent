@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Jones-Young",
+  "vendor_address": "299 Sanchez Mountains, Leeville, TN 56999",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX0106",
+  "invoice_number": "JON-00752",
+  "invoice_date": "2026-02-02",
+  "due_date": "2026-03-04",
+  "purchase_order_number": "PO-00752",
+  "currency": "EUR",
+  "subtotal": 284.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 51.12,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 335.12,
+  "amount_due": 335.12,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "80",
+      "tax_rate": "0.18",
+      "line_total": "80"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "204",
+      "tax_rate": "0.18",
+      "line_total": "204"
+    }
+  ],
+  "warnings": []
+}

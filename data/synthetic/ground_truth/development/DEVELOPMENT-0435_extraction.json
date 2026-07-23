@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Fuller, Ingram and Moss",
+  "vendor_address": "8527 Welch Valleys, North Jennifer, NH 05348",
+  "vendor_tax_id": "TAX00000089",
+  "vendor_bank_account": "XXXX1612",
+  "invoice_number": "FUL-00435",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-16",
+  "purchase_order_number": "PO-00435",
+  "currency": "EUR",
+  "subtotal": 8273.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1489.14,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9762.14,
+  "amount_due": 9762.14,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "434",
+      "tax_rate": "0.18",
+      "line_total": "2170"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "693"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "456",
+      "tax_rate": "0.18",
+      "line_total": "912"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "113",
+      "tax_rate": "0.18",
+      "line_total": "113"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "336"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "346",
+      "tax_rate": "0.18",
+      "line_total": "346"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "336",
+      "tax_rate": "0.18",
+      "line_total": "1344"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "159",
+      "tax_rate": "0.18",
+      "line_total": "636"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "271",
+      "tax_rate": "0.18",
+      "line_total": "1355"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "184",
+      "tax_rate": "0.18",
+      "line_total": "368"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Robinson, Jones and Henderson",
+  "vendor_address": "70462 Katie Stream, Brooksfurt, NV 49980",
+  "vendor_tax_id": "TAX00000119",
+  "vendor_bank_account": "XXXX5147",
+  "invoice_number": "ROB1-00745",
+  "invoice_date": "2026-01-26",
+  "due_date": "2026-02-25",
+  "purchase_order_number": "PO-00745",
+  "currency": "INR",
+  "subtotal": 8030.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1445.4,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9475.4,
+  "amount_due": 9475.4,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "213",
+      "tax_rate": "0.18",
+      "line_total": "1065"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "182",
+      "tax_rate": "0.18",
+      "line_total": "546"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "239",
+      "tax_rate": "0.18",
+      "line_total": "1195"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "491",
+      "tax_rate": "0.18",
+      "line_total": "982"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "410",
+      "tax_rate": "0.18",
+      "line_total": "410"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "320",
+      "tax_rate": "0.18",
+      "line_total": "1600"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "457",
+      "tax_rate": "0.18",
+      "line_total": "914"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "170",
+      "tax_rate": "0.18",
+      "line_total": "850"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "187",
+      "tax_rate": "0.18",
+      "line_total": "374"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "47",
+      "tax_rate": "0.18",
+      "line_total": "94"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Fox PLC",
+  "vendor_address": "108 Ashley Drive, West Melissa, NV 15736",
+  "vendor_tax_id": "TAX00000117",
+  "vendor_bank_account": "XXXX9562",
+  "invoice_number": "FOX-00395",
+  "invoice_date": "2026-02-05",
+  "due_date": "2026-03-07",
+  "purchase_order_number": "PO-00395",
+  "currency": "INR",
+  "subtotal": 4798.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 863.64,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5661.64,
+  "amount_due": 5661.64,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "660"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "110"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "481",
+      "tax_rate": "0.18",
+      "line_total": "1924"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "327",
+      "tax_rate": "0.18",
+      "line_total": "1635"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "469",
+      "tax_rate": "0.18",
+      "line_total": "469"
+    }
+  ],
+  "warnings": []
+}

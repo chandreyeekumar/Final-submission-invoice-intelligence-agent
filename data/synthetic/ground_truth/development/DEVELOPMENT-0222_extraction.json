@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Nguyen, Pugh and Carlson",
+  "vendor_address": "90147 Tucker Mills, Nelsonhaven, DE 45743",
+  "vendor_tax_id": "TAX00000071",
+  "vendor_bank_account": "XXXX6537",
+  "invoice_number": "NGU-00222",
+  "invoice_date": "2026-02-12",
+  "due_date": "2026-03-14",
+  "purchase_order_number": "PO-00222",
+  "currency": "EUR",
+  "subtotal": 8553.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1539.54,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10092.54,
+  "amount_due": 10092.54,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "462",
+      "tax_rate": "0.18",
+      "line_total": "1386"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "26",
+      "tax_rate": "0.18",
+      "line_total": "104"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "693"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "418",
+      "tax_rate": "0.18",
+      "line_total": "1672"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "391",
+      "tax_rate": "0.18",
+      "line_total": "391"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "483",
+      "tax_rate": "0.18",
+      "line_total": "2415"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "312",
+      "tax_rate": "0.18",
+      "line_total": "624"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "106",
+      "tax_rate": "0.18",
+      "line_total": "530"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "106",
+      "tax_rate": "0.18",
+      "line_total": "424"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "157",
+      "tax_rate": "0.18",
+      "line_total": "314"
+    }
+  ],
+  "warnings": []
+}

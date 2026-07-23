@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Vasquez-Ray",
+  "vendor_address": "94131 Obrien Turnpike, Port Alexandra, NV 58529",
+  "vendor_tax_id": "TAX00000040",
+  "vendor_bank_account": "XXXX4040",
+  "invoice_number": "VAS-00588",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-03-20",
+  "purchase_order_number": "PO-00588",
+  "currency": "INR",
+  "subtotal": 8038.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1446.84,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9484.84,
+  "amount_due": 9484.84,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "248",
+      "tax_rate": "0.18",
+      "line_total": "496"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "201"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "48",
+      "tax_rate": "0.18",
+      "line_total": "144"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "348",
+      "tax_rate": "0.18",
+      "line_total": "1740"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "318",
+      "tax_rate": "0.18",
+      "line_total": "636"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "665"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "120",
+      "tax_rate": "0.18",
+      "line_total": "360"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "62",
+      "tax_rate": "0.18",
+      "line_total": "62"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "454",
+      "tax_rate": "0.18",
+      "line_total": "2270"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "366",
+      "tax_rate": "0.18",
+      "line_total": "1464"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Williamson and Sons",
+  "vendor_address": "16117 Heather Burgs Apt. 504, Nicholasberg, IA 70122",
+  "vendor_tax_id": "TAX00000052",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "WIL-00613",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-04-14",
+  "purchase_order_number": "PO-00613",
+  "currency": "EUR",
+  "subtotal": 469.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 84.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 553.42,
+  "amount_due": 553.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "53",
+      "tax_rate": "0.18",
+      "line_total": "106"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "121",
+      "tax_rate": "0.18",
+      "line_total": "363"
+    }
+  ],
+  "warnings": []
+}

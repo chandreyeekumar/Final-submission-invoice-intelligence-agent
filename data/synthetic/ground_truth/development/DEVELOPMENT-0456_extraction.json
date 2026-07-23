@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Miller-Brandt",
+  "vendor_address": "512 Rice Stream, Port Adam, AK 39608",
+  "vendor_tax_id": "TAX00000120",
+  "vendor_bank_account": "XXXX6484",
+  "invoice_number": "MIL1-00456",
+  "invoice_date": "2026-04-07",
+  "due_date": "2026-05-07",
+  "purchase_order_number": "PO-00456",
+  "currency": "USD",
+  "subtotal": 11797.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 2123.46,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 13920.46,
+  "amount_due": 13920.46,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "452",
+      "tax_rate": "0.18",
+      "line_total": "1356"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "693"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "442",
+      "tax_rate": "0.18",
+      "line_total": "1768"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "331",
+      "tax_rate": "0.18",
+      "line_total": "993"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "308",
+      "tax_rate": "0.18",
+      "line_total": "616"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "129",
+      "tax_rate": "0.18",
+      "line_total": "645"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "412",
+      "tax_rate": "0.18",
+      "line_total": "1648"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "494",
+      "tax_rate": "0.18",
+      "line_total": "2470"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "204",
+      "tax_rate": "0.18",
+      "line_total": "612"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "249",
+      "tax_rate": "0.18",
+      "line_total": "996"
+    }
+  ],
+  "warnings": []
+}

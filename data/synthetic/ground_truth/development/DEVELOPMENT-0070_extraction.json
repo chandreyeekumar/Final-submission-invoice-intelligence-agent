@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Garcia-Yu",
+  "vendor_address": "262 Gilbert Plain Suite 769, Marcusbury, MP 11860",
+  "vendor_tax_id": "TAX00000034",
+  "vendor_bank_account": "XXXX0525",
+  "invoice_number": "GAR-00070",
+  "invoice_date": "2026-03-12",
+  "due_date": "2026-04-11",
+  "purchase_order_number": "PO-00070",
+  "currency": "USD",
+  "subtotal": 772.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 138.96,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 910.96,
+  "amount_due": 910.96,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "237",
+      "tax_rate": "0.18",
+      "line_total": "474"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "298",
+      "tax_rate": "0.18",
+      "line_total": "298"
+    }
+  ],
+  "warnings": []
+}

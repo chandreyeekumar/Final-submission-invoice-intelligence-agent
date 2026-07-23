@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Martinez Ltd",
+  "vendor_address": "4529 Kimberly Estates, Danieltown, ME 75971",
+  "vendor_tax_id": "TAX00000032",
+  "vendor_bank_account": "XXXX9125",
+  "invoice_number": "MAR-00213",
+  "invoice_date": "2026-02-03",
+  "due_date": "2026-03-05",
+  "purchase_order_number": "PO-00213",
+  "currency": "INR",
+  "subtotal": 7315.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1316.7,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8631.7,
+  "amount_due": 8631.7,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "354",
+      "tax_rate": "0.18",
+      "line_total": "354"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "67"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "214",
+      "tax_rate": "0.18",
+      "line_total": "856"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "302",
+      "tax_rate": "0.18",
+      "line_total": "1208"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "48",
+      "tax_rate": "0.18",
+      "line_total": "192"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "379",
+      "tax_rate": "0.18",
+      "line_total": "379"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "62",
+      "tax_rate": "0.18",
+      "line_total": "124"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "452",
+      "tax_rate": "0.18",
+      "line_total": "1808"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "350",
+      "tax_rate": "0.18",
+      "line_total": "1400"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "309",
+      "tax_rate": "0.18",
+      "line_total": "927"
+    }
+  ],
+  "warnings": []
+}

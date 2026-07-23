@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Coffey-Patton",
+  "vendor_address": "097 Alexandria Stravenue, Hernandezbury, AZ 75548",
+  "vendor_tax_id": "TAX00000107",
+  "vendor_bank_account": "XXXX0998",
+  "invoice_number": "COF-00871",
+  "invoice_date": "2026-06-01",
+  "due_date": "2026-07-01",
+  "purchase_order_number": "PO-00871",
+  "currency": "EUR",
+  "subtotal": 7238.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1302.84,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8540.84,
+  "amount_due": 8540.84,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "414",
+      "tax_rate": "0.18",
+      "line_total": "828"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "157",
+      "tax_rate": "0.18",
+      "line_total": "157"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "500",
+      "tax_rate": "0.18",
+      "line_total": "1000"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "26",
+      "tax_rate": "0.18",
+      "line_total": "130"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "425",
+      "tax_rate": "0.18",
+      "line_total": "425"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "297",
+      "tax_rate": "0.18",
+      "line_total": "297"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "456",
+      "tax_rate": "0.18",
+      "line_total": "1368"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "123",
+      "tax_rate": "0.18",
+      "line_total": "123"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "265",
+      "tax_rate": "0.18",
+      "line_total": "530"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "476",
+      "tax_rate": "0.18",
+      "line_total": "2380"
+    }
+  ],
+  "warnings": []
+}

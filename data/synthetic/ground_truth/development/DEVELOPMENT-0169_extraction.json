@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Walker-Velasquez",
+  "vendor_address": "30365 Lin Trail Suite 586, Sheilaville, FM 34738",
+  "vendor_tax_id": "TAX00000021",
+  "vendor_bank_account": "XXXX1139",
+  "invoice_number": "WAL-00169",
+  "invoice_date": "2026-06-19",
+  "due_date": "2026-07-19",
+  "purchase_order_number": "PO-00169",
+  "currency": "EUR",
+  "subtotal": 1806.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 325.08,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2131.08,
+  "amount_due": 2131.08,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "323",
+      "tax_rate": "0.18",
+      "line_total": "969"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "279",
+      "tax_rate": "0.18",
+      "line_total": "837"
+    }
+  ],
+  "warnings": []
+}

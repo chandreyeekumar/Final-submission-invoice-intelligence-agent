@@ -1,0 +1,92 @@
+{
+  "vendor_name": "C0oke and Sons",
+  "vendor_address": "880 Walter River, New Nicholas, GA 24204",
+  "vendor_tax_id": "TAX00000082",
+  "vendor_bank_account": "XXXX2167",
+  "invoice_number": "COO-00627",
+  "invoice_date": "2026-03-29",
+  "due_date": "2026-04-28",
+  "purchase_order_number": "PO-00627",
+  "currency": "USD",
+  "subtotal": 7084.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1275.12,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8359.12,
+  "amount_due": 8359.12,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "129",
+      "tax_rate": "0.18",
+      "line_total": "645"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "465"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "172",
+      "tax_rate": "0.18",
+      "line_total": "172"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "225",
+      "tax_rate": "0.18",
+      "line_total": "1125"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "339",
+      "tax_rate": "0.18",
+      "line_total": "678"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "387",
+      "tax_rate": "0.18",
+      "line_total": "387"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "68",
+      "tax_rate": "0.18",
+      "line_total": "340"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "192",
+      "tax_rate": "0.18",
+      "line_total": "960"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "54",
+      "tax_rate": "0.18",
+      "line_total": "162"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "430",
+      "tax_rate": "0.18",
+      "line_total": "2150"
+    }
+  ],
+  "warnings": []
+}

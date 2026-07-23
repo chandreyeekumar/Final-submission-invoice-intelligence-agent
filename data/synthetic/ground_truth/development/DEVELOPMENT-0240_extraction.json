@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Kennedy, Mcintyre and James",
+  "vendor_address": "Unit 2702 Box 8951, DPO AA 13570",
+  "vendor_tax_id": "TAX00000050",
+  "vendor_bank_account": "XXXX9064",
+  "invoice_number": "KEN1-00240",
+  "invoice_date": "2026-03-02",
+  "due_date": "2026-04-01",
+  "purchase_order_number": "PO-00240",
+  "currency": "EUR",
+  "subtotal": 7023.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1264.14,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8287.14,
+  "amount_due": 8287.14,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "236",
+      "tax_rate": "0.18",
+      "line_total": "944"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "269",
+      "tax_rate": "0.18",
+      "line_total": "538"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "375",
+      "tax_rate": "0.18",
+      "line_total": "1875"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "304",
+      "tax_rate": "0.18",
+      "line_total": "608"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "270",
+      "tax_rate": "0.18",
+      "line_total": "540"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "91",
+      "tax_rate": "0.18",
+      "line_total": "273"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "181",
+      "tax_rate": "0.18",
+      "line_total": "362"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "337",
+      "tax_rate": "0.18",
+      "line_total": "1348"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "463",
+      "tax_rate": "0.18",
+      "line_total": "463"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "72"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Howard and Sons",
+  "vendor_address": "40268 Julie Mountains, Stricklandhaven, OR 14794",
+  "vendor_tax_id": "TAX00000064",
+  "vendor_bank_account": "XXXX9295",
+  "invoice_number": "HOW1-00520",
+  "invoice_date": "2026-06-10",
+  "due_date": "2026-07-10",
+  "purchase_order_number": "PO-00520",
+  "currency": "USD",
+  "subtotal": 1824.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 328.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2152.32,
+  "amount_due": 2152.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "438",
+      "tax_rate": "0.18",
+      "line_total": "876"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "474",
+      "tax_rate": "0.18",
+      "line_total": "948"
+    }
+  ],
+  "warnings": []
+}

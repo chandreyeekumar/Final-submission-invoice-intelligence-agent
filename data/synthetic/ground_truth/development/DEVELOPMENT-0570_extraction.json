@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Fox PLC",
+  "vendor_address": "108 Ashley Drive, West Melissa, NV 15736",
+  "vendor_tax_id": "TAX00000117",
+  "vendor_bank_account": "XXXX9562",
+  "invoice_number": "FOX-00570",
+  "invoice_date": "2026-01-31",
+  "due_date": "2026-03-02",
+  "purchase_order_number": "PO-00570",
+  "currency": "INR",
+  "subtotal": 6055.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1089.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7144.9,
+  "amount_due": 7144.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "40",
+      "tax_rate": "0.18",
+      "line_total": "40"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "395",
+      "tax_rate": "0.18",
+      "line_total": "1580"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "37",
+      "tax_rate": "0.18",
+      "line_total": "185"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "291",
+      "tax_rate": "0.18",
+      "line_total": "1164"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "265",
+      "tax_rate": "0.18",
+      "line_total": "1060"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "251",
+      "tax_rate": "0.18",
+      "line_total": "251"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "143",
+      "tax_rate": "0.18",
+      "line_total": "572"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "305"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "374",
+      "tax_rate": "0.18",
+      "line_total": "374"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "131",
+      "tax_rate": "0.18",
+      "line_total": "524"
+    }
+  ],
+  "warnings": []
+}

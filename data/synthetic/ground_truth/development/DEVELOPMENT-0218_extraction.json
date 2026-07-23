@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Price Ltd",
+  "vendor_address": "272 Rebecca Ramp Apt. 162, Whiteview, MS 43407",
+  "vendor_tax_id": "TAX00000030",
+  "vendor_bank_account": "XXXX4010",
+  "invoice_number": "PRI-00218",
+  "invoice_date": "2026-02-08",
+  "due_date": "2026-03-10",
+  "purchase_order_number": "PO-00218",
+  "currency": "EUR",
+  "subtotal": 5736.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1032.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6768.48,
+  "amount_due": 6768.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "324",
+      "tax_rate": "0.18",
+      "line_total": "1620"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "416",
+      "tax_rate": "0.18",
+      "line_total": "1664"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "35",
+      "tax_rate": "0.18",
+      "line_total": "105"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "421",
+      "tax_rate": "0.18",
+      "line_total": "1263"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "271",
+      "tax_rate": "0.18",
+      "line_total": "1084"
+    }
+  ],
+  "warnings": []
+}

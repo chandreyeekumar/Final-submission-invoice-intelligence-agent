@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Shea Group",
+  "vendor_address": "75655 Mia Isle Suite 746, South Christopherview, MD 15695",
+  "vendor_tax_id": "TAX00000045",
+  "vendor_bank_account": "XXXX1489",
+  "invoice_number": "SHE-00623",
+  "invoice_date": "2026-03-25",
+  "due_date": "2026-04-24",
+  "purchase_order_number": "PO-00623",
+  "currency": "EUR",
+  "subtotal": 2807.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 505.26,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3312.26,
+  "amount_due": 3312.26,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "358",
+      "tax_rate": "0.18",
+      "line_total": "358"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "146",
+      "tax_rate": "0.18",
+      "line_total": "292"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "351",
+      "tax_rate": "0.18",
+      "line_total": "702"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "323",
+      "tax_rate": "0.18",
+      "line_total": "969"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "486",
+      "tax_rate": "0.18",
+      "line_total": "486"
+    }
+  ],
+  "warnings": []
+}

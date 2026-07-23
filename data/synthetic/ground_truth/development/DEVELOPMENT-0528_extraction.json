@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Hancock-Bryan",
+  "vendor_address": "0385 Garrett Trace Apt. 348, West Samuel, UT 64033",
+  "vendor_tax_id": "TAX00000046",
+  "vendor_bank_account": "XXXX2504",
+  "invoice_number": "HAN-00528",
+  "invoice_date": "2026-06-18",
+  "due_date": "2026-07-18",
+  "purchase_order_number": "PO-00528",
+  "currency": "USD",
+  "subtotal": 9403.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1692.54,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11095.54,
+  "amount_due": 11095.54,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "315",
+      "tax_rate": "0.18",
+      "line_total": "315"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "453",
+      "tax_rate": "0.18",
+      "line_total": "1812"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "384",
+      "tax_rate": "0.18",
+      "line_total": "768"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "157",
+      "tax_rate": "0.18",
+      "line_total": "785"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "494",
+      "tax_rate": "0.18",
+      "line_total": "1976"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "315",
+      "tax_rate": "0.18",
+      "line_total": "1575"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "37",
+      "tax_rate": "0.18",
+      "line_total": "111"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "310",
+      "tax_rate": "0.18",
+      "line_total": "310"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "380",
+      "tax_rate": "0.18",
+      "line_total": "1520"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "77",
+      "tax_rate": "0.18",
+      "line_total": "231"
+    }
+  ],
+  "warnings": []
+}

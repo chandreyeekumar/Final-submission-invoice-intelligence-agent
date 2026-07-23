@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Lozano, Smith and Thomas",
+  "vendor_address": "74596 Melissa Walk, Finleyfort, VI 71413",
+  "vendor_tax_id": "TAX00000051",
+  "vendor_bank_account": "XXXX1876",
+  "invoice_number": "LOZ-00457",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-05-08",
+  "purchase_order_number": "PO-00457",
+  "currency": "USD",
+  "subtotal": 1260.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 226.8,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1486.8,
+  "amount_due": 1486.8,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "325",
+      "tax_rate": "0.18",
+      "line_total": "975"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "285",
+      "tax_rate": "0.18",
+      "line_total": "285"
+    }
+  ],
+  "warnings": []
+}

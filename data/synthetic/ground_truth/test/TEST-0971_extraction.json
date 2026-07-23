@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 971",
+  "vendor_address": "3171 Darlene Ranch Apt. 053, Port Anne, CA 73142",
+  "vendor_tax_id": "TAX00000062",
+  "vendor_bank_account": "XXXX1832",
+  "invoice_number": "STE-00971",
+  "invoice_date": "2026-03-13",
+  "due_date": "2026-04-12",
+  "purchase_order_number": "PO-00971",
+  "currency": "INR",
+  "subtotal": 2224.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 400.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2624.32,
+  "amount_due": 2624.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "399",
+      "tax_rate": "0.18",
+      "line_total": "399"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "365",
+      "tax_rate": "0.18",
+      "line_total": "1825"
+    }
+  ],
+  "warnings": []
+}

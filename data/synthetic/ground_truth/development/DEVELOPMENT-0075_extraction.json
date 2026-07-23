@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Knight-Sparks",
+  "vendor_address": "693 Durham Divide, South Dana, NH 33967",
+  "vendor_tax_id": "TAX00000053",
+  "vendor_bank_account": "XXXX1827",
+  "invoice_number": "KNI-00075",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-16",
+  "purchase_order_number": "PO-00075",
+  "currency": "EUR",
+  "subtotal": 9480.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1706.4,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11186.4,
+  "amount_due": 11186.4,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "188",
+      "tax_rate": "0.18",
+      "line_total": "376"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "375",
+      "tax_rate": "0.18",
+      "line_total": "1500"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "167",
+      "tax_rate": "0.18",
+      "line_total": "668"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "436",
+      "tax_rate": "0.18",
+      "line_total": "1744"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "38",
+      "tax_rate": "0.18",
+      "line_total": "190"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "65",
+      "tax_rate": "0.18",
+      "line_total": "260"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "149",
+      "tax_rate": "0.18",
+      "line_total": "447"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "79",
+      "tax_rate": "0.18",
+      "line_total": "237"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "462",
+      "tax_rate": "0.18",
+      "line_total": "1848"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "442",
+      "tax_rate": "0.18",
+      "line_total": "2210"
+    }
+  ],
+  "warnings": []
+}

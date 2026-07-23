@@ -1,0 +1,36 @@
+{
+  "vendor_name": "H0ward LLC",
+  "vendor_address": "781 Miller Hill, Barbaraland, AZ 87174",
+  "vendor_tax_id": "TAX00000003",
+  "vendor_bank_account": "XXXX1679",
+  "invoice_number": "HOW-00073",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-04-14",
+  "purchase_order_number": "PO-00073",
+  "currency": "USD",
+  "subtotal": 1355.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 243.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1598.9,
+  "amount_due": 1598.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "315",
+      "tax_rate": "0.18",
+      "line_total": "945"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "410",
+      "tax_rate": "0.18",
+      "line_total": "410"
+    }
+  ],
+  "warnings": []
+}

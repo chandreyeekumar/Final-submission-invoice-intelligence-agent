@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Gibs0n LLC",
+  "vendor_address": "6417 Kaitlyn Center Suite 310, East Jamestown, RI 20474",
+  "vendor_tax_id": "TAX00000031",
+  "vendor_bank_account": "XXXX6216",
+  "invoice_number": "GIB1-00631",
+  "invoice_date": "2026-04-02",
+  "due_date": "2026-05-02",
+  "purchase_order_number": "PO-00631",
+  "currency": "USD",
+  "subtotal": 2276.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 409.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2685.68,
+  "amount_due": 2685.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "452",
+      "tax_rate": "0.18",
+      "line_total": "1356"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "230",
+      "tax_rate": "0.18",
+      "line_total": "920"
+    }
+  ],
+  "warnings": []
+}

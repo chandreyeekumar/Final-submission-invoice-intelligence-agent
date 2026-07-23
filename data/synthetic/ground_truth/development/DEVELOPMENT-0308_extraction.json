@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Harris-Moody",
+  "vendor_address": "8687 Johnson Rue Apt. 450, Joshuastad, NE 52932",
+  "vendor_tax_id": "TAX00000090",
+  "vendor_bank_account": "XXXX5559",
+  "invoice_number": "HAR-00308",
+  "invoice_date": "2026-05-09",
+  "due_date": "2026-06-08",
+  "purchase_order_number": "PO-00308",
+  "currency": "USD",
+  "subtotal": 3395.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 611.1,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4006.1,
+  "amount_due": 4006.1,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "77",
+      "tax_rate": "0.18",
+      "line_total": "308"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "96",
+      "tax_rate": "0.18",
+      "line_total": "384"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "310",
+      "tax_rate": "0.18",
+      "line_total": "620"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "318",
+      "tax_rate": "0.18",
+      "line_total": "1590"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "493",
+      "tax_rate": "0.18",
+      "line_total": "493"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,3 @@
+document_id,image_path,ground_truth_path,split
+sroie_test_0000,data/public/sroie/images/sroie_test_0000.png,data/public/sroie/ground_truth/sroie_test_0000_extraction.json,test
+sroie_test_0001,data/public/sroie/images/sroie_test_0001.png,data/public/sroie/ground_truth/sroie_test_0001_extraction.json,test

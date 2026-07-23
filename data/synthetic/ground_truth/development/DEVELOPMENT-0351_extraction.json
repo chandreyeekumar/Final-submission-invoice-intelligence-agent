@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Reyes-Griffin",
+  "vendor_address": "9904 Schwartz Circle Apt. 742, Parksport, UT 15890",
+  "vendor_tax_id": "TAX00000115",
+  "vendor_bank_account": "XXXX9740",
+  "invoice_number": "REY-00351",
+  "invoice_date": "2026-06-21",
+  "due_date": "2026-07-21",
+  "purchase_order_number": "PO-00351",
+  "currency": "USD",
+  "subtotal": 5892.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1060.56,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6952.56,
+  "amount_due": 6952.56,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "74",
+      "tax_rate": "0.18",
+      "line_total": "296"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "332",
+      "tax_rate": "0.18",
+      "line_total": "996"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "116",
+      "tax_rate": "0.18",
+      "line_total": "232"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "496",
+      "tax_rate": "0.18",
+      "line_total": "496"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "130",
+      "tax_rate": "0.18",
+      "line_total": "520"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "442",
+      "tax_rate": "0.18",
+      "line_total": "1768"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "386",
+      "tax_rate": "0.18",
+      "line_total": "772"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "75",
+      "tax_rate": "0.18",
+      "line_total": "225"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "43",
+      "tax_rate": "0.18",
+      "line_total": "172"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "83",
+      "tax_rate": "0.18",
+      "line_total": "415"
+    }
+  ],
+  "warnings": []
+}

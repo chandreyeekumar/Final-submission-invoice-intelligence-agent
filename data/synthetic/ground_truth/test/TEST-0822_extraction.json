@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Wolf, Cole and Glass",
+  "vendor_address": "527 Taylor Roads Suite 490, Williamport, NH 59734",
+  "vendor_tax_id": "TAX00000076",
+  "vendor_bank_account": "XXXX3770",
+  "invoice_number": "WOL-00822",
+  "invoice_date": "2026-04-13",
+  "due_date": "2026-05-13",
+  "purchase_order_number": "PO-00822",
+  "currency": "EUR",
+  "subtotal": 2249.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 404.82,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2653.82,
+  "amount_due": 2653.82,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "172",
+      "tax_rate": "0.18",
+      "line_total": "688"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "84",
+      "tax_rate": "0.18",
+      "line_total": "420"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "186",
+      "tax_rate": "0.18",
+      "line_total": "186"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "385",
+      "tax_rate": "0.18",
+      "line_total": "385"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "570"
+    }
+  ],
+  "warnings": []
+}

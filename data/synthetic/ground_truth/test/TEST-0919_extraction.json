@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Bryant-Hickman",
+  "vendor_address": "USS Ellis, FPO AP 13605",
+  "vendor_tax_id": "TAX00000016",
+  "vendor_bank_account": "XXXX9891",
+  "invoice_number": "BRY-00919",
+  "invoice_date": "2026-01-20",
+  "due_date": "2026-02-19",
+  "purchase_order_number": "PO-00919",
+  "currency": "INR",
+  "subtotal": 6465.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1163.7,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7628.7,
+  "amount_due": 7628.7,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "448",
+      "tax_rate": "0.18",
+      "line_total": "1344"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "101",
+      "tax_rate": "0.18",
+      "line_total": "505"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "124",
+      "tax_rate": "0.18",
+      "line_total": "372"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "67"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "243",
+      "tax_rate": "0.18",
+      "line_total": "243"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "341",
+      "tax_rate": "0.18",
+      "line_total": "341"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "98",
+      "tax_rate": "0.18",
+      "line_total": "490"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "336",
+      "tax_rate": "0.18",
+      "line_total": "336"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "491",
+      "tax_rate": "0.18",
+      "line_total": "2455"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "312",
+      "tax_rate": "0.18",
+      "line_total": "312"
+    }
+  ],
+  "warnings": []
+}

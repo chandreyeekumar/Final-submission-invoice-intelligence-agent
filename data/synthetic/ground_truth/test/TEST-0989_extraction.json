@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Howard LLC",
+  "vendor_address": "781 Miller Hill, Barbaraland, AZ 87174",
+  "vendor_tax_id": "TAX00000003",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "HOW-00989",
+  "invoice_date": "2026-03-31",
+  "due_date": "2026-04-30",
+  "purchase_order_number": "PO-00989",
+  "currency": "USD",
+  "subtotal": 819.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 147.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 966.42,
+  "amount_due": 966.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "219",
+      "tax_rate": "0.18",
+      "line_total": "657"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "54",
+      "tax_rate": "0.18",
+      "line_total": "162"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 992",
+  "vendor_address": "125 Shannon Springs Suite 289, Port Tammy, NE 66412",
+  "vendor_tax_id": "TAX00000097",
+  "vendor_bank_account": "XXXX3872",
+  "invoice_number": "KEY-00992",
+  "invoice_date": "2026-04-03",
+  "due_date": "2026-05-03",
+  "purchase_order_number": "PO-00992",
+  "currency": "USD",
+  "subtotal": 976.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 175.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1151.68,
+  "amount_due": 1151.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "272",
+      "tax_rate": "0.18",
+      "line_total": "544"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "432",
+      "tax_rate": "0.18",
+      "line_total": "432"
+    }
+  ],
+  "warnings": []
+}

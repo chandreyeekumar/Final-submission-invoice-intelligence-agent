@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Howard Services",
+  "vendor_address": "40268 Julie Mountains, Stricklandhaven, OR 14794",
+  "vendor_tax_id": "TAX00000064",
+  "vendor_bank_account": "XXXX9295",
+  "invoice_number": "HOW1-00667",
+  "invoice_date": "2026-05-08",
+  "due_date": "2026-06-07",
+  "purchase_order_number": "PO-00667",
+  "currency": "USD",
+  "subtotal": 1140.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 205.2,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1345.2,
+  "amount_due": 1345.2,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "168"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "243",
+      "tax_rate": "0.18",
+      "line_total": "972"
+    }
+  ],
+  "warnings": []
+}

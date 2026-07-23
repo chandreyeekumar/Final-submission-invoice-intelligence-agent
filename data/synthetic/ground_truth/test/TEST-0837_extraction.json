@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 837",
+  "vendor_address": "693 Durham Divide, South Dana, NH 33967",
+  "vendor_tax_id": "TAX00000053",
+  "vendor_bank_account": "XXXX1827",
+  "invoice_number": "KNI-00837",
+  "invoice_date": "2026-04-28",
+  "due_date": "2026-05-28",
+  "purchase_order_number": "PO-00837",
+  "currency": "EUR",
+  "subtotal": 1793.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 322.74,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2115.74,
+  "amount_due": 2115.74,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "59",
+      "tax_rate": "0.18",
+      "line_total": "59"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "134"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "314",
+      "tax_rate": "0.18",
+      "line_total": "628"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "63",
+      "tax_rate": "0.18",
+      "line_total": "63"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "303",
+      "tax_rate": "0.18",
+      "line_total": "909"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Patel-Hall",
+  "vendor_address": "60607 Michelle Ports Suite 966, Dariustown, MD 23028",
+  "vendor_tax_id": "TAX00000073",
+  "vendor_bank_account": "XXXX7397",
+  "invoice_number": "PAT-00993",
+  "invoice_date": "2026-04-04",
+  "due_date": "2026-05-04",
+  "purchase_order_number": "PO-00993",
+  "currency": "INR",
+  "subtotal": 5369.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 966.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6335.42,
+  "amount_due": 6335.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "197",
+      "tax_rate": "0.18",
+      "line_total": "197"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "233",
+      "tax_rate": "0.18",
+      "line_total": "233"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "398",
+      "tax_rate": "0.18",
+      "line_total": "1990"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "495",
+      "tax_rate": "0.18",
+      "line_total": "2475"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "474",
+      "tax_rate": "0.18",
+      "line_total": "474"
+    }
+  ],
+  "warnings": []
+}

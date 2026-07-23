@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Stevens, Norris and Cox",
+  "vendor_address": "69681 Harrell Summit, Jeffreyburgh, CA 67411",
+  "vendor_tax_id": "TAX00000074",
+  "vendor_bank_account": "XXXX3681",
+  "invoice_number": "STE1-00985",
+  "invoice_date": "2026-03-27",
+  "due_date": "2026-04-26",
+  "purchase_order_number": "PO-00985",
+  "currency": "USD",
+  "subtotal": 6633.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1193.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7826.94,
+  "amount_due": 7826.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "244",
+      "tax_rate": "0.18",
+      "line_total": "976"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "135",
+      "tax_rate": "0.18",
+      "line_total": "405"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "399",
+      "tax_rate": "0.18",
+      "line_total": "798"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "242",
+      "tax_rate": "0.18",
+      "line_total": "484"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "434",
+      "tax_rate": "0.18",
+      "line_total": "2170"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "64",
+      "tax_rate": "0.18",
+      "line_total": "128"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "32",
+      "tax_rate": "0.18",
+      "line_total": "160"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "124",
+      "tax_rate": "0.18",
+      "line_total": "124"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "434",
+      "tax_rate": "0.18",
+      "line_total": "434"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "477",
+      "tax_rate": "0.18",
+      "line_total": "954"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Brooks-Hatfield",
+  "vendor_address": "39868 Brandon Dam Suite 787, New Patricia, DC 43488",
+  "vendor_tax_id": "TAX00000105",
+  "vendor_bank_account": "XXXX4861",
+  "invoice_number": "BRO1-00721",
+  "invoice_date": "2026-01-02",
+  "due_date": "2026-02-01",
+  "purchase_order_number": "PO-00721",
+  "currency": "USD",
+  "subtotal": 5989.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1078.02,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7067.02,
+  "amount_due": 7067.02,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "440"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "83",
+      "tax_rate": "0.18",
+      "line_total": "83"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "209",
+      "tax_rate": "0.18",
+      "line_total": "836"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "247",
+      "tax_rate": "0.18",
+      "line_total": "494"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "133"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "408",
+      "tax_rate": "0.18",
+      "line_total": "408"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "368",
+      "tax_rate": "0.18",
+      "line_total": "1104"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "118",
+      "tax_rate": "0.18",
+      "line_total": "354"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "437",
+      "tax_rate": "0.18",
+      "line_total": "437"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "340",
+      "tax_rate": "0.18",
+      "line_total": "1700"
+    }
+  ],
+  "warnings": []
+}

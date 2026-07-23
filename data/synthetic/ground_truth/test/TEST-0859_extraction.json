@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Smith, Ballard and Santana",
+  "vendor_address": "75946 Bryant Hollow, South Melissa, CT 31592",
+  "vendor_tax_id": "TAX00000054",
+  "vendor_bank_account": "XXXX2591",
+  "invoice_number": "SMI-00859",
+  "invoice_date": "2026-05-20",
+  "due_date": "2026-06-19",
+  "purchase_order_number": "PO-00859",
+  "currency": "INR",
+  "subtotal": 9211.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1657.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10868.98,
+  "amount_due": 10868.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "197",
+      "tax_rate": "0.18",
+      "line_total": "985"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "249",
+      "tax_rate": "0.18",
+      "line_total": "747"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "486",
+      "tax_rate": "0.18",
+      "line_total": "486"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "54",
+      "tax_rate": "0.18",
+      "line_total": "216"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "234",
+      "tax_rate": "0.18",
+      "line_total": "936"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "496",
+      "tax_rate": "0.18",
+      "line_total": "2480"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "424",
+      "tax_rate": "0.18",
+      "line_total": "2120"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "105",
+      "tax_rate": "0.18",
+      "line_total": "105"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "160",
+      "tax_rate": "0.18",
+      "line_total": "800"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "336"
+    }
+  ],
+  "warnings": []
+}

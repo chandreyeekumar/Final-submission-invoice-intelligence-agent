@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Wise, Lamb and Martin",
+  "vendor_address": "3794 Young Garden Suite 735, Murrayport, WI 50553",
+  "vendor_tax_id": "TAX00000083",
+  "vendor_bank_account": "XXXX9440",
+  "invoice_number": "WIS-00886",
+  "invoice_date": "2026-06-16",
+  "due_date": "2026-07-16",
+  "purchase_order_number": "PO-00886",
+  "currency": "EUR",
+  "subtotal": 8492.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1528.56,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10020.56,
+  "amount_due": 10020.56,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "102",
+      "tax_rate": "0.18",
+      "line_total": "510"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "222",
+      "tax_rate": "0.18",
+      "line_total": "222"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "368",
+      "tax_rate": "0.18",
+      "line_total": "1472"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "303",
+      "tax_rate": "0.18",
+      "line_total": "1212"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "490",
+      "tax_rate": "0.18",
+      "line_total": "1470"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "276",
+      "tax_rate": "0.18",
+      "line_total": "1380"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "383",
+      "tax_rate": "0.18",
+      "line_total": "1149"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "236",
+      "tax_rate": "0.18",
+      "line_total": "472"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "159",
+      "tax_rate": "0.18",
+      "line_total": "318"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "287",
+      "tax_rate": "0.18",
+      "line_total": "287"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 209",
+  "vendor_address": "497 Susan Harbors Suite 344, Lake Janet, MD 63389",
+  "vendor_tax_id": "TAX00000109",
+  "vendor_bank_account": "XXXX7811",
+  "invoice_number": "FRY-00209",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-03-01",
+  "purchase_order_number": "PO-00209",
+  "currency": "USD",
+  "subtotal": 1700.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 306.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2006.0,
+  "amount_due": 2006.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "411",
+      "tax_rate": "0.18",
+      "line_total": "411"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "231"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "451",
+      "tax_rate": "0.18",
+      "line_total": "902"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "54",
+      "tax_rate": "0.18",
+      "line_total": "108"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "48"
+    }
+  ],
+  "warnings": []
+}

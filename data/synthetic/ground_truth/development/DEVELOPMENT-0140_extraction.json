@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Wagner Services",
+  "vendor_address": "8892 Watson Haven Suite 659, Port Crystalmouth, CA 43714",
+  "vendor_tax_id": "TAX00000079",
+  "vendor_bank_account": "XXXX0514",
+  "invoice_number": "WAG-00140",
+  "invoice_date": "2026-05-21",
+  "due_date": "2026-06-20",
+  "purchase_order_number": "PO-00140",
+  "currency": "USD",
+  "subtotal": 4770.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 858.6,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5628.6,
+  "amount_due": 5628.6,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "360",
+      "tax_rate": "0.18",
+      "line_total": "720"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "288",
+      "tax_rate": "0.18",
+      "line_total": "288"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "54",
+      "tax_rate": "0.18",
+      "line_total": "162"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "298",
+      "tax_rate": "0.18",
+      "line_total": "1490"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "422",
+      "tax_rate": "0.18",
+      "line_total": "2110"
+    }
+  ],
+  "warnings": []
+}

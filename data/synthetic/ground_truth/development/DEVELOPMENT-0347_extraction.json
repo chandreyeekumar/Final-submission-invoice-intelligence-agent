@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Chambers, Richards and Carson",
+  "vendor_address": "USS Leonard, FPO AA 03781",
+  "vendor_tax_id": "TAX00000059",
+  "vendor_bank_account": "XXXX6126",
+  "invoice_number": "CHA-00347",
+  "invoice_date": "2026-06-17",
+  "due_date": "2026-07-17",
+  "purchase_order_number": "PO-00347",
+  "currency": "USD",
+  "subtotal": 3366.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 605.88,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3971.88,
+  "amount_due": 3971.88,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "458",
+      "tax_rate": "0.18",
+      "line_total": "458"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "248",
+      "tax_rate": "0.18",
+      "line_total": "992"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "80",
+      "tax_rate": "0.18",
+      "line_total": "240"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "401",
+      "tax_rate": "0.18",
+      "line_total": "1604"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "72",
+      "tax_rate": "0.18",
+      "line_total": "72"
+    }
+  ],
+  "warnings": []
+}

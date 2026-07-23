@@ -1,0 +1,92 @@
+{
+  "vendor_name": "French-L0pez",
+  "vendor_address": "04991 Mitchell Row Suite 287, Jamesville, MA 21799",
+  "vendor_tax_id": "TAX00000113",
+  "vendor_bank_account": "XXXX3853",
+  "invoice_number": "FRE-00630",
+  "invoice_date": "2026-04-01",
+  "due_date": "2026-05-01",
+  "purchase_order_number": "PO-00630",
+  "currency": "USD",
+  "subtotal": 11255.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 2025.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 13280.9,
+  "amount_due": 13280.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "315",
+      "tax_rate": "0.18",
+      "line_total": "630"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "129",
+      "tax_rate": "0.18",
+      "line_total": "516"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "157",
+      "tax_rate": "0.18",
+      "line_total": "628"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "434",
+      "tax_rate": "0.18",
+      "line_total": "2170"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "456",
+      "tax_rate": "0.18",
+      "line_total": "2280"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "498",
+      "tax_rate": "0.18",
+      "line_total": "1992"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "392",
+      "tax_rate": "0.18",
+      "line_total": "1960"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "287",
+      "tax_rate": "0.18",
+      "line_total": "287"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "206",
+      "tax_rate": "0.18",
+      "line_total": "412"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "95",
+      "tax_rate": "0.18",
+      "line_total": "380"
+    }
+  ],
+  "warnings": []
+}

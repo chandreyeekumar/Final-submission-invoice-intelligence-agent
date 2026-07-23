@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Castro-Michael",
+  "vendor_address": "98665 Kelly Heights Apt. 574, Lewisside, KY 74165",
+  "vendor_tax_id": "TAX00000110",
+  "vendor_bank_account": "XXXX2579",
+  "invoice_number": "CAS-00448",
+  "invoice_date": "2026-03-30",
+  "due_date": "2026-04-29",
+  "purchase_order_number": "PO-00448",
+  "currency": "EUR",
+  "subtotal": 1524.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 274.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1798.32,
+  "amount_due": 1798.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "1167"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "357"
+    }
+  ],
+  "warnings": []
+}

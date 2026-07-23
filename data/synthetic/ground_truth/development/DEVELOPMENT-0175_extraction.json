@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Shaw and Sons",
+  "vendor_address": "99590 Christopher Row, Debrashire, MT 81517",
+  "vendor_tax_id": "TAX00000099",
+  "vendor_bank_account": "XXXX6570",
+  "invoice_number": "SHA-00175",
+  "invoice_date": "2026-06-25",
+  "due_date": "2026-07-25",
+  "purchase_order_number": "PO-00175",
+  "currency": "INR",
+  "subtotal": 1520.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 273.6,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1793.6,
+  "amount_due": 1793.6,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "182",
+      "tax_rate": "0.18",
+      "line_total": "728"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "198",
+      "tax_rate": "0.18",
+      "line_total": "792"
+    }
+  ],
+  "warnings": []
+}

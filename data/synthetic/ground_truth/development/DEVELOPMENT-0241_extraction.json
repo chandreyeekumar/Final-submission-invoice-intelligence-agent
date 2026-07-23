@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 241",
+  "vendor_address": "042 Amber Union, North Donna, AK 17776",
+  "vendor_tax_id": "TAX00000063",
+  "vendor_bank_account": "XXXX3923",
+  "invoice_number": "WIL1-00241",
+  "invoice_date": "2026-03-03",
+  "due_date": "2026-04-02",
+  "purchase_order_number": "PO-00241",
+  "currency": "INR",
+  "subtotal": 2306.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 415.08,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2721.08,
+  "amount_due": 2721.08,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "278",
+      "tax_rate": "0.18",
+      "line_total": "1390"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "229",
+      "tax_rate": "0.18",
+      "line_total": "916"
+    }
+  ],
+  "warnings": []
+}

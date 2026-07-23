@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Shea Gr0up",
+  "vendor_address": "75655 Mia Isle Suite 746, South Christopherview, MD 15695",
+  "vendor_tax_id": "TAX00000045",
+  "vendor_bank_account": "XXXX1489",
+  "invoice_number": "SHE-00964",
+  "invoice_date": "2026-03-06",
+  "due_date": "2026-04-05",
+  "purchase_order_number": "PO-00964",
+  "currency": "EUR",
+  "subtotal": 8560.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1540.8,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10100.8,
+  "amount_due": 10100.8,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "360",
+      "tax_rate": "0.18",
+      "line_total": "1800"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "99",
+      "tax_rate": "0.18",
+      "line_total": "495"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "385",
+      "tax_rate": "0.18",
+      "line_total": "385"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "93",
+      "tax_rate": "0.18",
+      "line_total": "279"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "241",
+      "tax_rate": "0.18",
+      "line_total": "482"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "490",
+      "tax_rate": "0.18",
+      "line_total": "2450"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "168"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "36",
+      "tax_rate": "0.18",
+      "line_total": "72"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "497",
+      "tax_rate": "0.18",
+      "line_total": "1988"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "147",
+      "tax_rate": "0.18",
+      "line_total": "441"
+    }
+  ],
+  "warnings": []
+}

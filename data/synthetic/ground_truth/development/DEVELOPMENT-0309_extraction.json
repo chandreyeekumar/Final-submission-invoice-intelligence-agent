@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Mitchell-Horton",
+  "vendor_address": "34309 Julie Centers Apt. 978, North Susan, CO 24857",
+  "vendor_tax_id": "TAX00000014",
+  "vendor_bank_account": "XXXX1674",
+  "invoice_number": "MIT-00309",
+  "invoice_date": "2026-05-10",
+  "due_date": "2026-06-09",
+  "purchase_order_number": "PO-00309",
+  "currency": "USD",
+  "subtotal": 11205.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 2016.9,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 13221.9,
+  "amount_due": 13221.9,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "464",
+      "tax_rate": "0.18",
+      "line_total": "1392"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "470",
+      "tax_rate": "0.18",
+      "line_total": "2350"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "469",
+      "tax_rate": "0.18",
+      "line_total": "1407"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "155",
+      "tax_rate": "0.18",
+      "line_total": "620"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "355",
+      "tax_rate": "0.18",
+      "line_total": "1420"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "312",
+      "tax_rate": "0.18",
+      "line_total": "1248"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "262",
+      "tax_rate": "0.18",
+      "line_total": "1310"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "108",
+      "tax_rate": "0.18",
+      "line_total": "108"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "226",
+      "tax_rate": "0.18",
+      "line_total": "678"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "336",
+      "tax_rate": "0.18",
+      "line_total": "672"
+    }
+  ],
+  "warnings": []
+}

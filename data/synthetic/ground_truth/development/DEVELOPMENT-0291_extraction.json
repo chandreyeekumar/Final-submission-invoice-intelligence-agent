@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Wolf, Cole and Glass",
+  "vendor_address": "527 Taylor Roads Suite 490, Williamport, NH 59734",
+  "vendor_tax_id": "TAX00000076",
+  "vendor_bank_account": "XXXX3770",
+  "invoice_number": "WOL-00291",
+  "invoice_date": "2026-04-22",
+  "due_date": "2026-05-22",
+  "purchase_order_number": "PO-00291",
+  "currency": "EUR",
+  "subtotal": 9399.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1691.82,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11090.82,
+  "amount_due": 11090.82,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "453",
+      "tax_rate": "0.18",
+      "line_total": "453"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "460",
+      "tax_rate": "0.18",
+      "line_total": "2300"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "171"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "380",
+      "tax_rate": "0.18",
+      "line_total": "1140"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "320",
+      "tax_rate": "0.18",
+      "line_total": "1280"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "192",
+      "tax_rate": "0.18",
+      "line_total": "192"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "185",
+      "tax_rate": "0.18",
+      "line_total": "555"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "100",
+      "tax_rate": "0.18",
+      "line_total": "200"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "425",
+      "tax_rate": "0.18",
+      "line_total": "1700"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "352",
+      "tax_rate": "0.18",
+      "line_total": "1408"
+    }
+  ],
+  "warnings": []
+}

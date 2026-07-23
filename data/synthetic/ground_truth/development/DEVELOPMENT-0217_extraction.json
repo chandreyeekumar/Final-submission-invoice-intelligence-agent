@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Fuller, Ingram and Moss",
+  "vendor_address": "8527 Welch Valleys, North Jennifer, NH 05348",
+  "vendor_tax_id": "TAX00000089",
+  "vendor_bank_account": "XXXX1612",
+  "invoice_number": "FUL-00217",
+  "invoice_date": "2026-02-07",
+  "due_date": "2026-03-09",
+  "purchase_order_number": "PO-00217",
+  "currency": "EUR",
+  "subtotal": 384.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 69.12,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 453.12,
+  "amount_due": 453.12,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "47",
+      "tax_rate": "0.18",
+      "line_total": "141"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "243",
+      "tax_rate": "0.18",
+      "line_total": "243"
+    }
+  ],
+  "warnings": []
+}

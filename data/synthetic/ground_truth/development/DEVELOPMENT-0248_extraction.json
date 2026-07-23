@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 248",
+  "vendor_address": "281 Skinner Parkways Apt. 252, New Mariotown, DE 48077",
+  "vendor_tax_id": "TAX00000008",
+  "vendor_bank_account": "XXXX9195",
+  "invoice_number": "PET-00248",
+  "invoice_date": "2026-03-10",
+  "due_date": "2026-04-09",
+  "purchase_order_number": "PO-00248",
+  "currency": "EUR",
+  "subtotal": 3970.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 714.6,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4684.6,
+  "amount_due": 4684.6,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "379",
+      "tax_rate": "0.18",
+      "line_total": "758"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "147",
+      "tax_rate": "0.18",
+      "line_total": "294"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "384",
+      "tax_rate": "0.18",
+      "line_total": "768"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "444",
+      "tax_rate": "0.18",
+      "line_total": "1332"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "409",
+      "tax_rate": "0.18",
+      "line_total": "818"
+    }
+  ],
+  "warnings": []
+}

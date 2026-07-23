@@ -1,0 +1,954 @@
+{
+  "source_image": "data\\runtime\\smoke\\pages\\page_001.png",
+  "complexity_tier": "low",
+  "ocr": {
+    "word_count": 74,
+    "confidence": 0.9347,
+    "pages": [
+      {
+        "page_number": 1,
+        "image_path": "data\\runtime\\smoke\\pages\\page_001.png",
+        "text": "COoke and Sons Address: 880 Walter River, New Nicholas, GA 24204 Invoice Number: COO-00001 Invoice Date: 2026-01-02 Due Date: 2026-02-01 PO Number: PO-00001 Tax ID: TAX00000082 Bank: XXXX2167 Currency: USD Line Items Item 1 | Qty 2 | Unit 134.00 | Total 268.00 Item 2 | Qty 2 | Unit 397.00 | Total 794.00 Subtotal: 1062.00 Discount: 0.00 Shipping: 0.00 Tax Total: 191.16 Previous Balance: 0.00 Credit Adjustment: 0.00 Total: 1253.16 Amount Due: 1253.16",
+        "word_count": 74,
+        "mean_confidence": 0.9347,
+        "words": [
+          {
+            "text": "COoke",
+            "confidence": 0.59,
+            "bbox": {
+              "x": 176,
+              "y": 150,
+              "width": 162,
+              "height": 41
+            },
+            "block_number": 1,
+            "line_number": 1
+          },
+          {
+            "text": "and",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 357,
+              "y": 150,
+              "width": 94,
+              "height": 41
+            },
+            "block_number": 1,
+            "line_number": 1
+          },
+          {
+            "text": "Sons",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 472,
+              "y": 150,
+              "width": 130,
+              "height": 41
+            },
+            "block_number": 1,
+            "line_number": 1
+          },
+          {
+            "text": "Address:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 173,
+              "y": 262,
+              "width": 121,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 2
+          },
+          {
+            "text": "880",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 307,
+              "y": 262,
+              "width": 49,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 2
+          },
+          {
+            "text": "Walter",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 367,
+              "y": 261,
+              "width": 90,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 2
+          },
+          {
+            "text": "River,",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 468,
+              "y": 262,
+              "width": 76,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 2
+          },
+          {
+            "text": "New",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 558,
+              "y": 262,
+              "width": 60,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 2
+          },
+          {
+            "text": "Nicholas,",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 629,
+              "y": 261,
+              "width": 124,
+              "height": 27
+            },
+            "block_number": 1,
+            "line_number": 2
+          },
+          {
+            "text": "GA",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 766,
+              "y": 261,
+              "width": 43,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 2
+          },
+          {
+            "text": "24204",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 819,
+              "y": 261,
+              "width": 84,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 2
+          },
+          {
+            "text": "Invoice",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 176,
+              "y": 311,
+              "width": 95,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 3
+          },
+          {
+            "text": "Number:",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 283,
+              "y": 310,
+              "width": 115,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 3
+          },
+          {
+            "text": "COO-00001",
+            "confidence": 0.91,
+            "bbox": {
+              "x": 411,
+              "y": 310,
+              "width": 162,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 3
+          },
+          {
+            "text": "Invoice",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 176,
+              "y": 359,
+              "width": 95,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 4
+          },
+          {
+            "text": "Date:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 284,
+              "y": 359,
+              "width": 69,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 4
+          },
+          {
+            "text": "2026-01-02",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 365,
+              "y": 358,
+              "width": 158,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 4
+          },
+          {
+            "text": "Due",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 176,
+              "y": 407,
+              "width": 54,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 5
+          },
+          {
+            "text": "Date:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 242,
+              "y": 407,
+              "width": 70,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 5
+          },
+          {
+            "text": "2026-02-01",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 324,
+              "y": 407,
+              "width": 153,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 5
+          },
+          {
+            "text": "PO",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 176,
+              "y": 456,
+              "width": 41,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 6
+          },
+          {
+            "text": "Number:",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 229,
+              "y": 456,
+              "width": 116,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 6
+          },
+          {
+            "text": "PO-00001",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 358,
+              "y": 456,
+              "width": 135,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 6
+          },
+          {
+            "text": "Tax",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 174,
+              "y": 505,
+              "width": 51,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 7
+          },
+          {
+            "text": "ID:",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 237,
+              "y": 505,
+              "width": 35,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 7
+          },
+          {
+            "text": "TAX00000082",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 284,
+              "y": 504,
+              "width": 197,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 7
+          },
+          {
+            "text": "Bank:",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 176,
+              "y": 554,
+              "width": 75,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 8
+          },
+          {
+            "text": "XXXX2167",
+            "confidence": 0.91,
+            "bbox": {
+              "x": 262,
+              "y": 553,
+              "width": 152,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 8
+          },
+          {
+            "text": "Currency:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 175,
+              "y": 602,
+              "width": 131,
+              "height": 30
+            },
+            "block_number": 1,
+            "line_number": 9
+          },
+          {
+            "text": "USD",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 320,
+              "y": 602,
+              "width": 62,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 9
+          },
+          {
+            "text": "Line",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 176,
+              "y": 648,
+              "width": 67,
+              "height": 25
+            },
+            "block_number": 1,
+            "line_number": 10
+          },
+          {
+            "text": "Items",
+            "confidence": 0.88,
+            "bbox": {
+              "x": 256,
+              "y": 648,
+              "width": 88,
+              "height": 25
+            },
+            "block_number": 1,
+            "line_number": 10
+          },
+          {
+            "text": "Item",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 193,
+              "y": 709,
+              "width": 50,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "1",
+            "confidence": 0.91,
+            "bbox": {
+              "x": 255,
+              "y": 709,
+              "width": 8,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "|",
+            "confidence": 0.91,
+            "bbox": {
+              "x": 278,
+              "y": 709,
+              "width": 3,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "Qty",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 292,
+              "y": 709,
+              "width": 41,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "2",
+            "confidence": 0.51,
+            "bbox": {
+              "x": 342,
+              "y": 709,
+              "width": 14,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "|",
+            "confidence": 0.51,
+            "bbox": {
+              "x": 367,
+              "y": 709,
+              "width": 3,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "Unit",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 382,
+              "y": 709,
+              "width": 47,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "134.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 440,
+              "y": 709,
+              "width": 81,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "|",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 532,
+              "y": 709,
+              "width": 2,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "Total",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 545,
+              "y": 709,
+              "width": 59,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "268.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 615,
+              "y": 709,
+              "width": 83,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 11
+          },
+          {
+            "text": "Item",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 193,
+              "y": 754,
+              "width": 50,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "2",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 253,
+              "y": 754,
+              "width": 14,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "|",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 278,
+              "y": 754,
+              "width": 3,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "Qty",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 292,
+              "y": 754,
+              "width": 41,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "2",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 342,
+              "y": 754,
+              "width": 14,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "|",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 367,
+              "y": 754,
+              "width": 3,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "Unit",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 382,
+              "y": 754,
+              "width": 47,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "397.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 438,
+              "y": 754,
+              "width": 83,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "|",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 532,
+              "y": 754,
+              "width": 2,
+              "height": 26
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "Total",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 545,
+              "y": 754,
+              "width": 59,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "794.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 615,
+              "y": 754,
+              "width": 83,
+              "height": 20
+            },
+            "block_number": 1,
+            "line_number": 12
+          },
+          {
+            "text": "Subtotal:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1636,
+              "y": 817,
+              "width": 132,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 13
+          },
+          {
+            "text": "1062.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1782,
+              "y": 817,
+              "width": 109,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 13
+          },
+          {
+            "text": "Discount:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1681,
+              "y": 862,
+              "width": 139,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 14
+          },
+          {
+            "text": "0.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1833,
+              "y": 863,
+              "width": 58,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 14
+          },
+          {
+            "text": "Shipping:",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 1680,
+              "y": 907,
+              "width": 140,
+              "height": 30
+            },
+            "block_number": 1,
+            "line_number": 15
+          },
+          {
+            "text": "0.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1833,
+              "y": 908,
+              "width": 58,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 15
+          },
+          {
+            "text": "Tax",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1641,
+              "y": 953,
+              "width": 53,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 16
+          },
+          {
+            "text": "Total:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1704,
+              "y": 953,
+              "width": 81,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 16
+          },
+          {
+            "text": "191.16",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1799,
+              "y": 952,
+              "width": 92,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 16
+          },
+          {
+            "text": "Previous",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1554,
+              "y": 997,
+              "width": 128,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 17
+          },
+          {
+            "text": "Balance:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1695,
+              "y": 997,
+              "width": 125,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 17
+          },
+          {
+            "text": "0.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1833,
+              "y": 998,
+              "width": 58,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 17
+          },
+          {
+            "text": "Credit",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1543,
+              "y": 1042,
+              "width": 88,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 18
+          },
+          {
+            "text": "Adjustment:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1640,
+              "y": 1043,
+              "width": 180,
+              "height": 29
+            },
+            "block_number": 1,
+            "line_number": 18
+          },
+          {
+            "text": "0.00",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1833,
+              "y": 1043,
+              "width": 58,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 18
+          },
+          {
+            "text": "Total:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1686,
+              "y": 1088,
+              "width": 82,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 19
+          },
+          {
+            "text": "1253.16",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1782,
+              "y": 1088,
+              "width": 109,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 19
+          },
+          {
+            "text": "Amount",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1574,
+              "y": 1134,
+              "width": 118,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 20
+          },
+          {
+            "text": "Due:",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1703,
+              "y": 1134,
+              "width": 65,
+              "height": 22
+            },
+            "block_number": 1,
+            "line_number": 20
+          },
+          {
+            "text": "1253.16",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 1782,
+              "y": 1133,
+              "width": 109,
+              "height": 23
+            },
+            "block_number": 1,
+            "line_number": 20
+          }
+        ]
+      }
+    ]
+  },
+  "extraction": {
+    "vendor_name": "COoke and Sons",
+    "vendor_address": "880 Walter River, New Nicholas, GA 24204",
+    "vendor_tax_id": "TAX00000082",
+    "vendor_bank_account": "XXXX2167",
+    "invoice_number": "COO-00001",
+    "invoice_date": "2026-01-02",
+    "due_date": "2026-02-01",
+    "purchase_order_number": "PO-00001",
+    "currency": "USD",
+    "subtotal": "1062",
+    "discount": "0",
+    "shipping": "0",
+    "tax_total": "191.16",
+    "previous_balance": "0",
+    "credit_adjustment": "0",
+    "total": "1253.16",
+    "amount_due": "1253.16",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": "2",
+        "unit_price": "134",
+        "tax_rate": null,
+        "line_total": "268"
+      },
+      {
+        "description": "Item 2",
+        "quantity": "2",
+        "unit_price": "397",
+        "tax_rate": null,
+        "line_total": "794"
+      }
+    ],
+    "warnings": []
+  },
+  "telemetry": [
+    {
+      "stage": "extraction",
+      "model": "gpt-4.1-mini",
+      "complexity_tier": "low",
+      "latency_seconds": 6.2216,
+      "input_tokens": 3223,
+      "output_tokens": 207,
+      "estimated_cost_usd": 0.0016204
+    }
+  ]
+}

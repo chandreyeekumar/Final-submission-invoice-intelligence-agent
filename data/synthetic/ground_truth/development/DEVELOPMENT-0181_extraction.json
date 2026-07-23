@@ -1,0 +1,36 @@
+{
+  "vendor_name": "H0ward and Sons",
+  "vendor_address": "40268 Julie Mountains, Stricklandhaven, OR 14794",
+  "vendor_tax_id": "TAX00000064",
+  "vendor_bank_account": "XXXX9295",
+  "invoice_number": "HOW1-00181",
+  "invoice_date": "2026-01-02",
+  "due_date": "2026-02-01",
+  "purchase_order_number": "PO-00181",
+  "currency": "USD",
+  "subtotal": 1428.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 257.04,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1685.04,
+  "amount_due": 1685.04,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "468",
+      "tax_rate": "0.18",
+      "line_total": "1404"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "24"
+    }
+  ],
+  "warnings": []
+}

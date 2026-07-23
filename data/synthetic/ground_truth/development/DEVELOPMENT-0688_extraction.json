@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Davis, Simmons and Ortega",
+  "vendor_address": "711 Christopher Court, Lisaside, AR 77370",
+  "vendor_tax_id": "TAX00000067",
+  "vendor_bank_account": "XXXX7787",
+  "invoice_number": "DAV-00688",
+  "invoice_date": "2026-05-29",
+  "due_date": "2026-06-28",
+  "purchase_order_number": "PO-00688",
+  "currency": "USD",
+  "subtotal": 1074.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 193.32,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1267.32,
+  "amount_due": 1267.32,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "246",
+      "tax_rate": "0.18",
+      "line_total": "246"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "414",
+      "tax_rate": "0.18",
+      "line_total": "828"
+    }
+  ],
+  "warnings": []
+}

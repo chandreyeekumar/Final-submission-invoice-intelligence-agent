@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Hernandez, Kim and Potts",
+  "vendor_address": "0606 Young Common Suite 305, Port Jennifermouth, WY 19643",
+  "vendor_tax_id": "TAX00000085",
+  "vendor_bank_account": "XXXX9999",
+  "invoice_number": "HER-00662",
+  "invoice_date": "2026-05-03",
+  "due_date": "2026-06-02",
+  "purchase_order_number": "PO-00662",
+  "currency": "INR",
+  "subtotal": 4219.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 759.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4978.42,
+  "amount_due": 4978.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "251",
+      "tax_rate": "0.18",
+      "line_total": "1255"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "394",
+      "tax_rate": "0.18",
+      "line_total": "1182"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "86",
+      "tax_rate": "0.18",
+      "line_total": "430"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "461",
+      "tax_rate": "0.18",
+      "line_total": "922"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "430",
+      "tax_rate": "0.18",
+      "line_total": "430"
+    }
+  ],
+  "warnings": []
+}

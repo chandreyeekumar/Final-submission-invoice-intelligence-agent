@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 914",
+  "vendor_address": "78755 Gibson Islands Apt. 396, Port Kimberly, AZ 42205",
+  "vendor_tax_id": "TAX00000049",
+  "vendor_bank_account": "XXXX7668",
+  "invoice_number": "BAR-00914",
+  "invoice_date": "2026-01-15",
+  "due_date": "2026-02-14",
+  "purchase_order_number": "PO-00914",
+  "currency": "INR",
+  "subtotal": 1123.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 202.14,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1325.14,
+  "amount_due": 1325.14,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "199",
+      "tax_rate": "0.18",
+      "line_total": "199"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "924"
+    }
+  ],
+  "warnings": []
+}

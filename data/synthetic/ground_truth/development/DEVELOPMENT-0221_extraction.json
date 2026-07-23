@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Keith-Sanchez",
+  "vendor_address": "0752 Lewis Union Suite 549, Angelahaven, ID 11722",
+  "vendor_tax_id": "TAX00000035",
+  "vendor_bank_account": "XXXX4386",
+  "invoice_number": "KEI-00221",
+  "invoice_date": "2026-02-11",
+  "due_date": "2026-03-13",
+  "purchase_order_number": "PO-00221",
+  "currency": "INR",
+  "subtotal": 3890.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 700.2,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4590.2,
+  "amount_due": 4590.2,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "249",
+      "tax_rate": "0.18",
+      "line_total": "996"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "304",
+      "tax_rate": "0.18",
+      "line_total": "1520"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "228",
+      "tax_rate": "0.18",
+      "line_total": "1140"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "33",
+      "tax_rate": "0.18",
+      "line_total": "33"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "201",
+      "tax_rate": "0.18",
+      "line_total": "201"
+    }
+  ],
+  "warnings": []
+}

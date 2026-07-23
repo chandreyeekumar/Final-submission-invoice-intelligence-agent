@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Hayes-Wheeler",
+  "vendor_address": "4713 French Road, South Danny, IN 85387",
+  "vendor_tax_id": "TAX00000042",
+  "vendor_bank_account": "XXXX9577",
+  "invoice_number": "HAY-00935",
+  "invoice_date": "2026-02-05",
+  "due_date": "2026-03-07",
+  "purchase_order_number": "PO-00935",
+  "currency": "INR",
+  "subtotal": 514.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 92.52,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 606.52,
+  "amount_due": 606.52,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "165",
+      "tax_rate": "0.18",
+      "line_total": "165"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "349",
+      "tax_rate": "0.18",
+      "line_total": "349"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Jacobs-Mason",
+  "vendor_address": "USCGC Garcia, FPO AA 94127",
+  "vendor_tax_id": "TAX00000078",
+  "vendor_bank_account": "XXXX0964",
+  "invoice_number": "JAC-00390",
+  "invoice_date": "2026-01-31",
+  "due_date": "2026-03-02",
+  "purchase_order_number": "PO-00390",
+  "currency": "USD",
+  "subtotal": 5644.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1015.92,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 6659.92,
+  "amount_due": 6659.92,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "232",
+      "tax_rate": "0.18",
+      "line_total": "464"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "388",
+      "tax_rate": "0.18",
+      "line_total": "1164"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "266",
+      "tax_rate": "0.18",
+      "line_total": "266"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "265",
+      "tax_rate": "0.18",
+      "line_total": "1060"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "322",
+      "tax_rate": "0.18",
+      "line_total": "644"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "351",
+      "tax_rate": "0.18",
+      "line_total": "702"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "31",
+      "tax_rate": "0.18",
+      "line_total": "124"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "42",
+      "tax_rate": "0.18",
+      "line_total": "84"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "313",
+      "tax_rate": "0.18",
+      "line_total": "626"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "102",
+      "tax_rate": "0.18",
+      "line_total": "510"
+    }
+  ],
+  "warnings": []
+}

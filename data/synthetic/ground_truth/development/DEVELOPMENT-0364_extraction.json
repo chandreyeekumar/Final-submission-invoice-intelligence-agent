@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Hanc0ck-Bryan",
+  "vendor_address": "0385 Garrett Trace Apt. 348, West Samuel, UT 64033",
+  "vendor_tax_id": "TAX00000046",
+  "vendor_bank_account": "XXXX2504",
+  "invoice_number": "HAN-00364",
+  "invoice_date": "2026-01-05",
+  "due_date": "2026-02-04",
+  "purchase_order_number": "PO-00364",
+  "currency": "USD",
+  "subtotal": 1232.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 221.76,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1453.76,
+  "amount_due": 1453.76,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "132",
+      "tax_rate": "0.18",
+      "line_total": "660"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "286",
+      "tax_rate": "0.18",
+      "line_total": "572"
+    }
+  ],
+  "warnings": []
+}

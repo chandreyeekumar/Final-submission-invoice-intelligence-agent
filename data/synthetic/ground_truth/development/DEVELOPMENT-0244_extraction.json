@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Mitchell-H0rton",
+  "vendor_address": "34309 Julie Centers Apt. 978, North Susan, CO 24857",
+  "vendor_tax_id": "TAX00000014",
+  "vendor_bank_account": "XXXX1674",
+  "invoice_number": "MIT-00244",
+  "invoice_date": "2026-03-06",
+  "due_date": "2026-04-05",
+  "purchase_order_number": "PO-00244",
+  "currency": "USD",
+  "subtotal": 594.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 106.92,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 700.92,
+  "amount_due": 700.92,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "172",
+      "tax_rate": "0.18",
+      "line_total": "344"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "250",
+      "tax_rate": "0.18",
+      "line_total": "250"
+    }
+  ],
+  "warnings": []
+}

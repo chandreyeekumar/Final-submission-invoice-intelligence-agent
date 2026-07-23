@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Vaughn, Marquez and Ross",
+  "vendor_address": "8713 Caleb Brooks Apt. 930, Lake Crystalbury, CA 04618",
+  "vendor_tax_id": "TAX00000010",
+  "vendor_bank_account": "XXXX7359",
+  "invoice_number": "VAU-00544",
+  "invoice_date": "2026-01-05",
+  "due_date": "2026-02-04",
+  "purchase_order_number": "PO-00544",
+  "currency": "INR",
+  "subtotal": 912.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 164.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1076.16,
+  "amount_due": 1076.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "190",
+      "tax_rate": "0.18",
+      "line_total": "760"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "152",
+      "tax_rate": "0.18",
+      "line_total": "152"
+    }
+  ],
+  "warnings": []
+}

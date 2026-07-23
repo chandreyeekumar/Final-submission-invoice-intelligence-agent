@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Kerr and S0ns",
+  "vendor_address": "9947 Taylor Hollow, Benderhaven, ND 65223",
+  "vendor_tax_id": "TAX00000043",
+  "vendor_bank_account": "XXXX6543",
+  "invoice_number": "KER-00758",
+  "invoice_date": "2026-02-08",
+  "due_date": "2026-03-10",
+  "purchase_order_number": "PO-00758",
+  "currency": "INR",
+  "subtotal": 2425.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 436.5,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2861.5,
+  "amount_due": 2861.5,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "313",
+      "tax_rate": "0.18",
+      "line_total": "1565"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "215",
+      "tax_rate": "0.18",
+      "line_total": "860"
+    }
+  ],
+  "warnings": []
+}

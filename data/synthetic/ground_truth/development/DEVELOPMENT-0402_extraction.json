@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Nels0n, Rodriguez and Yang",
+  "vendor_address": "833 Craig Isle, Garciaberg, AL 72636",
+  "vendor_tax_id": "TAX00000111",
+  "vendor_bank_account": "XXXX1312",
+  "invoice_number": "NEL-00402",
+  "invoice_date": "2026-02-12",
+  "due_date": "2026-03-14",
+  "purchase_order_number": "PO-00402",
+  "currency": "USD",
+  "subtotal": 9384.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1689.12,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11073.12,
+  "amount_due": 11073.12,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "420",
+      "tax_rate": "0.18",
+      "line_total": "1680"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "71",
+      "tax_rate": "0.18",
+      "line_total": "142"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "280",
+      "tax_rate": "0.18",
+      "line_total": "560"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "422",
+      "tax_rate": "0.18",
+      "line_total": "1688"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "430",
+      "tax_rate": "0.18",
+      "line_total": "1290"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "334",
+      "tax_rate": "0.18",
+      "line_total": "1670"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "102",
+      "tax_rate": "0.18",
+      "line_total": "102"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "345",
+      "tax_rate": "0.18",
+      "line_total": "1380"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "431",
+      "tax_rate": "0.18",
+      "line_total": "431"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "441",
+      "tax_rate": "0.18",
+      "line_total": "441"
+    }
+  ],
+  "warnings": []
+}

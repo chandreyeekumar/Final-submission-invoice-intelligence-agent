@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Mccullough, Hunter and Estrada",
+  "vendor_address": "236 Byrd Extensions Suite 680, Justinchester, WY 76520",
+  "vendor_tax_id": "TAX00000024",
+  "vendor_bank_account": "XXXX4554",
+  "invoice_number": "MCC-00303",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-06-03",
+  "purchase_order_number": "PO-00303",
+  "currency": "USD",
+  "subtotal": 7741.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1393.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9134.38,
+  "amount_due": 9134.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "154",
+      "tax_rate": "0.18",
+      "line_total": "616"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "448",
+      "tax_rate": "0.18",
+      "line_total": "896"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "308",
+      "tax_rate": "0.18",
+      "line_total": "924"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "97",
+      "tax_rate": "0.18",
+      "line_total": "97"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "63",
+      "tax_rate": "0.18",
+      "line_total": "63"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "433",
+      "tax_rate": "0.18",
+      "line_total": "1299"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "231",
+      "tax_rate": "0.18",
+      "line_total": "1155"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "136",
+      "tax_rate": "0.18",
+      "line_total": "680"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "51",
+      "tax_rate": "0.18",
+      "line_total": "255"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "439",
+      "tax_rate": "0.18",
+      "line_total": "1756"
+    }
+  ],
+  "warnings": []
+}

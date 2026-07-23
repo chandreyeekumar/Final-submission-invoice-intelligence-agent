@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Clark-Wright",
+  "vendor_address": "232 Nicole Burg Apt. 563, Erikville, MS 05576",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX5925",
+  "invoice_number": "CLA-00657",
+  "invoice_date": "2026-04-28",
+  "due_date": "2026-05-28",
+  "purchase_order_number": "PO-00657",
+  "currency": "EUR",
+  "subtotal": 4385.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 789.3,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5174.3,
+  "amount_due": 5174.3,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "47",
+      "tax_rate": "0.18",
+      "line_total": "188"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "96",
+      "tax_rate": "0.18",
+      "line_total": "192"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "137",
+      "tax_rate": "0.18",
+      "line_total": "137"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "38",
+      "tax_rate": "0.18",
+      "line_total": "76"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "153",
+      "tax_rate": "0.18",
+      "line_total": "612"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "381",
+      "tax_rate": "0.18",
+      "line_total": "762"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "243",
+      "tax_rate": "0.18",
+      "line_total": "972"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "478",
+      "tax_rate": "0.18",
+      "line_total": "478"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "40",
+      "tax_rate": "0.18",
+      "line_total": "160"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "202",
+      "tax_rate": "0.18",
+      "line_total": "808"
+    }
+  ],
+  "warnings": []
+}

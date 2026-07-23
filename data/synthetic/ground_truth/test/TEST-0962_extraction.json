@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Willis and S0ns",
+  "vendor_address": "042 Amber Union, North Donna, AK 17776",
+  "vendor_tax_id": "TAX00000063",
+  "vendor_bank_account": "XXXX3923",
+  "invoice_number": "WIL1-00962",
+  "invoice_date": "2026-03-04",
+  "due_date": "2026-04-03",
+  "purchase_order_number": "PO-00962",
+  "currency": "INR",
+  "subtotal": 383.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 68.94,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 451.94,
+  "amount_due": 451.94,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "252",
+      "tax_rate": "0.18",
+      "line_total": "252"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "131",
+      "tax_rate": "0.18",
+      "line_total": "131"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Barber-Monroe",
+  "vendor_address": "78755 Gibson Islands Apt. 396, Port Kimberly, AZ 42205",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX7668",
+  "invoice_number": "BAR-00712",
+  "invoice_date": "2026-06-22",
+  "due_date": "2026-07-22",
+  "purchase_order_number": "PO-00712",
+  "currency": "INR",
+  "subtotal": 7950.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1431.0,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 9381.0,
+  "amount_due": 9381.0,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "123",
+      "tax_rate": "0.18",
+      "line_total": "123"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "405",
+      "tax_rate": "0.18",
+      "line_total": "810"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "320",
+      "tax_rate": "0.18",
+      "line_total": "1600"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "272",
+      "tax_rate": "0.18",
+      "line_total": "544"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "405",
+      "tax_rate": "0.18",
+      "line_total": "2025"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "217",
+      "tax_rate": "0.18",
+      "line_total": "1085"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "157",
+      "tax_rate": "0.18",
+      "line_total": "157"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "182",
+      "tax_rate": "0.18",
+      "line_total": "182"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "303",
+      "tax_rate": "0.18",
+      "line_total": "1212"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "53",
+      "tax_rate": "0.18",
+      "line_total": "212"
+    }
+  ],
+  "warnings": []
+}

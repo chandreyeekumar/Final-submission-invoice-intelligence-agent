@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 137",
+  "vendor_address": "8350 Lydia Valley Suite 641, New Nancy, MD 28370",
+  "vendor_tax_id": "TAX00000005",
+  "vendor_bank_account": "XXXX6912",
+  "invoice_number": "FER-00137",
+  "invoice_date": "2026-05-18",
+  "due_date": "2026-06-17",
+  "purchase_order_number": "PO-00137",
+  "currency": "USD",
+  "subtotal": 2341.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 421.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2762.38,
+  "amount_due": 2762.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "408",
+      "tax_rate": "0.18",
+      "line_total": "816"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "249",
+      "tax_rate": "0.18",
+      "line_total": "996"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "22",
+      "tax_rate": "0.18",
+      "line_total": "110"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "29",
+      "tax_rate": "0.18",
+      "line_total": "29"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "130",
+      "tax_rate": "0.18",
+      "line_total": "390"
+    }
+  ],
+  "warnings": []
+}

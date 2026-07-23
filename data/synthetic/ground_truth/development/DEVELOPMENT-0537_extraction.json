@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 537",
+  "vendor_address": "3794 Young Garden Suite 735, Murrayport, WI 50553",
+  "vendor_tax_id": "TAX00000083",
+  "vendor_bank_account": "XXXX9440",
+  "invoice_number": "WIS-00537",
+  "invoice_date": "2026-06-27",
+  "due_date": "2026-07-27",
+  "purchase_order_number": "PO-00537",
+  "currency": "EUR",
+  "subtotal": 9235.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1662.3,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10897.3,
+  "amount_due": 10897.3,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "105",
+      "tax_rate": "0.18",
+      "line_total": "105"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "224",
+      "tax_rate": "0.18",
+      "line_total": "896"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "174",
+      "tax_rate": "0.18",
+      "line_total": "696"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "402",
+      "tax_rate": "0.18",
+      "line_total": "1608"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "139",
+      "tax_rate": "0.18",
+      "line_total": "695"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "369",
+      "tax_rate": "0.18",
+      "line_total": "1476"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "262",
+      "tax_rate": "0.18",
+      "line_total": "1048"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "94",
+      "tax_rate": "0.18",
+      "line_total": "282"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "465",
+      "tax_rate": "0.18",
+      "line_total": "2325"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "26",
+      "tax_rate": "0.18",
+      "line_total": "104"
+    }
+  ],
+  "warnings": []
+}

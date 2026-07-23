@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 343",
+  "vendor_address": "133 Guerrero Estate, East Andrea, GA 00851",
+  "vendor_tax_id": "TAX00000041",
+  "vendor_bank_account": "XXXX8830",
+  "invoice_number": "DAL-00343",
+  "invoice_date": "2026-06-13",
+  "due_date": "2026-07-13",
+  "purchase_order_number": "PO-00343",
+  "currency": "EUR",
+  "subtotal": 4010.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 721.8,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4731.8,
+  "amount_due": 4731.8,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "412",
+      "tax_rate": "0.18",
+      "line_total": "2060"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "390",
+      "tax_rate": "0.18",
+      "line_total": "1950"
+    }
+  ],
+  "warnings": []
+}

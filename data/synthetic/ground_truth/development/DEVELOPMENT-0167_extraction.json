@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Fl0res, Long and Jensen",
+  "vendor_address": "887 Wells Brook Suite 516, Lauratown, PA 62706",
+  "vendor_tax_id": "TAX00000106",
+  "vendor_bank_account": "XXXX9489",
+  "invoice_number": "FLO-00167",
+  "invoice_date": "2026-06-17",
+  "due_date": "2026-07-17",
+  "purchase_order_number": "PO-00167",
+  "currency": "USD",
+  "subtotal": 3717.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 669.06,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4386.06,
+  "amount_due": 4386.06,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "85",
+      "tax_rate": "0.18",
+      "line_total": "85"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "221",
+      "tax_rate": "0.18",
+      "line_total": "221"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "426",
+      "tax_rate": "0.18",
+      "line_total": "1278"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "915"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "406",
+      "tax_rate": "0.18",
+      "line_total": "1218"
+    }
+  ],
+  "warnings": []
+}

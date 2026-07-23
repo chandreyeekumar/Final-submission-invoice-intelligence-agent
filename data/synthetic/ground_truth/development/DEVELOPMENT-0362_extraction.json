@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Johnson, Small and Gardner",
+  "vendor_address": "3647 Haley Estate Suite 677, West Catherine, MD 94658",
+  "vendor_tax_id": "TAX00000100",
+  "vendor_bank_account": "XXXX6209",
+  "invoice_number": "JOH2-00362",
+  "invoice_date": "2026-01-03",
+  "due_date": "2026-02-02",
+  "purchase_order_number": "PO-00362",
+  "currency": "USD",
+  "subtotal": 1912.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 344.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2256.16,
+  "amount_due": 2256.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "440"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "115",
+      "tax_rate": "0.18",
+      "line_total": "115"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "396",
+      "tax_rate": "0.18",
+      "line_total": "792"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "81",
+      "tax_rate": "0.18",
+      "line_total": "405"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "40",
+      "tax_rate": "0.18",
+      "line_total": "160"
+    }
+  ],
+  "warnings": []
+}

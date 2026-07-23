@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Stephens-Levine",
+  "vendor_address": "3171 Darlene Ranch Apt. 053, Port Anne, CA 73142",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX1832",
+  "invoice_number": "STE-00203",
+  "invoice_date": "2026-01-24",
+  "due_date": "2026-02-23",
+  "purchase_order_number": "PO-00203",
+  "currency": "INR",
+  "subtotal": 4735.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 852.3,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5587.3,
+  "amount_due": 5587.3,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "485",
+      "tax_rate": "0.18",
+      "line_total": "1455"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "128",
+      "tax_rate": "0.18",
+      "line_total": "128"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "399",
+      "tax_rate": "0.18",
+      "line_total": "798"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "402",
+      "tax_rate": "0.18",
+      "line_total": "402"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "488",
+      "tax_rate": "0.18",
+      "line_total": "1952"
+    }
+  ],
+  "warnings": []
+}

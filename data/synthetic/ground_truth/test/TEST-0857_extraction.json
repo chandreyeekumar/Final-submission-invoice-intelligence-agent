@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Porter, Wilkerson and Day",
+  "vendor_address": "88496 Cox Dam, Daviston, VI 14872",
+  "vendor_tax_id": "WRONG-TAX-ID",
+  "vendor_bank_account": "XXXX1535",
+  "invoice_number": "POR-00857",
+  "invoice_date": "2026-05-18",
+  "due_date": "2026-06-17",
+  "purchase_order_number": "PO-00857",
+  "currency": "USD",
+  "subtotal": 2208.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 397.44,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2605.44,
+  "amount_due": 2605.44,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "118",
+      "tax_rate": "0.18",
+      "line_total": "236"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "493",
+      "tax_rate": "0.18",
+      "line_total": "1972"
+    }
+  ],
+  "warnings": []
+}

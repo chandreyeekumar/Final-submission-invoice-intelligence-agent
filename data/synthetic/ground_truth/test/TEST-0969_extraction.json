@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Shaw and S0ns",
+  "vendor_address": "99590 Christopher Row, Debrashire, MT 81517",
+  "vendor_tax_id": "TAX00000099",
+  "vendor_bank_account": "XXXX6570",
+  "invoice_number": "SHA-00969",
+  "invoice_date": "2026-03-11",
+  "due_date": "2026-04-10",
+  "purchase_order_number": "PO-00969",
+  "currency": "INR",
+  "subtotal": 6049.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1088.82,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7137.82,
+  "amount_due": 7137.82,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "484",
+      "tax_rate": "0.18",
+      "line_total": "2420"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "422",
+      "tax_rate": "0.18",
+      "line_total": "1266"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "317",
+      "tax_rate": "0.18",
+      "line_total": "634"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "211",
+      "tax_rate": "0.18",
+      "line_total": "1055"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "337",
+      "tax_rate": "0.18",
+      "line_total": "674"
+    }
+  ],
+  "warnings": []
+}

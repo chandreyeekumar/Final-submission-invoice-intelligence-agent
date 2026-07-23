@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 558",
+  "vendor_address": "740 Cynthia Village Suite 005, Lake Tina, GA 97655",
+  "vendor_tax_id": "TAX00000018",
+  "vendor_bank_account": "XXXX6201",
+  "invoice_number": "MOO-00558",
+  "invoice_date": "2026-01-19",
+  "due_date": "2026-02-18",
+  "purchase_order_number": "PO-00558",
+  "currency": "EUR",
+  "subtotal": 7567.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1362.06,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8929.06,
+  "amount_due": 8929.06,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "212",
+      "tax_rate": "0.18",
+      "line_total": "1060"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "28",
+      "tax_rate": "0.18",
+      "line_total": "56"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "61",
+      "tax_rate": "0.18",
+      "line_total": "244"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "23",
+      "tax_rate": "0.18",
+      "line_total": "23"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "494",
+      "tax_rate": "0.18",
+      "line_total": "988"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "381",
+      "tax_rate": "0.18",
+      "line_total": "381"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "474",
+      "tax_rate": "0.18",
+      "line_total": "2370"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "233",
+      "tax_rate": "0.18",
+      "line_total": "699"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "374",
+      "tax_rate": "0.18",
+      "line_total": "1496"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "125",
+      "tax_rate": "0.18",
+      "line_total": "250"
+    }
+  ],
+  "warnings": []
+}

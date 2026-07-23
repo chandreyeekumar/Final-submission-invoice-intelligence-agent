@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Hernandez, Kim and Potts",
+  "vendor_address": "0606 Young Common Suite 305, Port Jennifermouth, WY 19643",
+  "vendor_tax_id": "TAX00000085",
+  "vendor_bank_account": "XXXX1545",
+  "invoice_number": "HER-00492",
+  "invoice_date": "2026-05-13",
+  "due_date": "2026-06-12",
+  "purchase_order_number": "PO-00492",
+  "currency": "INR",
+  "subtotal": 6842.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1231.56,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8073.56,
+  "amount_due": 8073.56,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "327",
+      "tax_rate": "0.18",
+      "line_total": "327"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "23",
+      "tax_rate": "0.18",
+      "line_total": "115"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "942"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "162",
+      "tax_rate": "0.18",
+      "line_total": "810"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "341",
+      "tax_rate": "0.18",
+      "line_total": "1705"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "439",
+      "tax_rate": "0.18",
+      "line_total": "2195"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "45",
+      "tax_rate": "0.18",
+      "line_total": "90"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "95",
+      "tax_rate": "0.18",
+      "line_total": "190"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "354",
+      "tax_rate": "0.18",
+      "line_total": "354"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "38",
+      "tax_rate": "0.18",
+      "line_total": "114"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Sandoval, Jones and Figueroa",
+  "vendor_address": "Unit 1836 Box 6752, DPO AA 41347",
+  "vendor_tax_id": "TAX00000070",
+  "vendor_bank_account": "XXXX3295",
+  "invoice_number": "SAN-00477",
+  "invoice_date": "2026-04-28",
+  "due_date": "2026-05-28",
+  "purchase_order_number": "PO-00477",
+  "currency": "USD",
+  "subtotal": 10486.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1887.48,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 12373.48,
+  "amount_due": 12373.48,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "178",
+      "tax_rate": "0.18",
+      "line_total": "356"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "485",
+      "tax_rate": "0.18",
+      "line_total": "2425"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "240",
+      "tax_rate": "0.18",
+      "line_total": "480"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "355",
+      "tax_rate": "0.18",
+      "line_total": "710"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "489",
+      "tax_rate": "0.18",
+      "line_total": "2445"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "182",
+      "tax_rate": "0.18",
+      "line_total": "364"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "305"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "388",
+      "tax_rate": "0.18",
+      "line_total": "1940"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "114",
+      "tax_rate": "0.18",
+      "line_total": "114"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "449",
+      "tax_rate": "0.18",
+      "line_total": "1347"
+    }
+  ],
+  "warnings": []
+}

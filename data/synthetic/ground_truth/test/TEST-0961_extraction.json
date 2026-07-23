@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Harris-Moody",
+  "vendor_address": "8687 Johnson Rue Apt. 450, Joshuastad, NE 52932",
+  "vendor_tax_id": "TAX00000090",
+  "vendor_bank_account": "XXXX5559",
+  "invoice_number": "HAR-00961",
+  "invoice_date": "2026-03-03",
+  "due_date": "2026-04-02",
+  "purchase_order_number": "PO-00961",
+  "currency": "USD",
+  "subtotal": 9706.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1747.08,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11453.08,
+  "amount_due": 11453.08,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "427",
+      "tax_rate": "0.18",
+      "line_total": "1708"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "310",
+      "tax_rate": "0.18",
+      "line_total": "1240"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "167",
+      "tax_rate": "0.18",
+      "line_total": "501"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "24",
+      "tax_rate": "0.18",
+      "line_total": "24"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "494",
+      "tax_rate": "0.18",
+      "line_total": "1976"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "258",
+      "tax_rate": "0.18",
+      "line_total": "516"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "287",
+      "tax_rate": "0.18",
+      "line_total": "574"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "339",
+      "tax_rate": "0.18",
+      "line_total": "1017"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "360",
+      "tax_rate": "0.18",
+      "line_total": "1800"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "175",
+      "tax_rate": "0.18",
+      "line_total": "350"
+    }
+  ],
+  "warnings": []
+}

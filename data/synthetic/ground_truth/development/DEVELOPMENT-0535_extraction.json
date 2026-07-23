@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Ferguson and Sons",
+  "vendor_address": "8350 Lydia Valley Suite 641, New Nancy, MD 28370",
+  "vendor_tax_id": "TAX00000005",
+  "vendor_bank_account": "XXXX6912",
+  "invoice_number": "FER-00535",
+  "invoice_date": "2026-06-25",
+  "due_date": "2026-07-25",
+  "purchase_order_number": "PO-00535",
+  "currency": "USD",
+  "subtotal": 1544.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 277.92,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1821.92,
+  "amount_due": 1821.92,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "324",
+      "tax_rate": "0.18",
+      "line_total": "648"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "448",
+      "tax_rate": "0.18",
+      "line_total": "896"
+    }
+  ],
+  "warnings": []
+}

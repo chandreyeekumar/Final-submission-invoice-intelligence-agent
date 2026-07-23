@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Key-Higgins",
+  "vendor_address": "125 Shannon Springs Suite 289, Port Tammy, NE 66412",
+  "vendor_tax_id": "TAX00000097",
+  "vendor_bank_account": "XXXX3872",
+  "invoice_number": "KEY-00530",
+  "invoice_date": "2026-06-20",
+  "due_date": "2026-07-20",
+  "purchase_order_number": "PO-00530",
+  "currency": "USD",
+  "subtotal": 3644.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 655.92,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4299.92,
+  "amount_due": 4299.92,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "287",
+      "tax_rate": "0.18",
+      "line_total": "287"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "65",
+      "tax_rate": "0.18",
+      "line_total": "325"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "261",
+      "tax_rate": "0.18",
+      "line_total": "522"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "370",
+      "tax_rate": "0.18",
+      "line_total": "370"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "428",
+      "tax_rate": "0.18",
+      "line_total": "2140"
+    }
+  ],
+  "warnings": []
+}

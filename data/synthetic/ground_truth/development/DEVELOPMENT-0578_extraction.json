@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 578",
+  "vendor_address": "8416 Ryan View Apt. 845, North Markport, ME 58948",
+  "vendor_tax_id": "TAX00000091",
+  "vendor_bank_account": "XXXX3139",
+  "invoice_number": "GON-00578",
+  "invoice_date": "2026-02-08",
+  "due_date": "2026-03-10",
+  "purchase_order_number": "PO-00578",
+  "currency": "USD",
+  "subtotal": 2385.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 429.3,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2814.3,
+  "amount_due": 2814.3,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "251",
+      "tax_rate": "0.18",
+      "line_total": "753"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "208",
+      "tax_rate": "0.18",
+      "line_total": "1040"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "116",
+      "tax_rate": "0.18",
+      "line_total": "116"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "64",
+      "tax_rate": "0.18",
+      "line_total": "256"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "220",
+      "tax_rate": "0.18",
+      "line_total": "220"
+    }
+  ],
+  "warnings": []
+}

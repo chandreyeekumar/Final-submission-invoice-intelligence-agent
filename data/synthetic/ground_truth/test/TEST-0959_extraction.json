@@ -1,0 +1,36 @@
+{
+  "vendor_name": "French-Lopez",
+  "vendor_address": "04991 Mitchell Row Suite 287, Jamesville, MA 21799",
+  "vendor_tax_id": "TAX00000113",
+  "vendor_bank_account": "XXXX3853",
+  "invoice_number": "FRE-00959",
+  "invoice_date": "2026-03-01",
+  "due_date": "2026-03-31",
+  "purchase_order_number": "PO-00959",
+  "currency": "USD",
+  "subtotal": 2417.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 435.06,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2852.06,
+  "amount_due": 2852.06,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "468",
+      "tax_rate": "0.18",
+      "line_total": "1872"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "109",
+      "tax_rate": "0.18",
+      "line_total": "545"
+    }
+  ],
+  "warnings": []
+}

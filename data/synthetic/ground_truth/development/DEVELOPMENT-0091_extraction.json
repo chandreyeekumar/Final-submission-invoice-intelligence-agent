@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 91",
+  "vendor_address": "USCGC Garcia, FPO AA 94127",
+  "vendor_tax_id": "TAX00000078",
+  "vendor_bank_account": "XXXX0964",
+  "invoice_number": "JAC-00091",
+  "invoice_date": "2026-04-02",
+  "due_date": "2026-05-02",
+  "purchase_order_number": "PO-00091",
+  "currency": "USD",
+  "subtotal": 1911.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 343.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2254.98,
+  "amount_due": 2254.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "417",
+      "tax_rate": "0.18",
+      "line_total": "1251"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "660"
+    }
+  ],
+  "warnings": []
+}

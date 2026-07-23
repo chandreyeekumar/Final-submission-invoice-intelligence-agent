@@ -1,0 +1,36 @@
+{
+  "vendor_name": "C0oke and Sons",
+  "vendor_address": "880 Walter River, New Nicholas, GA 24204",
+  "vendor_tax_id": "TAX00000082",
+  "vendor_bank_account": "XXXX2167",
+  "invoice_number": "COO-00001",
+  "invoice_date": "2026-01-02",
+  "due_date": "2026-02-01",
+  "purchase_order_number": "PO-00001",
+  "currency": "USD",
+  "subtotal": 1062.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 191.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1253.16,
+  "amount_due": 1253.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "134",
+      "tax_rate": "0.18",
+      "line_total": "268"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "397",
+      "tax_rate": "0.18",
+      "line_total": "794"
+    }
+  ],
+  "warnings": []
+}

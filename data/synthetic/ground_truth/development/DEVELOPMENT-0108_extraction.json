@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Clark-Wright",
+  "vendor_address": "232 Nicole Burg Apt. 563, Erikville, MS 05576",
+  "vendor_tax_id": "TAX00000020",
+  "vendor_bank_account": "XXXX5925",
+  "invoice_number": "CLA-00108",
+  "invoice_date": "2026-04-19",
+  "due_date": "2026-05-19",
+  "purchase_order_number": "PO-00108",
+  "currency": "EUR",
+  "subtotal": 7276.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1309.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8585.68,
+  "amount_due": 8585.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "445",
+      "tax_rate": "0.18",
+      "line_total": "445"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "67",
+      "tax_rate": "0.18",
+      "line_total": "67"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "69",
+      "tax_rate": "0.18",
+      "line_total": "276"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "435",
+      "tax_rate": "0.18",
+      "line_total": "1305"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "304",
+      "tax_rate": "0.18",
+      "line_total": "608"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "320",
+      "tax_rate": "0.18",
+      "line_total": "320"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "307",
+      "tax_rate": "0.18",
+      "line_total": "1535"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "363",
+      "tax_rate": "0.18",
+      "line_total": "1089"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "230",
+      "tax_rate": "0.18",
+      "line_total": "230"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "467",
+      "tax_rate": "0.18",
+      "line_total": "1401"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 889",
+  "vendor_address": "78755 Gibson Islands Apt. 396, Port Kimberly, AZ 42205",
+  "vendor_tax_id": "TAX00000049",
+  "vendor_bank_account": "XXXX7668",
+  "invoice_number": "BAR-00889",
+  "invoice_date": "2026-06-19",
+  "due_date": "2026-07-19",
+  "purchase_order_number": "PO-00889",
+  "currency": "INR",
+  "subtotal": 3878.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 698.04,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 4576.04,
+  "amount_due": 4576.04,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "119",
+      "tax_rate": "0.18",
+      "line_total": "476"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "75",
+      "tax_rate": "0.18",
+      "line_total": "225"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "59",
+      "tax_rate": "0.18",
+      "line_total": "59"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "328",
+      "tax_rate": "0.18",
+      "line_total": "984"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "34",
+      "tax_rate": "0.18",
+      "line_total": "102"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "164",
+      "tax_rate": "0.18",
+      "line_total": "328"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "297",
+      "tax_rate": "0.18",
+      "line_total": "594"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "53",
+      "tax_rate": "0.18",
+      "line_total": "53"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "325",
+      "tax_rate": "0.18",
+      "line_total": "650"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "1",
+      "unit_price": "407",
+      "tax_rate": "0.18",
+      "line_total": "407"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Arnold-Patterson",
+  "vendor_address": "280 Aguilar Drive, Andersonport, MN 05730",
+  "vendor_tax_id": "TAX00000019",
+  "vendor_bank_account": "XXXX4803",
+  "invoice_number": "ARN-00168",
+  "invoice_date": "2026-06-18",
+  "due_date": "2026-07-18",
+  "purchase_order_number": "PO-00168",
+  "currency": "USD",
+  "subtotal": 9069.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1632.42,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 10701.42,
+  "amount_due": 10701.42,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "40",
+      "tax_rate": "0.18",
+      "line_total": "200"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "39",
+      "tax_rate": "0.18",
+      "line_total": "39"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "385",
+      "tax_rate": "0.18",
+      "line_total": "770"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "431",
+      "tax_rate": "0.18",
+      "line_total": "1293"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "285",
+      "tax_rate": "0.18",
+      "line_total": "1140"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "96",
+      "tax_rate": "0.18",
+      "line_total": "384"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "477",
+      "tax_rate": "0.18",
+      "line_total": "2385"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "91",
+      "tax_rate": "0.18",
+      "line_total": "455"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "496",
+      "tax_rate": "0.18",
+      "line_total": "1488"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "183",
+      "tax_rate": "0.18",
+      "line_total": "915"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Henderson-Owens",
+  "vendor_address": "65133 Amanda Dam, Whitemouth, IA 10381",
+  "vendor_tax_id": "TAX00000012",
+  "vendor_bank_account": "XXXX6924",
+  "invoice_number": "HEN-00784",
+  "invoice_date": "2026-03-06",
+  "due_date": "2026-04-05",
+  "purchase_order_number": "PO-00784",
+  "currency": "USD",
+  "subtotal": 6846.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1232.28,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8078.28,
+  "amount_due": 8078.28,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "140",
+      "tax_rate": "0.18",
+      "line_total": "280"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "60",
+      "tax_rate": "0.18",
+      "line_total": "300"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "391",
+      "tax_rate": "0.18",
+      "line_total": "1564"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "179",
+      "tax_rate": "0.18",
+      "line_total": "716"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "778"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "145",
+      "tax_rate": "0.18",
+      "line_total": "290"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "110",
+      "tax_rate": "0.18",
+      "line_total": "440"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "147",
+      "tax_rate": "0.18",
+      "line_total": "735"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "166",
+      "tax_rate": "0.18",
+      "line_total": "498"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "249",
+      "tax_rate": "0.18",
+      "line_total": "1245"
+    }
+  ],
+  "warnings": []
+}

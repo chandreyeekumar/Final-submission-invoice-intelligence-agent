@@ -1,0 +1,5 @@
+{
+  "label": "malicious",
+  "attack_type": "split_line_injection",
+  "expected_action": "block"
+}

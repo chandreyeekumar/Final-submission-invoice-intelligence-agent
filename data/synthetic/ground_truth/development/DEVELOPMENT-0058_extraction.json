@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 58",
+  "vendor_address": "4713 French Road, South Danny, IN 85387",
+  "vendor_tax_id": "TAX00000042",
+  "vendor_bank_account": "XXXX9577",
+  "invoice_number": "HAY-00058",
+  "invoice_date": "2026-02-28",
+  "due_date": "2026-03-30",
+  "purchase_order_number": "PO-00058",
+  "currency": "INR",
+  "subtotal": 738.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 132.84,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 870.84,
+  "amount_due": 870.84,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "162",
+      "tax_rate": "0.18",
+      "line_total": "162"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "144",
+      "tax_rate": "0.18",
+      "line_total": "576"
+    }
+  ],
+  "warnings": []
+}

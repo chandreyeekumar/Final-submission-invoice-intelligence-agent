@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 568",
+  "vendor_address": "272 Rebecca Ramp Apt. 162, Whiteview, MS 43407",
+  "vendor_tax_id": "TAX00000030",
+  "vendor_bank_account": "XXXX4010",
+  "invoice_number": "PRI-00568",
+  "invoice_date": "2026-01-29",
+  "due_date": "2026-02-28",
+  "purchase_order_number": "PO-00568",
+  "currency": "EUR",
+  "subtotal": 2488.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 447.84,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2935.84,
+  "amount_due": 2935.84,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "461",
+      "tax_rate": "0.18",
+      "line_total": "1844"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "322",
+      "tax_rate": "0.18",
+      "line_total": "644"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Stevens, Scott and Lopez",
+  "vendor_address": "329 Wilcox Passage Suite 161, East Thomas, IA 01396",
+  "vendor_tax_id": "TAX00000114",
+  "vendor_bank_account": "XXXX9333",
+  "invoice_number": "STE2-00012",
+  "invoice_date": "2026-01-13",
+  "due_date": "2026-02-12",
+  "purchase_order_number": "PO-00012",
+  "currency": "INR",
+  "subtotal": 6902.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1242.36,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8144.36,
+  "amount_due": 8144.36,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "77",
+      "tax_rate": "0.18",
+      "line_total": "231"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "242",
+      "tax_rate": "0.18",
+      "line_total": "726"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "252",
+      "tax_rate": "0.18",
+      "line_total": "504"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "389"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "276",
+      "tax_rate": "0.18",
+      "line_total": "828"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "279",
+      "tax_rate": "0.18",
+      "line_total": "558"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "465",
+      "tax_rate": "0.18",
+      "line_total": "465"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "3",
+      "unit_price": "450",
+      "tax_rate": "0.18",
+      "line_total": "1350"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "331",
+      "tax_rate": "0.18",
+      "line_total": "1655"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "98",
+      "tax_rate": "0.18",
+      "line_total": "196"
+    }
+  ],
+  "warnings": []
+}

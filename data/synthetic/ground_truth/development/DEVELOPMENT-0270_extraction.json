@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Landry PLC",
+  "vendor_address": "95004 Harper Ville, Mitchelltown, PR 14590",
+  "vendor_tax_id": "TAX00000103",
+  "vendor_bank_account": "XXXX9105",
+  "invoice_number": "LAN-00270",
+  "invoice_date": "2026-04-01",
+  "due_date": "2026-05-01",
+  "purchase_order_number": "PO-00270",
+  "currency": "EUR",
+  "subtotal": 6966.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1253.88,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8219.88,
+  "amount_due": 8219.88,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "134",
+      "tax_rate": "0.18",
+      "line_total": "536"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "147",
+      "tax_rate": "0.18",
+      "line_total": "441"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "488",
+      "tax_rate": "0.18",
+      "line_total": "1952"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "3",
+      "unit_price": "158",
+      "tax_rate": "0.18",
+      "line_total": "474"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "312",
+      "tax_rate": "0.18",
+      "line_total": "312"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "81",
+      "tax_rate": "0.18",
+      "line_total": "243"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "364",
+      "tax_rate": "0.18",
+      "line_total": "1820"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "111",
+      "tax_rate": "0.18",
+      "line_total": "111"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "2",
+      "unit_price": "431",
+      "tax_rate": "0.18",
+      "line_total": "862"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "43",
+      "tax_rate": "0.18",
+      "line_total": "215"
+    }
+  ],
+  "warnings": []
+}

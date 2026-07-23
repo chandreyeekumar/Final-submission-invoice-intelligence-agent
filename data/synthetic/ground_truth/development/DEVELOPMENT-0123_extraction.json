@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Schneider-Murphy",
+  "vendor_address": "685 Michael Falls, West Stacey, NM 25667",
+  "vendor_tax_id": "TAX00000081",
+  "vendor_bank_account": "XXXX7953",
+  "invoice_number": "SCH1-00123",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-06-03",
+  "purchase_order_number": "PO-00123",
+  "currency": "USD",
+  "subtotal": 6062.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1091.16,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7153.16,
+  "amount_due": 7153.16,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "200",
+      "tax_rate": "0.18",
+      "line_total": "200"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "285"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "256",
+      "tax_rate": "0.18",
+      "line_total": "768"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "39",
+      "tax_rate": "0.18",
+      "line_total": "156"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "208",
+      "tax_rate": "0.18",
+      "line_total": "208"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "3",
+      "unit_price": "59",
+      "tax_rate": "0.18",
+      "line_total": "177"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "334",
+      "tax_rate": "0.18",
+      "line_total": "334"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "279",
+      "tax_rate": "0.18",
+      "line_total": "1395"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "256",
+      "tax_rate": "0.18",
+      "line_total": "1024"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "303",
+      "tax_rate": "0.18",
+      "line_total": "1515"
+    }
+  ],
+  "warnings": []
+}

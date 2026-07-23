@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Perez, Patterson and Hoffman",
+  "vendor_address": "402 Park Inlet, Michaelburgh, VI 19277",
+  "vendor_tax_id": "TAX00000069",
+  "vendor_bank_account": "XXXX6932",
+  "invoice_number": "PER-00880",
+  "invoice_date": "2026-06-10",
+  "due_date": "2026-07-10",
+  "purchase_order_number": "PO-00880",
+  "currency": "EUR",
+  "subtotal": 7376.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1327.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8703.68,
+  "amount_due": 8703.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "216",
+      "tax_rate": "0.18",
+      "line_total": "432"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "317",
+      "tax_rate": "0.18",
+      "line_total": "317"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "289",
+      "tax_rate": "0.18",
+      "line_total": "1156"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "417",
+      "tax_rate": "0.18",
+      "line_total": "2085"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "379",
+      "tax_rate": "0.18",
+      "line_total": "758"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "140",
+      "tax_rate": "0.18",
+      "line_total": "140"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "21",
+      "tax_rate": "0.18",
+      "line_total": "63"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "455",
+      "tax_rate": "0.18",
+      "line_total": "910"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "205",
+      "tax_rate": "0.18",
+      "line_total": "205"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "262",
+      "tax_rate": "0.18",
+      "line_total": "1310"
+    }
+  ],
+  "warnings": []
+}

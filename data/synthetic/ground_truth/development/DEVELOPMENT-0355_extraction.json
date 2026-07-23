@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 355",
+  "vendor_address": "8970 April Points, Whitneyfort, NC 49892",
+  "vendor_tax_id": "TAX00000108",
+  "vendor_bank_account": "XXXX0936",
+  "invoice_number": "ROD2-00355",
+  "invoice_date": "2026-06-25",
+  "due_date": "2026-07-25",
+  "purchase_order_number": "PO-00355",
+  "currency": "EUR",
+  "subtotal": 1959.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 352.62,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 2311.62,
+  "amount_due": 2311.62,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "343",
+      "tax_rate": "0.18",
+      "line_total": "1715"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "122",
+      "tax_rate": "0.18",
+      "line_total": "244"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 66",
+  "vendor_address": "6978 Maddox Wall, Lake Jenniferside, WV 35474",
+  "vendor_tax_id": "TAX00000007",
+  "vendor_bank_account": "XXXX8279",
+  "invoice_number": "BUR-00066",
+  "invoice_date": "2026-03-08",
+  "due_date": "2026-04-07",
+  "purchase_order_number": "PO-00066",
+  "currency": "USD",
+  "subtotal": 6217.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1119.06,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 7336.06,
+  "amount_due": 7336.06,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "1",
+      "unit_price": "440",
+      "tax_rate": "0.18",
+      "line_total": "440"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "225",
+      "tax_rate": "0.18",
+      "line_total": "225"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "57",
+      "tax_rate": "0.18",
+      "line_total": "228"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "342",
+      "tax_rate": "0.18",
+      "line_total": "1710"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "97",
+      "tax_rate": "0.18",
+      "line_total": "97"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "2",
+      "unit_price": "435",
+      "tax_rate": "0.18",
+      "line_total": "870"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "5",
+      "unit_price": "175",
+      "tax_rate": "0.18",
+      "line_total": "875"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "1",
+      "unit_price": "147",
+      "tax_rate": "0.18",
+      "line_total": "147"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "1",
+      "unit_price": "305",
+      "tax_rate": "0.18",
+      "line_total": "305"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "1320"
+    }
+  ],
+  "warnings": []
+}

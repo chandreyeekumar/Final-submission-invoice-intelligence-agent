@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Wright-Wilson",
+  "vendor_address": "681 Hampton Squares Suite 394, Gonzalezberg, PR 10207",
+  "vendor_tax_id": "TAX00000094",
+  "vendor_bank_account": "XXXX4092",
+  "invoice_number": "WRI-00354",
+  "invoice_date": "2026-06-24",
+  "due_date": "2026-07-24",
+  "purchase_order_number": "PO-00354",
+  "currency": "INR",
+  "subtotal": 10070.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1812.6,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 11882.6,
+  "amount_due": 11882.6,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "330",
+      "tax_rate": "0.18",
+      "line_total": "1650"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "278",
+      "tax_rate": "0.18",
+      "line_total": "834"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "234",
+      "tax_rate": "0.18",
+      "line_total": "936"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "488",
+      "tax_rate": "0.18",
+      "line_total": "2440"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "160",
+      "tax_rate": "0.18",
+      "line_total": "320"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "195",
+      "tax_rate": "0.18",
+      "line_total": "780"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "251",
+      "tax_rate": "0.18",
+      "line_total": "753"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "90",
+      "tax_rate": "0.18",
+      "line_total": "180"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "328",
+      "tax_rate": "0.18",
+      "line_total": "1312"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "173",
+      "tax_rate": "0.18",
+      "line_total": "865"
+    }
+  ],
+  "warnings": []
+}

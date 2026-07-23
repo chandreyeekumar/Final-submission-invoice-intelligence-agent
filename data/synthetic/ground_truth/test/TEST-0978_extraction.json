@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Wilson, Hicks and Bullock",
+  "vendor_address": "12432 Kathleen Shoal, East Stephaniefort, NH 99387",
+  "vendor_tax_id": "TAX00000075",
+  "vendor_bank_account": "XXXX0344",
+  "invoice_number": "WIL2-00978",
+  "invoice_date": "2026-03-20",
+  "due_date": "2026-04-19",
+  "purchase_order_number": "PO-00978",
+  "currency": "USD",
+  "subtotal": 4520.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 813.6,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5333.6,
+  "amount_due": 5333.6,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "247",
+      "tax_rate": "0.18",
+      "line_total": "1235"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "1",
+      "unit_price": "484",
+      "tax_rate": "0.18",
+      "line_total": "484"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "91",
+      "tax_rate": "0.18",
+      "line_total": "273"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "1884"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "161",
+      "tax_rate": "0.18",
+      "line_total": "644"
+    }
+  ],
+  "warnings": []
+}

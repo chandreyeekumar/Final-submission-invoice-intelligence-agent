@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 152",
+  "vendor_address": "0609 Michael Heights Apt. 687, Marciaville, DC 13173",
+  "vendor_tax_id": "TAX00000104",
+  "vendor_bank_account": "XXXX7973",
+  "invoice_number": "AND1-00152",
+  "invoice_date": "2026-06-02",
+  "due_date": "2026-07-02",
+  "purchase_order_number": "PO-00152",
+  "currency": "EUR",
+  "subtotal": 4738.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 852.84,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 5590.84,
+  "amount_due": 5590.84,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "361",
+      "tax_rate": "0.18",
+      "line_total": "1083"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "383",
+      "tax_rate": "0.18",
+      "line_total": "1149"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "301",
+      "tax_rate": "0.18",
+      "line_total": "301"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "168",
+      "tax_rate": "0.18",
+      "line_total": "840"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "455",
+      "tax_rate": "0.18",
+      "line_total": "1365"
+    }
+  ],
+  "warnings": []
+}

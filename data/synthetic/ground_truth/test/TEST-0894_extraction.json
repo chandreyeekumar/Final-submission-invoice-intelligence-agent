@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Hill Inc",
+  "vendor_address": "5581 Edward Lights, Lake Jason, MT 53925",
+  "vendor_tax_id": "TAX00000028",
+  "vendor_bank_account": "XXXX1169",
+  "invoice_number": "HIL-00894",
+  "invoice_date": "2026-06-24",
+  "due_date": "2026-07-24",
+  "purchase_order_number": "PO-00894",
+  "currency": "EUR",
+  "subtotal": 7509.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1351.62,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8860.62,
+  "amount_due": 8860.62,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "276",
+      "tax_rate": "0.18",
+      "line_total": "552"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "393",
+      "tax_rate": "0.18",
+      "line_total": "1965"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "353",
+      "tax_rate": "0.18",
+      "line_total": "1765"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "496",
+      "tax_rate": "0.18",
+      "line_total": "2480"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "249",
+      "tax_rate": "0.18",
+      "line_total": "747"
+    }
+  ],
+  "warnings": []
+}

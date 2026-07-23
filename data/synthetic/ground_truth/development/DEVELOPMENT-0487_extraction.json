@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Chambers, Richards and Cars0n",
+  "vendor_address": "USS Leonard, FPO AA 03781",
+  "vendor_tax_id": "TAX00000059",
+  "vendor_bank_account": "XXXX6126",
+  "invoice_number": "CHA-00487",
+  "invoice_date": "2026-05-08",
+  "due_date": "2026-06-07",
+  "purchase_order_number": "PO-00487",
+  "currency": "USD",
+  "subtotal": 1206.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 217.08,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 1423.08,
+  "amount_due": 1423.08,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "471",
+      "tax_rate": "0.18",
+      "line_total": "942"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "66",
+      "tax_rate": "0.18",
+      "line_total": "264"
+    }
+  ],
+  "warnings": []
+}

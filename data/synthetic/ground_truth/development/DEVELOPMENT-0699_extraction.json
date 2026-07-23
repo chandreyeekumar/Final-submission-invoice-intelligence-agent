@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Unregistered Phantom Supplier 699",
+  "vendor_address": "711 Christopher Court, Lisaside, AR 77370",
+  "vendor_tax_id": "TAX00000067",
+  "vendor_bank_account": "XXXX7787",
+  "invoice_number": "DAV-00699",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-07-09",
+  "purchase_order_number": "PO-00699",
+  "currency": "USD",
+  "subtotal": 10891.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1960.38,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 12851.38,
+  "amount_due": 12851.38,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "275",
+      "tax_rate": "0.18",
+      "line_total": "1375"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "245",
+      "tax_rate": "0.18",
+      "line_total": "980"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "4",
+      "unit_price": "394",
+      "tax_rate": "0.18",
+      "line_total": "1576"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "441",
+      "tax_rate": "0.18",
+      "line_total": "1764"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "2",
+      "unit_price": "93",
+      "tax_rate": "0.18",
+      "line_total": "186"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "85",
+      "tax_rate": "0.18",
+      "line_total": "425"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "4",
+      "unit_price": "384",
+      "tax_rate": "0.18",
+      "line_total": "1536"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "86",
+      "tax_rate": "0.18",
+      "line_total": "344"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "5",
+      "unit_price": "461",
+      "tax_rate": "0.18",
+      "line_total": "2305"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "5",
+      "unit_price": "80",
+      "tax_rate": "0.18",
+      "line_total": "400"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Mejia Inc",
+  "vendor_address": "4752 Kelly Skyway, Jacquelineland, PA 83728",
+  "vendor_tax_id": "TAX00000004",
+  "vendor_bank_account": "XXXX8935",
+  "invoice_number": "MEJ-00564",
+  "invoice_date": "2026-01-25",
+  "due_date": "2026-02-24",
+  "purchase_order_number": "PO-00564",
+  "currency": "EUR",
+  "subtotal": 7299.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1313.82,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8612.82,
+  "amount_due": 8612.82,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "389",
+      "tax_rate": "0.18",
+      "line_total": "778"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "323",
+      "tax_rate": "0.18",
+      "line_total": "1292"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "5",
+      "unit_price": "186",
+      "tax_rate": "0.18",
+      "line_total": "930"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "4",
+      "unit_price": "121",
+      "tax_rate": "0.18",
+      "line_total": "484"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "3",
+      "unit_price": "137",
+      "tax_rate": "0.18",
+      "line_total": "411"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "1",
+      "unit_price": "186",
+      "tax_rate": "0.18",
+      "line_total": "186"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "2",
+      "unit_price": "70",
+      "tax_rate": "0.18",
+      "line_total": "140"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "2",
+      "unit_price": "397",
+      "tax_rate": "0.18",
+      "line_total": "794"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "465",
+      "tax_rate": "0.18",
+      "line_total": "1860"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "2",
+      "unit_price": "212",
+      "tax_rate": "0.18",
+      "line_total": "424"
+    }
+  ],
+  "warnings": []
+}

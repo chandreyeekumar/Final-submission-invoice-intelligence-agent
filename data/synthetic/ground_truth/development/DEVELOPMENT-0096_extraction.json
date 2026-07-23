@@ -1,0 +1,92 @@
+{
+  "vendor_name": "C0llier, Jimenez and Moran",
+  "vendor_address": "7737 Patrick Rapid Apt. 146, Sarahhaven, KY 00837",
+  "vendor_tax_id": "TAX00000048",
+  "vendor_bank_account": "XXXX6304",
+  "invoice_number": "COL-00096",
+  "invoice_date": "2026-04-07",
+  "due_date": "2026-05-07",
+  "purchase_order_number": "PO-00096",
+  "currency": "EUR",
+  "subtotal": 7416.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1334.88,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 8750.88,
+  "amount_due": 8750.88,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "215",
+      "tax_rate": "0.18",
+      "line_total": "1075"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "75",
+      "tax_rate": "0.18",
+      "line_total": "225"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "2",
+      "unit_price": "261",
+      "tax_rate": "0.18",
+      "line_total": "522"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "337",
+      "tax_rate": "0.18",
+      "line_total": "337"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "5",
+      "unit_price": "187",
+      "tax_rate": "0.18",
+      "line_total": "935"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "5",
+      "unit_price": "133",
+      "tax_rate": "0.18",
+      "line_total": "665"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "1",
+      "unit_price": "345",
+      "tax_rate": "0.18",
+      "line_total": "345"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "4",
+      "unit_price": "485",
+      "tax_rate": "0.18",
+      "line_total": "1940"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "3",
+      "unit_price": "352",
+      "tax_rate": "0.18",
+      "line_total": "1056"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "4",
+      "unit_price": "79",
+      "tax_rate": "0.18",
+      "line_total": "316"
+    }
+  ],
+  "warnings": []
+}

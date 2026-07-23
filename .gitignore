@@ -1,0 +1,60 @@
+.env
+.venv/
+
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+.vscode/
+.idea/
+
+frontend/node_modules/
+frontend/dist/
+
+data/runtime/
+data/chroma/
+data/synthetic/documents/
+
+eval/reports/
+
+*.db
+*.sqlite
+*.sqlite3
+
+.DS_Store
+Thumbs.db
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Frontend generated files
+frontend/node_modules/
+frontend/dist/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Large downloaded datasets and archives
+data/public/sroie_source/
+*.zip
+
+# Runtime-generated data
+data/runtime/
+data/chroma/
+data/eval_runtime/
+
+# Generated reports and databases
+eval/reports/
+*.db
+*.sqlite
+*.sqlite3
+*.log

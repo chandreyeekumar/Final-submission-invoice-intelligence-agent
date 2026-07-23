@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Little, Leon and Hicks",
+  "vendor_address": "37058 Mcdonald Plaza, New Nicole, CA 41040",
+  "vendor_tax_id": "TAX00000096",
+  "vendor_bank_account": "XXXX8856",
+  "invoice_number": "LIT-00454",
+  "invoice_date": "2026-04-05",
+  "due_date": "2026-05-05",
+  "purchase_order_number": "PO-00454",
+  "currency": "USD",
+  "subtotal": 2611.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 469.98,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3080.98,
+  "amount_due": 3080.98,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "3",
+      "unit_price": "365",
+      "tax_rate": "0.18",
+      "line_total": "1095"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "379",
+      "tax_rate": "0.18",
+      "line_total": "1516"
+    }
+  ],
+  "warnings": []
+}

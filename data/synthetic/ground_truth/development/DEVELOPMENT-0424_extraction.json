@@ -1,0 +1,36 @@
+{
+  "vendor_name": "Anderson-Baker",
+  "vendor_address": "0609 Michael Heights Apt. 687, Marciaville, DC 13173",
+  "vendor_tax_id": "TAX00000104",
+  "vendor_bank_account": "XXXX7973",
+  "invoice_number": "AND1-00424",
+  "invoice_date": "2026-03-06",
+  "due_date": "2026-04-05",
+  "purchase_order_number": "PO-00424",
+  "currency": "EUR",
+  "subtotal": 3376.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 607.68,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3983.68,
+  "amount_due": 3983.68,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "312",
+      "tax_rate": "0.18",
+      "line_total": "1560"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "4",
+      "unit_price": "454",
+      "tax_rate": "0.18",
+      "line_total": "1816"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "vendor_name": "Larson Ltd",
+  "vendor_address": "93990 Robert Prairie Suite 435, West Randy, TN 85108",
+  "vendor_tax_id": "TAX00000015",
+  "vendor_bank_account": "XXXX1584",
+  "invoice_number": "LAR-00793",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-04-14",
+  "purchase_order_number": "PO-00793",
+  "currency": "USD",
+  "subtotal": 10608.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 1909.44,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 12517.44,
+  "amount_due": 12517.44,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "4",
+      "unit_price": "223",
+      "tax_rate": "0.18",
+      "line_total": "892"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "5",
+      "unit_price": "481",
+      "tax_rate": "0.18",
+      "line_total": "2405"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "1",
+      "unit_price": "285",
+      "tax_rate": "0.18",
+      "line_total": "285"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "2",
+      "unit_price": "468",
+      "tax_rate": "0.18",
+      "line_total": "936"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "4",
+      "unit_price": "104",
+      "tax_rate": "0.18",
+      "line_total": "416"
+    },
+    {
+      "description": "Item 6",
+      "quantity": "4",
+      "unit_price": "149",
+      "tax_rate": "0.18",
+      "line_total": "596"
+    },
+    {
+      "description": "Item 7",
+      "quantity": "3",
+      "unit_price": "276",
+      "tax_rate": "0.18",
+      "line_total": "828"
+    },
+    {
+      "description": "Item 8",
+      "quantity": "5",
+      "unit_price": "357",
+      "tax_rate": "0.18",
+      "line_total": "1785"
+    },
+    {
+      "description": "Item 9",
+      "quantity": "4",
+      "unit_price": "320",
+      "tax_rate": "0.18",
+      "line_total": "1280"
+    },
+    {
+      "description": "Item 10",
+      "quantity": "3",
+      "unit_price": "395",
+      "tax_rate": "0.18",
+      "line_total": "1185"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+{
+  "vendor_name": "Mcd0nald Inc",
+  "vendor_address": "685 Krystal Bridge, Amandamouth, MN 88689",
+  "vendor_tax_id": "TAX00000058",
+  "vendor_bank_account": "XXXX9977",
+  "invoice_number": "MCD-00350",
+  "invoice_date": "2026-06-20",
+  "due_date": "2026-07-20",
+  "purchase_order_number": "PO-00350",
+  "currency": "EUR",
+  "subtotal": 2643.0,
+  "discount": 0.0,
+  "shipping": 0.0,
+  "tax_total": 475.74,
+  "previous_balance": 0.0,
+  "credit_adjustment": 0.0,
+  "total": 3118.74,
+  "amount_due": 3118.74,
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "2",
+      "unit_price": "21",
+      "tax_rate": "0.18",
+      "line_total": "42"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "3",
+      "unit_price": "201",
+      "tax_rate": "0.18",
+      "line_total": "603"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "300",
+      "tax_rate": "0.18",
+      "line_total": "900"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "5",
+      "unit_price": "211",
+      "tax_rate": "0.18",
+      "line_total": "1055"
+    },
+    {
+      "description": "Item 5",
+      "quantity": "1",
+      "unit_price": "43",
+      "tax_rate": "0.18",
+      "line_total": "43"
+    }
+  ],
+  "warnings": []
+}
