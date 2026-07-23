@@ -69,4 +69,4 @@ HEALTHCHECK \
         http://127.0.0.1:7860/api/health/live \
         || exit 1
 
-CMD ["sh", "-c", "python -m alembic upgrade head && python -m uvicorn app.main:app --host 0.0.0.0 --port ${PORT}"]
+CMD ["sh", "-c", "python -m alembic upgrade head && python -m scripts.generate_vendor_templates && python -m scripts.seed_chroma && python -m uvicorn app.main:app --host 0.0.0.0 --port ${PORT}"]
